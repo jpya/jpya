@@ -71,7 +71,32 @@ https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
 
 
 
+#EXTINF:-1 group-logo="https://w7.pngwing.com/pngs/230/935/png-transparent-winter-olympic-games-logo-sport-national-olympic-committee-ring-love-ring-text.png"  group-title="Juegos Olimpicos"  tvg-name="test" tvg-id="None" tvg-logo="https://w7.pngwing.com/pngs/230/935/png-transparent-winter-olympic-games-logo-sport-national-olympic-committee-ring-love-ring-text.png",Eurosport1[UK]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/eplayereurosp1/playlist.m3u8
 
+
+#EXTINF:-1 group-logo="https://w7.pngwing.com/pngs/230/935/png-transparent-winter-olympic-games-logo-sport-national-olympic-committee-ring-love-ring-text.png"  group-title="Juegos Olimpicos"  tvg-name="test" tvg-id="None" tvg-logo="https://w7.pngwing.com/pngs/230/935/png-transparent-winter-olympic-games-logo-sport-national-olympic-committee-ring-love-ring-text.png",SuperSportRugby[SouthAfrica]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/eplayerSuperSportRugby/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://w7.pngwing.com/pngs/230/935/png-transparent-winter-olympic-games-logo-sport-national-olympic-committee-ring-love-ring-text.png"  group-title="Juegos Olimpicos"  tvg-name="test" tvg-id="None" tvg-logo="https://w7.pngwing.com/pngs/230/935/png-transparent-winter-olympic-games-logo-sport-national-olympic-committee-ring-love-ring-text.png",SuperSportPremierLeague[SouthAfrica]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/eplayerSuperSportPL/playlist.m3u8
+
+
+#EXTINF:-1 group-logo="https://w7.pngwing.com/pngs/230/935/png-transparent-winter-olympic-games-logo-sport-national-olympic-committee-ring-love-ring-text.png"  group-title="Juegos Olimpicos"  tvg-name="test" tvg-id="None" tvg-logo="https://w7.pngwing.com/pngs/230/935/png-transparent-winter-olympic-games-logo-sport-national-olympic-committee-ring-love-ring-text.png",USANetwork[USA]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/usanetwork/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://w7.pngwing.com/pngs/230/935/png-transparent-winter-olympic-games-logo-sport-national-olympic-committee-ring-love-ring-text.png"  group-title="Juegos Olimpicos"  tvg-name="test" tvg-id="None" tvg-logo="https://w7.pngwing.com/pngs/230/935/png-transparent-winter-olympic-games-logo-sport-national-olympic-committee-ring-love-ring-text.png",SuperSportVariety4[SouthAfrica]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/eplayerSuperSportVariety4/playlist.m3u8
 -------
 -------
 
