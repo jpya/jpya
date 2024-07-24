@@ -2,6 +2,114 @@
 
 
 
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://1qwebplay.xyz/
+https://mono2024.mizhls.ru/lb/mono29/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",test 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://speci4leagle.com/
+https://n2.dramaticreadings.com:999/hls/spstream2.m3u8?md5=-T3Xq_F7NRzdBOnIZOBQsg&expires=1721779205
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",sportv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://maxs.mizhls.ru/lb/eplayerSPORTTV1/playlist.m3u8
+
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",sportv 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://maxs.mizhls.ru/lb/eplayerSPORTTV2/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",sportv 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://maxs.mizhls.ru/lb/eplayerSPORTTV4/playlist.m3u8
+
+
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",ACCNetwork(USA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/accn/playlist.m3u8
+
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",Directv(ecuador(
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/directv/playlist.m3u8
+
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",ESPN Premiun(arg)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/arg_espn_premium/playlist.m3u8
+
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",SkySportsF1[UK]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/eplayerskyf1/playlist.m3u8
+
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",SkySportsFootball[UK]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/eplayerskyfoot/playlist.m3u8
+
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",SkySportsGolf[UK]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/skygolf/playlist.m3u8
+
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",SkySportsMainEvent[UK]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/eplayerskymain2/playlist.m3u8
+
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",SkySportsPremierLeague[UK]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/eplayerSKYPL/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",SkySportsCricket[UK]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/eplayerskycric/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",SkySportsArena[UK]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/skyarena/playlist.m3u8
+
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",SkySportsAction[UK]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/skyaction/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",SkySportTopEvent[Germany]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/eplayerSky_Sport_Top_Event_HD/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",SkySportTennis[Germany]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/eplayerSky_Sport_Tennis_HD/playlist.m3u8
+
+
+
+
+
+---------
+---------
+
 
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9641/9641515.png"   group-title="EXCLUSIVO 365TV Digital" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/641/138/small/360-design-creative-concept-vector.jpg" ,800 CANAL EXCLUSIVO 1
 https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
@@ -90,62 +198,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/o
 
 
 
-
-#EXTINF:-1  group-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5b3ef5178266173.653c678f16ee5.png"  tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5b3ef5178266173.653c678f16ee5.png" group-title="INTENSAMENTE 2 "LA PELICULA"", INTENSAMENTE 2
-https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/17/20/58/63r8Yesx8sg6/media/hls/master.m3u8
-
-
-
-
-
-#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", LOS DEL FUEGO
-https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/21/16/7/A4iOBesHMMN9/media/hls/master.m3u8
-
-
-#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", LOS PIBES CHORROS
-https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/21/15/22/73ewHtp28pHc/media/hls/master.m3u8
-
-#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", LEO MATIOLI
-https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/7/8/16/14/Prc1l5FrCPSP/media/hls/master.m3u8
-
-
-#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", LOS PALMERAS
-https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/13/19/24/Qtfa04LcVrWr/media/hls/master.m3u8
-
-
-#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", LA NUEVA LUNA
-https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/13/20/7/OHu86dL4Cn3l/media/hls/master.m3u8
-
-#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", LO MAS ESCUCHADO 2024
-https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/13/23/31/nN2bC9YrDe8W/media/hls/master.m3u8
-
-#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", SABROSO
-https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/14/0/12/Bne2yymiFwR7/media/hls/master.m3u8
-
-#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", KARINA
-https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/14/0/39/qH6rChcwhP3U/media/hls/master.m3u8
-
-
-#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", ANTO MATEI
-https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/14/12/20/xGEx3kygwYyP/media/hls/master.m3u8
-
-#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", RODRIGO TAPARI
-https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/14/16/52/sVpQaOXKp3Um/media/hls/master.m3u8
-
-#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", MARCO ANTONIO SOLIS
-https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/7/7/23/14/7KW3tuzlcoxl/media/hls/master.m3u8
-
-
-
-
-
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", FIXTURE COMPLETO EUROCOPA
-https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/12/22/4/CvOvpYAjwLpo/media/hls/master.m3u8
-
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", FIXTURE COMPLETO COPA AMERICA
-https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/12/21/59/JEVOEe171n52/media/hls/master.m3u8
-
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
@@ -153,7 +205,7 @@ https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/12/21/59/JEVOEe1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", EVENTOS 1
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="EVENTOS", EVENTOS 1
 https://edge-live31-sl.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
 
 
@@ -167,7 +219,7 @@ https://edge-live31-sl.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Even
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e54e9ea87a634658fbba0e380aa701a7:4e486d25d7d0e7d131743b285963c643
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", EVENTOS 2
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="EVENTOS", EVENTOS 2
 https://edge-live32-hr.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd
 
 
@@ -178,34 +230,11 @@ https://edge-live32-hr.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Ev
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", LA1 españa (toda la eurocopa)
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="EVENTOS", LA1 españa (toda la eurocopa)
 https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
 
 
 
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", TELEFE (🇦🇷) 
-https://edge-live34-hr.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
-
-
-
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"   tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", EXCLUSIVO 1 365
-https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
-
-
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"   tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", EXCLUSIVO 2 365 
-https://cdnhd.iblups.com/hls/wCdPAY5bmT.m3u8
-
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"   tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", Directv  sports
-#EXTVLCOPT:http-referrer=https://live.sdfgnksbounce.com/
-https://live.sdfgnksbounce.com:8080/NDUuNy4yMDkuMTk5/20_.m3u8?token=l1GYvDsvB3N-Zl-MTQ_umg&expires=1721186612
 
 
 
@@ -235,6 +264,8 @@ https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/i
 
 ----------------4g----------
 --------------------------
+
+
 
 
 
@@ -506,8 +537,78 @@ https://smt-edge03.sensa.com.ar/live/eds/AmericaSports/live_dash_cld/AmericaSpor
 
 
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/160/160/0/0/62685863076950.png" group-title="4g lista", 118 UNIVERSAL PREMIERE (🇦🇷) ss
+https://smt-edge03.sensa.com.ar/live/eds/UniPre/live_dash_cld/UniPre.mpd
 
 
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png" group-title="4g lista", 119 UNIVERSAL CRIME (🇦🇷) ss
+https://smt-edge03.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png" group-title="4g lista", 120 UNIVERSAL CINEMA (🇦🇷) ss
+https://smt-edge03.sensa.com.ar/live/eds/UniCin/live_dash_cld/UniCin.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/160/160/0/0/24764893076951.png" group-title="4g lista", 121 UNIVERSAL REALITY (🇦🇷) ss
+https://smt-edge03.sensa.com.ar/live/eds/UniRea/live_dash_cld/UniRea.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png" group-title="4g lista", 112 HBO FAMILY (🇦🇷) ss
+https://smt-edge03.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png" group-title="4g lista", 113 HBO PLUS (🇦🇷) ss
+https://smt-edge03.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1   group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/160/160/0/0/6041444607334.png" group-title="4g lista", 114 HBO XTREME (🇦🇷) ss
+https://smt-edge03.sensa.com.ar/live/eds/MAXPrime/live_dash_cld/MAXPrime.mpd
 
 
 
@@ -2704,7 +2805,12 @@ CLARO SPORTS
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_LATAM_HD)/manifest.mpd
 
 
- 
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/857/857455.png" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/32/ClaroSportsLogo.png/revision/latest/thumbnail/width/360/height/360?cb=20151222200513&path-prefix=es" group-title="DEPORTES VARIOS" ,309 CLARO opc 2 SPORTS (🇨🇴) clr
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a66666000086712d7livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+
+
 
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/857/857455.png" group-title="DEPORTES VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" ,310 TRACE SPORTS (🇺🇸) m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -3372,6 +3478,44 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6080381ab7c9ea00074ec
 
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/5537/5537635.png" tvg-logo="https://image.roku.com/developer_channels/prod/27b05cc60a5abb162cf8af100d030154f00015a942703223fbf079993a6a9f45.png" group-title="POKER TOUR" , 601 POKER TOUR ing
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+
+
+#EXTINF:-1 group-logo="-" tvg-logo="-" group-title="OTROS" , 5088
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+
+#EXTINF:-1 group-logo="-" tvg-logo="-" group-title="OTROS" , 5090
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090
+
+#EXTINF:-1 group-logo="-" tvg-logo="-" group-title="OTROS" , DEPORTES ITV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5093
+
+#EXTINF:-1 group-logo="-" tvg-logo="-" group-title="OTROS" , 2380
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+
+#EXTINF:-1 group-logo="-" tvg-logo="-" group-title="OTROS" , 2385
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2385
+
+#EXTINF:-1 group-logo="-" tvg-logo="-" group-title="OTROS" , 2386
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2386
+
+#EXTINF:-1 group-logo="-" tvg-logo="-" group-title="OTROS" , 2387
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2387
+
+#EXTINF:-1 group-logo="-" tvg-logo="-" group-title="OTROS" , 2388
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2388
+
+#EXTINF:-1 group-logo="-" tvg-logo="-" group-title="OTROS" , BIILARD TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2867
+
+#EXTINF:-1 group-logo="-" tvg-logo="-" group-title="OTROS" , 2868
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2868
+
+
+
+
 
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5537/5537635.png" tvg-logo="https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="POKER TOUR" ,Poker Go 
 https://linear-426.frequency.stream/dist/localnow/426/hls/master/playlist.m3u8
