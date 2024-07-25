@@ -144,6 +144,11 @@ https://topembed.mizhls.ru/lb/directv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://streamtp.live/
 https://obla.pricesaskeloadsc.com/global/dsports/index.m3u8?token=9d55ff26e59340a4e77666f4fb31a8c33fbc5455-d4-1721901303-1721865303
 
+#EXTINF:-1 group-logo="-"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="-",Directv opc 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la10hd.com/
+https://zgvzdglueq.la10tv.com/lb/dsports/index.m3u8?token=a3fa5256c2493be4c2e3c3d34c29f6225cc19ccc-58cccce896ace169a27aebde42a6c473-1721901996-1721865996&remote=45.7.209.199
+
 
 #EXTINF:-1 group-logo="-"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="-",ESPN Premiun(arg)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
