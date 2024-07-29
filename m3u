@@ -1,5 +1,13 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Directv(ecuador)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/directv/playlist.m3u8
+
+
+
 juegos olimpicos----
 ---------------------
 
@@ -97,102 +105,145 @@ https://topembed.mizhls.ru/lb/usanetwork/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/eplayerSuperSportVariety4/playlist.m3u8
+
+
+#EXTINF:-1 group-logo="https://w7.pngwing.com/pngs/230/935/png-transparent-winter-olympic-games-logo-sport-national-olympic-committee-ring-love-ring-text.png"  group-title="Juegos Olimpicos"  tvg-name="test" tvg-id="None" tvg-logo="https://w7.pngwing.com/pngs/230/935/png-transparent-winter-olympic-games-logo-sport-national-olympic-committee-ring-love-ring-text.png",Claro Sports
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a66666000086712d7livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+
+
 -------
 -------
 
 
-#EXTINF:-1 group-logo="-"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://futbollibreenvivo.org/wp-content/uploads/2023/10/Sportv-BR-En-Vivo.png",sportv
+
+
+
+
+
+
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://futbollibreenvivo.org/wp-content/uploads/2023/10/Sportv-BR-En-Vivo.png",sportv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://maxs.mizhls.ru/lb/eplayerSPORTTV1/playlist.m3u8
 
 
-#EXTINF:-1 group-logo="-"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://futbollibreenvivo.org/wp-content/uploads/2023/10/Sportv-BR-En-Vivo.png",sportv 2
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://futbollibreenvivo.org/wp-content/uploads/2023/10/Sportv-BR-En-Vivo.png",sportv 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://maxs.mizhls.ru/lb/eplayerSPORTTV2/playlist.m3u8
 
-#EXTINF:-1 group-logo="-"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://futbollibreenvivo.org/wp-content/uploads/2023/10/Sportv-BR-En-Vivo.png",sportv 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://maxs.mizhls.ru/lb/eplayerSPORTTV4/playlist.m3u8
 
 
-
-#EXTINF:-1 group-logo="-"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2013/05/accnetworklogo.png",ACCNetwork(USA)
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2013/05/accnetworklogo.png",ACCNetwork(USA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/accn/playlist.m3u8
 
 
-#EXTINF:-1 group-logo="-"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Directv(ecuador)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/directv/playlist.m3u8
 
-
-#EXTINF:-1 group-logo="-"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="-",ESPN Premiun(arg)
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png",ESPN Premiun(arg)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/arg_espn_premium/playlist.m3u8
 
 
-#EXTINF:-1 group-logo="-"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://epgx.site/p/sky-sports-f1.png",SkySportsF1[UK]
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://epgx.site/p/sky-sports-f1.png",SkySportsF1[UK]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/eplayerskyf1/playlist.m3u8
 
 
-#EXTINF:-1 group-logo="-"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://epgx.site/p/sky-sports-football.png",SkySportsFootball[UK]
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://epgx.site/p/sky-sports-football.png",SkySportsFootball[UK]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/eplayerskyfoot/playlist.m3u8
 
 
-#EXTINF:-1 group-logo="-"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://epgx.site/p/sky-sports-golf.png",SkySportsGolf[UK]
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://epgx.site/p/sky-sports-golf.png",SkySportsGolf[UK]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/skygolf/playlist.m3u8
 
 
-#EXTINF:-1 group-logo="-"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/sites/4/2017/07/Sky-Sports-MAIN-EVENT-pic-770x431.jpg",SkySportsMainEvent[UK]
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/sites/4/2017/07/Sky-Sports-MAIN-EVENT-pic-770x431.jpg",SkySportsMainEvent[UK]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/eplayerskymain2/playlist.m3u8
 
 
-#EXTINF:-1 group-logo="-"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-premier-league-uk.svg",SkySportsPremierLeague[UK]
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-premier-league-uk.svg",SkySportsPremierLeague[UK]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/eplayerSKYPL/playlist.m3u8
 
-#EXTINF:-1 group-logo="-"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://epgx.site/p/sky-sports-cricket.png",SkySportsCricket[UK]
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://epgx.site/p/sky-sports-cricket.png",SkySportsCricket[UK]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/eplayerskycric/playlist.m3u8
 
-#EXTINF:-1 group-logo="-"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://epgx.site/p/sky-sports-arena.png",SkySportsArena[UK]
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://epgx.site/p/sky-sports-arena.png",SkySportsArena[UK]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/skyarena/playlist.m3u8
 
 
-#EXTINF:-1 group-logo="-"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://epgx.site/p/sky-sports-action.png",SkySportsAction[UK]
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://epgx.site/p/sky-sports-action.png",SkySportsAction[UK]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/skyaction/playlist.m3u8
 
-#EXTINF:-1 group-logo="-"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://www.sky-angebote.info/wp-content/uploads/2022/07/1014_sky_logo_sky-sport-top-event-hd_tvguide.png",SkySportTopEvent[Germany]
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://www.sky-angebote.info/wp-content/uploads/2022/07/1014_sky_logo_sky-sport-top-event-hd_tvguide.png",SkySportTopEvent[Germany]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/eplayerSky_Sport_Top_Event_HD/playlist.m3u8
 
-#EXTINF:-1 group-logo="-"  group-title="test"  tvg-name="test" tvg-id="None" tvg-logo="https://pbs.twimg.com/profile_images/1752313472325431296/jr-YrkR6_400x400.png",SkySportTennis[Germany]
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://pbs.twimg.com/profile_images/1752313472325431296/jr-YrkR6_400x400.png",SkySportTennis[Germany]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/eplayerSky_Sport_Tennis_HD/playlist.m3u8
 
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png",ArenaPremium1[Serbia]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/PSAYLeDk13/playlist.m3u8
 
+
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png",ArenaPremium2[Serbia]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/L6yvArfUzp/playlist.m3u8
+
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png",ArenaPremium3[Serbia]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/KgVCSp1RDW/playlist.m3u8
+
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/arena-sport-1.png",ArenaSports1[Serbia]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/AFhfaVrEP8/playlist.m3u8
+
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/arena-sport-2.png",ArenaSports2[Serbia]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/lqvV0FpRPe/playlist.m3u8
+
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://vpn.stream2watch.com/images/streams/243/600x400/16619570448103.png",ArenaSports3[Serbia]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/vORsycz0lP/playlist.m3u8
+
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/cvlppn1643205563.png",ArenaSports4[Serbia]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/nUqd9LGgc3/playlist.m3u8
+
+
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2kuqly1643205772.png",ArenaSports5[Serbia]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/z5WNdkXYLu/playlist.m3u8
 
 
 
