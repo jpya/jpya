@@ -267,6 +267,21 @@ https://topembed.mizhls.ru/lb/eplayerdigitvbt3/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/eplayerdigitvbt4/playlist.m3u8
 
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://www.logolynx.com/images/logolynx/ae/aed258525360eeab53e71964687f94bd.png",ESPN[USA]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/eplayerespn_usa/playlist.m3u8
+
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://www.logolynx.com/images/logolynx/ae/aed258525360eeab53e71964687f94bd.png",ESPN2(USA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/eplayerespn2_usa/playlist.m3u8
+
+
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://www.logolynx.com/images/logolynx/ae/aed258525360eeab53e71964687f94bd.png",ESPNDeportes[USA]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/eplayerespn_dep/playlist.m3u8
 
 
 
