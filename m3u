@@ -245,7 +245,27 @@ https://topembed.mizhls.ru/lb/nUqd9LGgc3/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/z5WNdkXYLu/playlist.m3u8
 
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://cdn.eslgaming.com/misc/gfx/media/play/latinamerica/fifa/TNT/tnt-logo.png",TNTSports1[UK]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/eplayerdigitvbt1/playlist.m3u8
 
+
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://cdn.eslgaming.com/misc/gfx/media/play/latinamerica/fifa/TNT/tnt-logo.png",TNTSports2[UK]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/eplayerdigitvbt2/playlist.m3u8
+
+
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://cdn.eslgaming.com/misc/gfx/media/play/latinamerica/fifa/TNT/tnt-logo.png",TNTSports3[UK]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/eplayerdigitvbt3/playlist.m3u8
+
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://cdn.eslgaming.com/misc/gfx/media/play/latinamerica/fifa/TNT/tnt-logo.png",TNTSports4[UK]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/eplayerdigitvbt4/playlist.m3u8
 
 
 
