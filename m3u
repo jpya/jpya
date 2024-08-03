@@ -4,11 +4,6 @@
 
 
 
-
-
-
-
-
 #EXTINF:-1,group-logo="-"  group-title="PACK"  tvg-name="test" tvg-id="None" tvg-logo="-",ESPN +
 http://170.82.37.21:8000/play/a04g/index.m3u8
 #EXTINF:-1,group-logo="-"  group-title="PACK"  tvg-name="test" tvg-id="None" tvg-logo="-",espn 2 HD
@@ -41,6 +36,26 @@ https://bwfrzq.la10tv.com/dsports/index.m3u8?token=6f36db20f1583b89bd3ec7dcc60e4
 
 juegos olimpicos----
 ---------------------
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTINF:-1  group-logo="https://w7.pngwing.com/pngs/230/935/png-transparent-winter-olympic-games-logo-sport-national-olympic-committee-ring-love-ring-text.png"  tvg-logo="https://w7.pngwing.com/pngs/230/935/png-transparent-winter-olympic-games-logo-sport-national-olympic-committee-ring-love-ring-text.png" group-title="Juegos Olimpicos", EVENTOS 3 ss
+https://csc-ptn-edge01.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTINF:-1  group-logo="https://w7.pngwing.com/pngs/230/935/png-transparent-winter-olympic-games-logo-sport-national-olympic-committee-ring-love-ring-text.png"  tvg-logo="https://w7.pngwing.com/pngs/230/935/png-transparent-winter-olympic-games-logo-sport-national-olympic-committee-ring-love-ring-text.png" group-title="Juegos Olimpicos", EVENTOS 4 ss
+https://csc-ptn-edge01.sensa.com.ar/bpk-tv/SensaEventos1/default/index.mpd
+
+
 
 #EXTINF:-1 group-logo="https://w7.pngwing.com/pngs/230/935/png-transparent-winter-olympic-games-logo-sport-national-olympic-committee-ring-love-ring-text.png"  group-title="Juegos Olimpicos"  tvg-name="test" tvg-id="None" tvg-logo="https://w7.pngwing.com/pngs/230/935/png-transparent-winter-olympic-games-logo-sport-national-olympic-committee-ring-love-ring-text.png",Universo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
