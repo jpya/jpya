@@ -26,10 +26,6 @@ http://170.82.37.21:8000/play/a00y/index.m3u8
 https://topembed.mizhls.ru/lb/directv/playlist.m3u8
 
 
-#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Directv(ecuador)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la10hd.com/
-https://bwfrzq.la10tv.com/dsports/index.m3u8?token=6f36db20f1583b89bd3ec7dcc60e41d93347f2ec-80ae83dd610057f90d02e8ad4c706192-1722645563-1722609563
 
 
 
