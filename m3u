@@ -42,23 +42,32 @@ https://cdn.sensa.com.ar/bpk-tv/claroSports3/default/index.mpd
 https://cdn.sensa.com.ar/bpk-tv/claroSports4/default/index.mpd
 
 
-
-
-
-#EXTINF:-1,group-logo="-"  group-title="PACK"  tvg-name="test" tvg-id="None" tvg-logo="-",ESPN +
+#EXTINF:-1,group-logo="https://espnpressroom.com/us/files/2018/03/ESPN_PLUS_FC_POS-copy-780x405.jpg"  group-title="ESPN MAS"  tvg-name="test" tvg-id="None" tvg-logo="https://espnpressroom.com/us/files/2018/03/ESPN_PLUS_FC_POS-copy-780x405.jpg",ESPN +
 http://170.82.37.21:8000/play/a04g/index.m3u8
-#EXTINF:-1,group-logo="-"  group-title="PACK"  tvg-name="test" tvg-id="None" tvg-logo="-",espn 2 HD
+#EXTINF:-1,group-logo="https://espnpressroom.com/us/files/2018/03/ESPN_PLUS_FC_POS-copy-780x405.jpg"  group-title="ESPN MAS"  tvg-name="test" tvg-id="None" tvg-logo="https://espnpressroom.com/us/files/2018/03/ESPN_PLUS_FC_POS-copy-780x405.jpg",espn 2 HD
 http://170.82.37.21:8000/play/a00z/index.m3u8
-#EXTINF:-1,group-logo="-"  group-title="PACK"  tvg-name="test" tvg-id="None" tvg-logo="-",espn 3 HD
+#EXTINF:-1,group-logo="https://espnpressroom.com/us/files/2018/03/ESPN_PLUS_FC_POS-copy-780x405.jpg"  group-title="ESPN MAS"  tvg-name="test" tvg-id="None" tvg-logo="https://espnpressroom.com/us/files/2018/03/ESPN_PLUS_FC_POS-copy-780x405.jpg",espn 3 HD
 http://170.82.37.21:8000/play/a010/index.m3u8
-#EXTINF:-1,group-logo="-"  group-title="PACK"  tvg-name="test" tvg-id="None" tvg-logo="-",espn 4 HD
+#EXTINF:-1,group-logo="https://espnpressroom.com/us/files/2018/03/ESPN_PLUS_FC_POS-copy-780x405.jpg"  group-title="ESPN MAS"  tvg-name="test" tvg-id="None" tvg-logo="https://espnpressroom.com/us/files/2018/03/ESPN_PLUS_FC_POS-copy-780x405.jpg",espn 4 HD
 http://170.82.37.21:8000/play/a011/index.m3u8
-#EXTINF:-1,group-logo="-"  group-title="PACK"  tvg-name="test" tvg-id="None" tvg-logo="-",espn 5 HD
+#EXTINF:-1,group-logo="https://espnpressroom.com/us/files/2018/03/ESPN_PLUS_FC_POS-copy-780x405.jpg"  group-title="ESPN MAS"  tvg-name="test" tvg-id="None" tvg-logo="https://espnpressroom.com/us/files/2018/03/ESPN_PLUS_FC_POS-copy-780x405.jpg",espn 5 HD
 http://170.82.37.21:8000/play/a04c/index.m3u8
-#EXTINF:-1,group-logo="-"  group-title="PACK"  tvg-name="test" tvg-id="None" tvg-logo="-",espn 6 HD
+#EXTINF:-1,group-logo="https://espnpressroom.com/us/files/2018/03/ESPN_PLUS_FC_POS-copy-780x405.jpg"  group-title="ESPN MAS"  tvg-name="test" tvg-id="None" tvg-logo="https://espnpressroom.com/us/files/2018/03/ESPN_PLUS_FC_POS-copy-780x405.jpg",espn 6 HD
 http://170.82.37.21:8000/play/a04d/index.m3u8
-#EXTINF:-1,group-logo="-"  group-title="PACK"  tvg-name="test" tvg-id="None" tvg-logo="-",espn HD
+#EXTINF:-1,group-logo="https://espnpressroom.com/us/files/2018/03/ESPN_PLUS_FC_POS-copy-780x405.jpg"  group-title="ESPN MAS"  tvg-name="test" tvg-id="None" tvg-logo="https://espnpressroom.com/us/files/2018/03/ESPN_PLUS_FC_POS-copy-780x405.jpg",espn HD
 http://170.82.37.21:8000/play/a00y/index.m3u8
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2433/2433605.png" group-title="EUROSPORTS" tvg-logo="https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png" ,1000  EUROSPORTS 1 m3u español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://quest4play.xyz/
+https://webufffit.mizhls.ru/lb/primaeurosport1es/index.m3u8
+
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2433/2433605.png" group-title="EUROSPORTS" tvg-logo="https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png" ,1000  EUROSPORTS 2 m3u español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://quest4play.xyz/
+https://webufffit.mizhls.ru/lb/primaeurosport2es/index.m3u8
+
 
 
 #EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Directv(ecuador)
