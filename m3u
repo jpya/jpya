@@ -85,8 +85,8 @@ http://170.82.37.21:8000/play/a00y/index.m3u8
 
 
 
-
-
+directv--------
+-----------
 
 #EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Directv(ecuador) SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -107,12 +107,15 @@ https://topembed.mizhls.ru/lb//bet6571973/playlist.m3u8
 #EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Directv  token HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la10hd.com/
-https://z29vzc.la10tv.com/lb/dsports/index.m3u8?token=95fcf92e1ef2f8c425cbd526dd0a8ab93f5c62d2-291c36d72e2d2e0f29ac319daeb671a2-1723705632-1723669632
+https://ym9yzq.la10tv.com/lb/dsports/index.m3u8?token=e0f025b9127d1458cde3e0cd1d7180e3a73a18d4-14eabed99fca342355ecbc8a3cb2be93-1723766220-1723730220
 
 #EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Directv  token 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://en-vivo.pro/
-https://cdn8.en-vivo.info/hotflix/dsports/index.m3u8?token=3880e9f9063a7d1db04edd9c77bc6987e4a15591-ed9e5ee220d586a615f0e50a1be351c0-1723680644-1723669844
+https://cdn8.en-vivo.info/hotflix/dsports/index.m3u8?token=b8526bc100b6ebb5ab8fe8ca90cf78d9b3358a6c-049b27ff8bab2383a37dd6b0e240d799-1723741182-1723730382
+
+
+
 
 
 
