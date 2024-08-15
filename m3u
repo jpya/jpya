@@ -111,17 +111,22 @@ https://topembed.mizhls.ru/lb//bet6571973/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://la10hd.com/
 https://y2fzdgxl.la10tv.com/lb/dsports/index.m3u8?token=e4ad99975cca8c48b8600d452211c616bc61ad18-0377bf418eebe643aaf411641a780df4-1723794546-1723758546
 
+#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Directv  token HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la10hd.com/
+https://y2fzdgxl.la10tv.com/lb/dsports/index.m3u8?token=e4ad99975cca8c48b8600d452211c616bc61ad18-0377bf418eebe643aaf411641a780df4-1723794546-1723758546
+
 
 #EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Directv  token 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://en-vivo.pro/
-https://cdn8.en-vivo.info/hotflix/dsports/index.m3u8?token=cc7f2b77ace2311530279a64a5d166a245996d3a-801da67e8536dc2f83b9418376dbdbf6-1723769313-1723758513
+https://cdn8.en-vivo.info/hotflix/dsports/index.m3u8?token=c2bab00b4c2a67ab551f8cc878f13676c4a22a19-4878e0b06d92449e36e20d7793025332-1723774637-1723763837
 
 
 #EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Directv  token 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtp.live/
-https://xca5.pricesaskeloadsc.com/global/dsports/index.m3u8?token=9d26ed7151c235ddff25e26d97e85d89c7c5edf7-6d-1723793759-1723757759
+https://lae.pricesaskeloadsc.com/dsports/index.m3u8?token=4e8b5c93754056eee5918247e5447003bb2ffac1-5c-1723799361-1723763361
 
 
 #EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",bein sports
