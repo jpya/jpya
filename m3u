@@ -98,7 +98,8 @@ http://170.82.37.21:8000/play/a00y/index.m3u8
 
 
 
-#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Bein sports español (boca)
+
+#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",evento 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://fonz01.dlive.click/G2Phn5fTHp-WvbLBY8hPDA/1723800198/34352e372e3230392e313939/ff490/playlist.m3u8
 
@@ -109,25 +110,26 @@ https://fonz01.dlive.click/G2Phn5fTHp-WvbLBY8hPDA/1723800198/34352e372e3230392e3
 https://topembed.mizhls.ru/lb/directv/playlist.m3u8
 
 
-#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Otra Opcion Externa
+#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",evento 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb//bet6571973/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://la10hd.com/
+https://zw5k.la10tv.com/dsports/index.m3u8?token=b95cad6886db1207d2054a0083651017c955e3a5-f464de4e245fe2dce57189e88a4e66f1-1724132115-1724096115&remote=45.7.209.199
 
-#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Otra Opcion 2 Externa
+
+#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",evento 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb//bet6571973/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://la10hd.com/
+https://agl2zq.la10tv.com/lb/espndeportes/index.m3u8?token=7192ee0f630dff5f4eb925d970456d1c130f091f-f8856184733f405ab832e86e9be65e8f-1724132184-1724096184&remote=45.7.209.199
 
 
 
-#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Directv  token HD
+#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",evento 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la10hd.com/
 https://y2fzdgxl.la10tv.com/lb/dsports/index.m3u8?token=e4ad99975cca8c48b8600d452211c616bc61ad18-0377bf418eebe643aaf411641a780df4-1723794546-1723758546
 
 
-#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Directv  token 2 HD
+#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",evento 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://en-vivo.pro/
 https://cdn8.en-vivo.info/hotflix/dsports/index.m3u8?token=3df2072af3cd0465ad21dccbad606229fedcfe6c-e3ae81a2104500306ca4cdec915c6cc8-1723777505-1723766705
@@ -135,7 +137,7 @@ https://cdn8.en-vivo.info/hotflix/dsports/index.m3u8?token=3df2072af3cd0465ad21d
 
 
 
-#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Directv  token 3 HD
+#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",evento 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtp.live/
 https://u4c5a.pricesaskeloadsc.com/dsports/tracks-v1a1/mono.m3u8?token=8083ff2a17499a4273b0a73f815a42423d5e7055-7d-1723802033-1723766033
@@ -143,7 +145,7 @@ https://u4c5a.pricesaskeloadsc.com/dsports/tracks-v1a1/mono.m3u8?token=8083ff2a1
 
 
 
-#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",bein sports
+#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",bein sports sudamericana
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
