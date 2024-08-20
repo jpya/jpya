@@ -1,6 +1,85 @@
 #EXTM3U
 
 
+
+-----sudamericana libertadores----
+---------------------------
+
+
+
+#EXTINF:-1 group-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png"  group-title="SUDAMERICANA Y LIBERTADORES"  tvg-name="test" tvg-id="None" tvg-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png",Directv prueba 4
+http://45.228.233.93:8000/play/ca033/index.m3u8
+
+#EXTINF:-1 group-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png"  group-title="SUDAMERICANA Y LIBERTADORES"  tvg-name="test" tvg-id="None" tvg-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png",Directv prueba 3
+http://181.78.106.127:9000/play/ca026/index.m3u8
+
+#EXTINF:-1 group-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png"  group-title="SUDAMERICANA Y LIBERTADORES"  tvg-name="test" tvg-id="None" tvg-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png",Directv prueba 2
+http://177.53.155.236:8000/play/a0co/index.m3u8
+
+#EXTINF:-1 group-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png"  group-title="SUDAMERICANA Y LIBERTADORES"  tvg-name="test" tvg-id="None" tvg-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png",Directv prueba 1
+http://209.45.103.201:8000/play/a067/index.m3u8
+
+#EXTINF:-1 group-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png"  group-title="SUDAMERICANA Y LIBERTADORES"  tvg-name="test" tvg-id="None" tvg-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png",Arena Aports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/PSAYLeDk13/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png"  group-title="SUDAMERICANA Y LIBERTADORES"  tvg-name="test" tvg-id="None" tvg-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png",ESPN 2 centro (op)
+http://170.82.37.21:8000/play/a00z/index.m3u8
+
+#EXTINF:-1 group-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png"  group-title="SUDAMERICANA Y LIBERTADORES"  tvg-name="test" tvg-id="None" tvg-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png",ESPN 2 centro
+http://170.82.37.21:8000/play/a00z/index.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTINF:-1 group-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png"  group-title="SUDAMERICANA Y LIBERTADORES"  tvg-name="test" tvg-id="None" tvg-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png",Fox Sports
+https://smt-edge03.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
+#EXTINF:-1 group-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png"  group-title="SUDAMERICANA Y LIBERTADORES"  tvg-name="test" tvg-id="None" tvg-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png",Telefe
+https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
+
+
+
+
+#EXTINF:-1 group-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png"  group-title="SUDAMERICANA Y LIBERTADORES"  tvg-name="test" tvg-id="None" tvg-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png",Bein Sports Extra Español
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png"  group-title="SUDAMERICANA Y LIBERTADORES"  tvg-name="test" tvg-id="None" tvg-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png",Directv ecuador
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/directv/playlist.m3u8
+
+
+
+#EXTINF:-1 group-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png"  group-title="SUDAMERICANA Y LIBERTADORES"  tvg-name="test" tvg-id="None" tvg-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png",Directv FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://38.43.151.206:8000/play/a04m/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png"  group-title="SUDAMERICANA Y LIBERTADORES"  tvg-name="test" tvg-id="None" tvg-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png",ESPN
+https://edge-live02-mun.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
+
+
 -----claro sports-------
 ------------------------
 
@@ -97,11 +176,10 @@ http://170.82.37.21:8000/play/a00y/index.m3u8
 ------------------------------
 
 
+#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",D sports FHD
+http://38.43.151.206:8000/play/a04m/index.m3u8
 
 
-#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",evento 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://fonz01.dlive.click/G2Phn5fTHp-WvbLBY8hPDA/1723800198/34352e372e3230392e313939/ff490/playlist.m3u8
 
 
 #EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Directv(ecuador) SD
@@ -110,44 +188,17 @@ https://fonz01.dlive.click/G2Phn5fTHp-WvbLBY8hPDA/1723800198/34352e372e3230392e3
 https://topembed.mizhls.ru/lb/directv/playlist.m3u8
 
 
-#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",evento 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la10hd.com/
-https://zw5k.la10tv.com/dsports/index.m3u8?token=b95cad6886db1207d2054a0083651017c955e3a5-f464de4e245fe2dce57189e88a4e66f1-1724132115-1724096115&remote=45.7.209.199
+#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Directv opc 1
+http://45.228.233.93:8000/play/ca033/index.m3u8
 
+#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Directv opc 2
+http://181.78.106.127:9000/play/ca026/index.m3u8
 
-#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",evento 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la10hd.com/
-https://agl2zq.la10tv.com/lb/espndeportes/index.m3u8?token=7192ee0f630dff5f4eb925d970456d1c130f091f-f8856184733f405ab832e86e9be65e8f-1724132184-1724096184&remote=45.7.209.199
+#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Directv opc 3
+http://177.53.155.236:8000/play/a0co/index.m3u8
 
-
-
-#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",evento 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la10hd.com/
-https://y2fzdgxl.la10tv.com/lb/dsports/index.m3u8?token=e4ad99975cca8c48b8600d452211c616bc61ad18-0377bf418eebe643aaf411641a780df4-1723794546-1723758546
-
-
-#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",evento 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://en-vivo.pro/
-https://cdn8.en-vivo.info/hotflix/dsports/index.m3u8?token=3df2072af3cd0465ad21dccbad606229fedcfe6c-e3ae81a2104500306ca4cdec915c6cc8-1723777505-1723766705
-
-
-
-
-#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",evento 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamtp.live/
-https://u4c5a.pricesaskeloadsc.com/dsports/tracks-v1a1/mono.m3u8?token=8083ff2a17499a4273b0a73f815a42423d5e7055-7d-1723802033-1723766033
-
-
-
-
-#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",bein sports sudamericana
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1 group-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  group-title="Directv"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Directv opc 4
+http://209.45.103.201:8000/play/a067/index.m3u8
 
 
 
@@ -553,7 +604,7 @@ https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/i
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="4g lista", 1 EL TRECE (🇦🇷) ss
+#EXTINF:-1  tvg-id="ElTrece.ar"  group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="4g lista", 1 EL TRECE (🇦🇷) ss
 https://smt-edge03.sensa.com.ar//live/eds/Canal13/live_dash_cld/Canal13.mpd
 
 
@@ -563,7 +614,7 @@ https://smt-edge03.sensa.com.ar//live/eds/Canal13/live_dash_cld/Canal13.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="4g lista", 2 EL NUEVE (🇦🇷) ss
+#EXTINF:-1  tvg-id="ElNueve.ar" group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="4g lista", 2 EL NUEVE (🇦🇷) ss
 https://smt-edge03.sensa.com.ar//live/eds/Canal9/live_dash_cld/Canal9.mpd
 
 
@@ -573,7 +624,7 @@ https://smt-edge03.sensa.com.ar//live/eds/Canal9/live_dash_cld/Canal9.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="4g lista", 3 AMERICA (🇦🇷) ss
+#EXTINF:-1 tvg-id="AmericaTV.ar" group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="4g lista", 3 AMERICA (🇦🇷) ss
 https://smt-edge03.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -582,7 +633,7 @@ https://smt-edge03.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="4g lista", 4 TELEFE  (🇦🇷) ss
+#EXTINF:-1  tvg-id="Telefe.ar" group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="4g lista", 4 TELEFE  (🇦🇷) ss
 https://smt-edge03.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
 
 
