@@ -83,28 +83,12 @@ https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/inde
 
 
 
-#EXTINF:-1 group-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png"  group-title="SUDAMERICANA Y LIBERTADORES"  tvg-name="test" tvg-id="None" tvg-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png",Directv prueba 4
-http://45.228.233.93:8000/play/ca033/index.m3u8
-
-#EXTINF:-1 group-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png"  group-title="SUDAMERICANA Y LIBERTADORES"  tvg-name="test" tvg-id="None" tvg-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png",Directv prueba 3
-http://181.78.106.127:9000/play/ca026/index.m3u8
-
-#EXTINF:-1 group-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png"  group-title="SUDAMERICANA Y LIBERTADORES"  tvg-name="test" tvg-id="None" tvg-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png",Directv prueba 2
-http://177.53.155.236:8000/play/a0co/index.m3u8
-
-#EXTINF:-1 group-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png"  group-title="SUDAMERICANA Y LIBERTADORES"  tvg-name="test" tvg-id="None" tvg-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png",Directv prueba 1
-http://209.45.103.201:8000/play/a067/index.m3u8
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png"  group-title="SUDAMERICANA Y LIBERTADORES"  tvg-name="test" tvg-id="None" tvg-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png",Arena Aports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/PSAYLeDk13/playlist.m3u8
 
-#EXTINF:-1 group-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png"  group-title="SUDAMERICANA Y LIBERTADORES"  tvg-name="test" tvg-id="None" tvg-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png",ESPN 2 centro (op)
-http://170.82.37.21:8000/play/a00z/index.m3u8
-
-#EXTINF:-1 group-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png"  group-title="SUDAMERICANA Y LIBERTADORES"  tvg-name="test" tvg-id="None" tvg-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png",ESPN 2 centro
-http://170.82.37.21:8000/play/a00z/index.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -129,8 +113,6 @@ https://smt-edge03.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd
 https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
 
 
-
-
 #EXTINF:-1 group-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png"  group-title="SUDAMERICANA Y LIBERTADORES"  tvg-name="test" tvg-id="None" tvg-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png",Bein Sports Extra Español
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
@@ -138,12 +120,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/directv/playlist.m3u8
-
-
-
-#EXTINF:-1 group-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png"  group-title="SUDAMERICANA Y LIBERTADORES"  tvg-name="test" tvg-id="None" tvg-logo="https://i.pinimg.com/originals/3b/58/6c/3b586c7a4e6d39fac87d06601f92ff3f.png",Directv FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://38.43.151.206:8000/play/a04m/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
