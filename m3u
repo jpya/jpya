@@ -1,5 +1,7 @@
 #EXTM3U
 
+
+
 #EXTINF:-1 group-logo="https://www.compara24.it/images/loghi/infinity.png" group-title="INFINITY" tvg-logo="https://www.compara24.it/images/loghi/infinity.png",INFINITY 1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
@@ -79,8 +81,10 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manife
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 
-------
--------
+
+----------
+------------
+
 
 #EXTINF:-1 group-logo="https://cdn-cache.wrestlingnewssource.com/u/webp_full/e47b8953c24c402dd7c1ad2b6b5c5ba8_720_405.webp" group-title="PACK TNT UK" tvg-logo="https://cdn-cache.wrestlingnewssource.com/u/webp_full/e47b8953c24c402dd7c1ad2b6b5c5ba8_720_405.webp", TNT SPORTS 1 UK
 #EXTVLCOPT:network-caching=1000
@@ -651,10 +655,6 @@ https://topembed.mizhls.ru/lb/accn/playlist.m3u8
 https://topembed.mizhls.ru/lb/arg_espn_premium/playlist.m3u8
 
 
-#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://epgx.site/p/sky-sports-f1.png",SkySportsF1[UK]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/eplayerskyf1/playlist.m3u8
 
 
 #EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://epgx.site/p/sky-sports-football.png",SkySportsFootball[UK]
@@ -2952,8 +2952,9 @@ FOX SPORTS ARGENTINA
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="FOX SPORTS",220 FOX SPORTS (🇦🇷) fw
-https://edge-live17-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="FOX SPORTS",220 FOX SPORTS (🇦🇷) fw HD
+https://edge-live02-cen.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_C/FoxSports.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2962,7 +2963,7 @@ https://edge-live17-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/Fo
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="FOX SPORTS",220 FOX SPORTS FHD (🇦🇷) fw
+#EXTINF:-1  group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="FOX SPORTS",220 FOX SPORTS  (🇦🇷) fw
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2987,8 +2988,9 @@ FOX SPORTS 2
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png"  tvg-logo="https://nebula-net.qvixsolutions.com/img/channels/fox-sports-2_c9ab9461980b46758729e229603ebaf7.png" group-title="FOX SPORTS",222 FOX SPORTS 2 (🇦🇷) fw
-https://edge-live17-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
+#EXTINF:-1  group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png"  tvg-logo="https://nebula-net.qvixsolutions.com/img/channels/fox-sports-2_c9ab9461980b46758729e229603ebaf7.png" group-title="FOX SPORTS",222 FOX SPORTS 2 HD (🇦🇷) fw
+https://edge-mix05-coe.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_C/FoxSports2HD.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2997,7 +2999,7 @@ https://edge-live17-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1   group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" tvg-logo="https://nebula-net.qvixsolutions.com/img/channels/fox-sports-2_c9ab9461980b46758729e229603ebaf7.png" group-title="FOX SPORTS",222 FOX SPORTS 2 FHD (🇦🇷) fw
+#EXTINF:-1   group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" tvg-logo="https://nebula-net.qvixsolutions.com/img/channels/fox-sports-2_c9ab9461980b46758729e229603ebaf7.png" group-title="FOX SPORTS",222 FOX SPORTS 2  (🇦🇷) fw
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
 
 
@@ -3026,8 +3028,9 @@ FOX SPORTS 3
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1   group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="FOX SPORTS",225 FOX SPORTS 3 (🇦🇷)  fw
-https://edge-live17-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
+#EXTINF:-1   group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="FOX SPORTS",225 FOX SPORTS 3  HD(🇦🇷)  fw
+https://edge-mix01-cen.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_C/FoxSports3HD.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3036,7 +3039,7 @@ https://edge-live17-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="FOX SPORTS",225 FOX SPORTS 3 FHD (🇦🇷)  fw
+#EXTINF:-1  group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="FOX SPORTS",225 FOX SPORTS 3  (🇦🇷)  fw
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
 
 
@@ -3623,6 +3626,7 @@ https://csc-ptn-edge01.sensa.com.ar/output/SMT4/BRKD/output.mpd
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2534/CH_LOGO/160/160/0/0/86198033078075.png" group-title="REGIONAL", 375 SUARDI (🇦🇷)
 https://csc-ptn-edge01.sensa.com.ar/output/ARR3/SADD/output.mpd
 
+
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2534/CH_LOGO/160/160/0/0/86198033078075.png" group-title="REGIONAL", 375 SUARDI 2 (🇦🇷)
 https://cdn.sensa.com.ar/output/ARR3/SADD/output.mpd
 
@@ -4058,8 +4062,10 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/o
 
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/179/179246.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="FORMULA 1",320 SKY FORMULA 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://hzt.mizhls.ru/hzt/eplayerskyf1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://topembed.mizhls.ru/
+https://topembed.mizhls.ru/lb/eplayerskyf1/playlist.m3u8
+
+
 
 
 ---poker-----
@@ -4765,11 +4771,6 @@ http://208.88.245.85/nuevo/la.oscuridad.delaluz.del.mundo.latino2023.mkv
 #EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/soIgqZBoTiTgMqUW0JtxsPWAilQ.jpg",Reptiles
 http://208.88.245.85/nuevo/reptiles.dual2023.mkv
 
-
-
-#EXTINF:-1 group-title="Romper el circulo" tvg-logo="https://image.tmdb.org/t/p/original/2EH42blLQzgqwDWxn39RXkTgb91.jpg", Romper el circulo
-https://github.com/Imag7/Imagt/releases/download/Cam/cam.mp4
-
 #EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg",Spy kids armagedon
 http://208.88.245.85/nuevo/spykids.armagedon.dual2023.mkv
 #EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/6cZbQppNSELFdsV7gvrOflL6DWK.jpg",Quieres ser mi hijo 
@@ -5297,6 +5298,15 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjuniio%2FVer%20El%20padre%20de%20la%20novia%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",Doctor Strange en el Multiverso de la Locura (2022
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjuniio%2FVer%20Doctor%20Strange%20en%20el%20multiverso%20de%20la%20locura%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+
+#EXTINF:-1 group-title="Romper el circulo" tvg-logo="https://image.tmdb.org/t/p/original/2EH42blLQzgqwDWxn39RXkTgb91.jpg", Romper el circulo
+https://github.com/Imag7/Imagt/releases/download/Cam/cam.mp4
+
+
+
+
+
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nQRPSUmHGLrFRPK6v3BI1frAM1O.jpg",American Sicario (2021)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjuniio%2FVer%20American%20Sicario%20(2021)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/fmeAJDa4Tf11lhCWVFYhOzLGFTL.jpg",Garra (2022)
@@ -5991,6 +6001,6 @@ https://dl.dropbox.com/scl/fi/3213s3mebryeal117oqoa/do_S03E04.mp4?rlkey=g2l9bnx4
 https://dl.dropbox.com/scl/fi/8wzxe1wwic7gebjjso7s8/El-encargado_S03E05_Piquito.mp4?rlkey=k6yq30w4gfkaukuvopwkpl43u&st=3j9phscs&dl=0
 #EXTINF:-1 group-title="SERIES|" tvg-logo="https://i.ibb.co/pJKdfqw/S3m-Qv-Ux-Ro-720x0-1.jpg"group-title="TEMPORADA 3",24 06 (TEMP 3)
 https://github.com/linkarg13/Ip-m4n3/releases/download/Pelis/T3E06.2024.1080p.Dual.By.MrX.mkv
-#EXTINF:-1 group-title="SERIES|" tvg-logo="https://i.ibb.co/pJKdfqw/S3m-Qv-Ux-Ro-720x0-1.jpg"group-title="TEMPORADA 3",25 07 (TEMP 3)
+#EXTINF:0 group-title="SERIES|" tvg-logo="https://i.ibb.co/pJKdfqw/S3m-Qv-Ux-Ro-720x0-1.jpg"group-title="TEMPORADA 3",25 07 (TEMP 3)
 https://github.com/linkarg13/Pelis2/releases/download/Pelis/El.Encargado.T3E07.2024.720p.mp4 
 
