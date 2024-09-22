@@ -1,6 +1,21 @@
 #EXTM3U
 
 
+#EXTINF:-1   group-logo="https://cdn-icons-png.flaticon.com/128/1165/1165187.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="test",test
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/jpya/final/main/README.md
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://edge-mix02-ird.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
+
+
+
+
+
+
 #EXTINF:-1 group-title="SERIES|" tvg-logo="https://resizing.flixster.com/BAv2gS2k6oyVA_XsI8hGSXvCAvc=/300x300/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p23798138_b_h10_ab.jpg"group-title="TEMPORADA 3",cap 1
 https://cinenovelero.com/Media/ShortPlayStream/f76582bd-a97e-4621-8ca9-c679909ebbf4/d5a8fad8-015e-48a8-98af-d9b9f514b86e/a47e7ed8-6c94-47c2-ac1a-831a90206b43/360_out/360_out.m3u8
 
