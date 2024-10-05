@@ -4189,8 +4189,8 @@ inter miami--------
 
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="MLS INTER MIAMI"  tvg-name="MLS• INTER MIAMI MESSI (HD) »1«" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",brasil botafogo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://a86.azplay.me/hls/streama222962/index.m3u8?cst=87badc85e84ea9bc48921ccd0e9875ab
-
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://bigembed.videohls.ru/lb//bet6627665/playlist.m3u8
 
 
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="MLS INTER MIAMI"  tvg-name="MLS• INTER MIAMI MESSI (HD) »1«" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",MLS• INTER MIAMI MESSI 2 (HD) »1«
