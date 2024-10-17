@@ -3444,7 +3444,7 @@ https://edge-live17-hr.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV
 
 CLARO SPORTS
 
-#EXTINF:-1  group-logo="https://geo.edge.pontiscloud.com:9002/images/3441/CH_LOGO/160/160/0/0/61680399078962.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3441/CH_LOGO/160/160/0/0/61680399078962.png" group-title="DEPORTES VARIOS" ,309 CLARO SPORTS (🇨🇴) clr
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/857/857455.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3441/CH_LOGO/160/160/0/0/61680399078962.png" group-title="DEPORTES VARIOS" ,309 CLARO SPORTS (🇨🇴) clr
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
