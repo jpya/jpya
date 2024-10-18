@@ -3670,7 +3670,7 @@ PORTEÑA COOPLUS
 
 
 
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"  tvg-logo="https://www.sensa.com.ar/images/logo_sensa_nav.png" group-title="REGIONAL",370 PORTEÑA COOPLUS opc 2 (🇦🇷) 
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"  tvg-logo="https://www.sensa.com.ar/images/logo_sensa_nav.png" group-title="REGIONAL",porteña
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
