@@ -1837,15 +1837,20 @@ https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/chunklist_w384365430.m3u8
 
 
 
-#EXTINF:-1 group-title="SKY SPORTS", sky esp
+#EXTINF:-1 group-title="group SKY ", sky esp
 http://181.78.106.127:9000/play/ca028/index.m3u8
 
-#EXTINF:-1 group-title="SKY SPORTS", sky eng
+#EXTINF:-1 group-title="group SKY ", sky eng
 http://181.78.106.127:9000/play/ca029/index.m3u8
 
-#EXTINF:-1 group-title="SKY SPORTS", sky 2 esp
+#EXTINF:-1 group-title="group SKY ", sky 2 esp
 http://181.78.106.127:9000/play/ca030/index.m3u8
 
+#EXTINF:-1 group-title="group SKY ", fox sports mex
+http://181.78.106.127:9000/play/ca031/index.m3u8
+
+#EXTINF:-1 group-title="group SKY ", fox sports 2 mex
+http://181.78.106.127:9000/play/ca032/index.m3u8
 
 ------------------------------------- MUSICA -------------------------------------------
 ----------------------------------------------------------------------------------------
