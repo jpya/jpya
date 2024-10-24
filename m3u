@@ -1832,6 +1832,16 @@ TELESUR
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1042/1042680.png" tvg-name="" tvg-id="" group-title="NOTICIAS" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png",75 TeleSurᴴᴰ (🇦🇷)  app
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/chunklist_w384365430.m3u8
 
+--------------------
+---------------------
+
+
+
+#EXTINF:-1 group-title="test", sky
+http://181.78.106.127:9000/play/ca028/index.m3u8
+
+#EXTINF:-1 group-title="test", sky eng
+http://181.78.106.127:9000/play/ca029/index.m3u8
 
 
 ------------------------------------- MUSICA -------------------------------------------
