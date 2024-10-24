@@ -1837,11 +1837,14 @@ https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/chunklist_w384365430.m3u8
 
 
 
-#EXTINF:-1 group-title="test", sky
+#EXTINF:-1 group-title="SKY SPORTS", sky esp
 http://181.78.106.127:9000/play/ca028/index.m3u8
 
-#EXTINF:-1 group-title="test", sky eng
+#EXTINF:-1 group-title="SKY SPORTS", sky eng
 http://181.78.106.127:9000/play/ca029/index.m3u8
+
+#EXTINF:-1 group-title="SKY SPORTS", sky 2 esp
+http://181.78.106.127:9000/play/ca030/index.m3u8
 
 
 ------------------------------------- MUSICA -------------------------------------------
