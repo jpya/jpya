@@ -1852,6 +1852,19 @@ http://181.78.106.127:9000/play/ca031/index.m3u8
 #EXTINF:-1 group-title="group SKY ", fox sports 2 mex
 http://181.78.106.127:9000/play/ca032/index.m3u8
 
+#EXTINF:-1 group-title="group SKY ", espn mex
+http://181.78.106.127:9000/play/ca033/index.m3u8
+
+#EXTINF:-1 group-title="group SKY ", espn 2 mex
+http://181.78.106.127:9000/play/ca034/index.m3u8
+
+#EXTINF:-1 group-title="group SKY ", espn 3 mex
+http://181.78.106.127:9000/play/ca035/index.m3u8
+
+#EXTINF:-1 group-title="group SKY ", espn 4 mex
+http://181.78.106.127:9000/play/ca036/index.m3u8
+
+
 ------------------------------------- MUSICA -------------------------------------------
 ----------------------------------------------------------------------------------------
 
