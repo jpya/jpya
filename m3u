@@ -3296,8 +3296,10 @@ DAZN 2
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium427/index.m3u8|Origin=https://weblivehdplay.ru/
 
-
-
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png"  group-title="DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,atleti
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.aimage.click/
+https://gfc.snapinstadown.shop/es28/tracks-v1a1/mono.m3u8?md5=GcT7AfVRAPDTEo7OkdMbRA&expires=1730408110
 
 
 -------------------------------------------- ADULTOS ----------------------------------------------
