@@ -620,62 +620,48 @@ https://topembed.mizhls.ru/lb/movistardeportes/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/espndeportes/playlist.m3u8
 
-#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-premier-league-uk.svg",SkySportsFootball[UK]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/eplayerskyfoot/playlist.m3u8
-
-#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://epgx.site/p/sky-sports-action.png",SkySportsAction[UK]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/skyaction/playlist.m3u8
-
-#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png",ArenaPremium1[Serbia]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/PSAYLeDk13/playlist.m3u8
 
 
 #EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="-",TNT Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium31/index.m3u8|Origin=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium31/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="-",TNT Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium32/index.m3u8|Origin=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium32/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="-",TNT Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium33/index.m3u8|Origin=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium33/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
 #EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="-",TNT Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium34/index.m3u8|Origin=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium34/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="-",Sky Sports Futbaal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium35/index.m3u8|Origin=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium35/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="-",Sky Sports Premier
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium36/index.m3u8|Origin=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium36/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="-",Sky Sports NFL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium37/index.m3u8|Origin=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium37/index.m3u8/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="-",Sky Sports News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium38/index.m3u8|Origin=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium38/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
 
