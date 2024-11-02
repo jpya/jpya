@@ -3282,7 +3282,6 @@ https://4.trstream01.xyz/canal6/stream.m3u8
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/14009/14009741.png" tvg-logo="https://i.ibb.co/KLMTj8J/anrtena3.png" group-title="ESPAÑA", 430 ANTENA 3 INT (🇪🇸) fw
 https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
 
- 
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/14009/14009741.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/500px-DMax_Espa%C3%B1a.svg.png" group-title="ESPAÑA", 435 DMAX (🇪🇸) mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73e55164b719d1210351f86093bc3ec3:792ffb4e6ebbe2aae394061f01948e40
@@ -3293,9 +3292,6 @@ https://ott.zapitv.com/live/eds_c2/dmax/dash_live_enc/dmax.mpd
 #KODIPROP:inputstream.adaptive.license_key=257fafffad77ccb5b8224d8fac6c9d62:81ebfc96640b0c8446c232f198b97dec
 https://ott.zapitv.com/live/eds_c2/cuatro/dash_live_enc/cuatro.mpd
 
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/14009/14009741.png" tvg-id="la1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/250px-Logo_TVE-1.svg.png" group-title="ESPAÑA",437 LA UNO (🇪🇸) mpd
-https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_premium.smil/manifest.m3u8
- 
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/14009/14009741.png" tvg-id="la2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/250px-Logo_TVE-2.svg.png" group-title="ESPAÑA",438 LA DOS (🇪🇸) mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd7ee75e0e88f267ace6bd7d9d70d83:eb196d2b2dc28418f465532c5d1182c0
@@ -3305,7 +3301,6 @@ https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
 
 ------------------------------------- MEXICO ------------------------------------
 ---------------------------------------------------------------------------------
-
 
 EL CANAL DE LAS ESTRELLAS
 
@@ -3319,7 +3314,6 @@ EL CANAL DE LAS ESTRELLAS
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344530.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/120px-Canal_2_%28Las_Estrellas_2017%29.svg.png" group-title="MEXICO", 450 LAS ESTRELLAS (🇲🇽) fw
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd
 
-
 PASIONES
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3332,10 +3326,7 @@ PASIONES
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344530.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="MEXICO",451 PASIONES (🇲🇽) fw
 https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_2A/Pasiones.mpd
 
-
-
 TELENOVELAS
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3345,8 +3336,6 @@ TELENOVELAS
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344530.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/301/CH_LOGO/160/160/0/0/9347484107170.png" group-title="MEXICO",453 TELENOVELAS (🇲🇽) ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd
-
-
 
 TELEMUNDO
 
@@ -3358,8 +3347,6 @@ TELEMUNDO
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344530.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/160/160/0/0/20014093074301.png" group-title="MEXICO",454 TELEMUNDO (🇲🇽) ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.mpd
-
-
 
 AZTECA INTERNACIONAL
 
@@ -3374,10 +3361,8 @@ https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-
-
-formula 1----
--------------
+------------------------------formula 1------------------------------
+---------------------------------------------------------------------
 
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/179/179246.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="FORMULA 1",320 DAZN FORMULA 1  mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -3391,17 +3376,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/o
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
 
-
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/179/179246.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="FORMULA 1",320 SKY FORMULA 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://buffstreams.app/
-https://main.clmbosean.space/playlist/26978/main.clmbosean.space/caxi.m3u8
-
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/179/179246.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="FORMULA 1",320 SKY FORMULA 1 mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005ff0d8408fc02af0ca5355a84546e:f517ede498c9c7a7abea6465c633d449
-https://linear005-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsf1)/manifest_720.mpd
 
 
 
@@ -3414,18 +3388,14 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6080381ab7c9ea00074ec
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/5537/5537635.png" tvg-logo="https://image.roku.com/developer_channels/prod/27b05cc60a5abb162cf8af100d030154f00015a942703223fbf079993a6a9f45.png" group-title="POKER TOUR" , 601 POKER TOUR ing
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5537/5537635.png" tvg-logo="https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="POKER TOUR" ,Poker Go 
 https://linear-426.frequency.stream/dist/localnow/426/hls/master/playlist.m3u8
 
 
 
 
-
-
-inter miami--------
---------------------
-
+----------------------------inter miami-------------------------
+----------------------------------------------------------------
 
 
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="MLS INTER MIAMI"  tvg-name="MLS• INTER MIAMI MESSI (HD) »1«" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",INTER MIAMI
@@ -3433,12 +3403,10 @@ inter miami--------
 #EXTVLCOPT:http-referrer=https://en-vivo.pro/
 https://cdn8.en-vivo.info/hotflix/eventos1/index.m3u8?token=9cb8322993ae4405e3a5f924208c1fcb56d6ae82-586125823a552caa276b8567a05a794f-1729908728-1729897928&
 
-
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="MLS INTER MIAMI"  tvg-name="MLS• INTER MIAMI MESSI (HD) »1«" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png", Opcional 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=Mlb9RSN&t=1729942200
-
 
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="MLS INTER MIAMI"  tvg-name="MLS• INTER MIAMI MESSI (HD) »1«" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",MLS• INTER MIAMI MESSI 2 (HD) »1«
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -3453,26 +3421,19 @@ https://bprvqu83ge.azureedge.net/live/NBA/playlist.m3u8
 
 
 
-------------CAZA Y PEZCA -------------
---------------------------
-
-
+------------------------CAZA Y PEZCA -----------------------------
+------------------------------------------------------------------
 
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1834/1834009.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Caza-pesca_m%2B.png/500px-Caza-pesca_m%2B.png" group-title="CAZA , PESCA y MOTOR",434 PESCA (🇪🇸) mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ae3343806fda8a7bc27d38ab605a702:9a6a18d6877a1cfb037417be8ec3d7e6
 https://cache4.zapitv.com/live/eds_c2/iberalia_pesca/dash_live_enc/iberalia_pesca.mpd
 
-
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1834/1834009.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Caza-pesca_m%2B.png/500px-Caza-pesca_m%2B.png" group-title="CAZA , PESCA y MOTOR",434 IBERALIA TV (🇪🇸) mpd
-
-
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1834/1834009.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Caza-pesca_m%2B.png/500px-Caza-pesca_m%2B.png" group-title="CAZA , PESCA y MOTOR",434 IBERLIA CAZA  (🇪🇸) mpd
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:37_HD.smil/manifest.m3u8
 
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1834/1834009.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Caza-pesca_m%2B.png/500px-Caza-pesca_m%2B.png" group-title="CAZA , PESCA y MOTOR",434 IBERALIA PESCA (🇪🇸) mpd
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:36_HD.smil/manifest.m3u8
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3482,11 +3443,6 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:36_HD.smil/mani
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1834/1834009.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/368/CH_LOGO/160/160/0/0/446218910784.png" group-title="CAZA , PESCA y MOTOR",26 AMERICA SPORTS (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd
-
-
-
-
-
 
 
 
@@ -3574,7 +3530,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/METROAAC.aac
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO CIELO (🇦🇷)
 https://streamall.alsolnet.com/radiocielo
 
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO BELGRANO SUARDI (🇦🇷)
 https://pad20.com:8310/vivo
 
@@ -3584,9 +3539,10 @@ https://edge-st1-audio.masterhost.com.ar/listen/radio_republica_955/radio.mp3
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",FM 102.9 BRINKMAN (🇦🇷)
 https://servidor2.hostradios.com/proxy/sc_larad?mp=/stream
 
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",AM 1050 SAN FRANCISCO (🇦🇷)
 https://vps-2333016-x.dattaweb.com/listen/am_1050_radio_san_francisco/radio.mp3
+
+
 
 -----------canales del interior argentina---------
 ---------------------------------------------------
@@ -3643,8 +3599,6 @@ https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/475/475489.png" tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="INTERIOR DEL PAIS", CANAL 9 LITORAL(🇦🇷)
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
-
-
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/475/475489.png" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png" group-title="INTERIOR DEL PAIS", CANAL U ARGENTTINA(🇦🇷)
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
 
@@ -3656,8 +3610,8 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 
 
-----------------------------
--------------------------------
+----------------------------Peliculas----------------------------------
+-----------------------------------------------------------------------
 
 
 #EXTINF:-1,tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/tshllXJDIctUlD1kMPQdIh37L2V.jpg",Argylle: agente secreto (2024)
@@ -3702,8 +3656,6 @@ https://dl.dropbox.com/scl/fi/exw7880te9rw4l12779gm/D3SP3RT4RB34ST.mp4?rlkey=gkz
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZKpjp7D/La-Momia-2017.jpg",La momia (2017)
 https://dl.dropbox.com/s/baipaq04q2imj5g/l4m0m14.mp4
-
-
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/guy_ritchie_s_the_covenant-145554066-large.jpg",El Pacto
 https://archive.org/download/the-king-of-fighters-2002-magic-plus-ll/The.Covenant.2023.DVDRip-Lat.mp4
