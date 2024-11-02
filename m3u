@@ -638,6 +638,46 @@ https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://qqwebpla
 https://webhdrus.onlinehdhls.ru/lb/premium43/index.m3u8|Origin=https://qqwebplay.xyz
 
 
+------------------------sky sports------------------------
+----------------------------------------------------------
+
+
+#EXTINF:-1 tvg-name="SKY SPORT CALCIO" tvg-logo="https://i.ibb.co.com/HN5mh1d/70ud6o1656963115.png" group-title="SKY GROUP",SKY SPORT CALCIO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://ddy5.mizhls.ru/ddy5/premium870/index.m3u8
+
+#EXTINF:-1 tvg-name="SKY SERIE" tvg-logo="https://i.ibb.co.com/98M6WSy/2560px-Sky-Serie-svg.png" group-title="SKY GROUP",SKY SERIE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://ddy5.mizhls.ru/ddy5/premium880/index.m3u8
+
+
+#EXTINF:-1 tvg-name="SKY SPORT MOTOGP" tvg-logo="https://i.ibb.co.com/1KZfP9c/1000064500.png" group-title="SKY GROUP",SKY SPORT MOTOGP
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://ddy6.mizhls.ru/ddy6/premium575/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 1" tvg-logo="https://i.ibb.co.com/JmWnnPX/Sky-Sport-Bundesliga-1-HD-Logo-2020.png" group-title="SKY GROUP",SKY SPORT BUNDESLIGA 1 HD
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://ddy6.mizhls.ru/ddy6/premium558/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport Football" tvg-logo="" group-title="SKY GROUP",SKY SPORT FOOTBALL
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://ddy1.mizhls.ru/ddy1/premium460/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport Select " tvg-logo="" group-title="SKY GROUP",SKY SPORT SELECT
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://ddy1.mizhls.ru/ddy1/premium587/index.m3u8
+
+
+
+
+
+
 ---------------------------365digital-----------------------------------
 ------------------------------------------------------------------------
 
