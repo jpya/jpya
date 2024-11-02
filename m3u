@@ -616,57 +616,164 @@ https://csc-ptn-edge01.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd
 https://topembed.mizhls.ru/lb/movistardeportes/playlist.m3u8
 
 
-#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="-",arena 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium432/index.m3u8|Origin=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPKBIwtsWNk1xYFad1i_BGKZLEsUOm19_Pa70L3_g=s900-c-k-c0x00ffffff-no-rj" group-title="SPORTS (DADDY LIVE)" streamId="255" channel-number="255",NBC Sports Bay Area
+https://webhdrunns.mizhls.ru/lb/premium753/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
 
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="NBC Sports Boston" tvg-logo="https://yt3.googleusercontent.com/8XU7EqHLEP8Q_k2yAN9V2lMG-eTDHI2M1sXIXQ3-8MhCdjeWsOeadA5wdrQypK7qiYwm-F-xIg=s900-c-k-c0x00ffffff-no-rj" group-title="SPORTS (DADDY LIVE)" streamId="256" channel-number="256",NBC Sports Boston
+https://webhdrunns.mizhls.ru/lb/premium754/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
 
-#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="-",test 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium434/index.m3u8|Origin=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="NBCSportsCalifornia.us2" tvg-name="NBC Sportslifornia" tvg-logo="https://cms.nhl.bamgrid.com/images/photos/288216018/1024x576/cut.jpg" group-title="SPORTS (DADDY LIVE)" streamId="257" channel-number="257",NBC Sportslifornia
+https://webhdrunns.mizhls.ru/lb/premium755/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
 
+#EXTINF:-1 tvg-id="RacingTV.uk" tvg-name="Racing Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/racing-tv-uk.png" group-title="SPORTS (DADDY LIVE)" streamId="258" channel-number="258",Racing Tv
+https://webhdrunns.mizhls.ru/lb/premium555/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
 
-#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="-",test 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium435/index.m3u8|Origin=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-uk.png" group-title="SPORTS (DADDY LIVE)" streamId="259" channel-number="259",Sky Sports Football
+https://webhdrunns.mizhls.ru/lb/premium35/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
 
-#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="-",test 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium436/index.m3u8|Origin=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-arena-uk.png" group-title="SPORTS (DADDY LIVE)" streamId="260" channel-number="260",Sky Sports Arena
+https://webhdrunns.mizhls.ru/lb/premium36/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
 
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-action-uk.png" group-title="SPORTS (DADDY LIVE)" streamId="261" channel-number="261",Sky Sports Action
+https://webhdrunns.mizhls.ru/lb/premium37/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
 
-#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="-",test 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium437/index.m3u8|Origin=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="SPORTS (DADDY LIVE)" streamId="262" channel-number="262",Sky Sports Main Event
+https://webhdrunns.mizhls.ru/lb/premium38/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
 
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky sports Premier League" tvg-logo="https://e0.365dm.com/22/11/1600x900/skysports-premier-league-badge_5958904.jpg?20221108211627" group-title="SPORTS (DADDY LIVE)" streamId="263" channel-number="263",Sky sports Premier League
+https://webhdrunns.mizhls.ru/lb/premium130/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
 
-#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="-",test 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium438/index.m3u8|Origin=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS (DADDY LIVE)" streamId="264" channel-number="264",Sky Sports F1
+https://webhdrunns.mizhls.ru/lb/premium60/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
 
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://e0.365dm.com/20/04/192x192/skysports-sky-sports-cricket_4967063.jpg?20200411112851" group-title="SPORTS (DADDY LIVE)" streamId="265" channel-number="265",Sky Sports Cricket
+https://webhdrunns.mizhls.ru/lb/premium65/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
 
-#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="-",test 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium439/index.m3u8|Origin=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png" group-title="SPORTS (DADDY LIVE)" streamId="266" channel-number="266",Sky Sports Golf
+https://webhdrunns.mizhls.ru/lb/premium70/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
 
-#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="-",test 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium440/index.m3u8|Origin=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-uk.png" group-title="SPORTS (DADDY LIVE)" streamId="267" channel-number="267",Sky Sports News
+https://webhdrunns.mizhls.ru/lb/premium366/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
 
+#EXTINF:-1 tvg-id="SportsNetNewYork.us" tvg-name="SportsNet New York (SNY)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1200px-SNY_logo.svg.png" group-title="SPORTS (DADDY LIVE)" streamId="268" channel-number="268",SportsNet New York (SNY)
+https://webhdrunns.mizhls.ru/lb/premium759/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
 
-#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="-",test 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium441/index.m3u8|Origin=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="SportsnetOntario(English).ca" tvg-name="Sportsnet Ontario" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Rogers_Sportsnet_Ontario_thumb.png/revision/latest?cb=20160514183500" group-title="SPORTS (DADDY LIVE)" streamId="269" channel-number="269",Sportsnet Ontario
+https://webhdrunns.mizhls.ru/lb/premium406/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
 
+#EXTINF:-1 tvg-id="SportsnetOne(English).ca" tvg-name="Sportsnet One" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68859_h15_ac.png" group-title="SPORTS (DADDY LIVE)" streamId="270" channel-number="270",Sportsnet One
+https://webhdrunns.mizhls.ru/lb/premium411/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="13130" tvg-name="Sportsnet West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Rogers_sportsnet_west.png/revision/latest?cb=20120212022740" group-title="SPORTS (DADDY LIVE)" streamId="271" channel-number="271",Sportsnet West
+https://webhdrunns.mizhls.ru/lb/premium407/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="12722" tvg-name="Sportsnet East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Rogers_sportsnet_east_thumb.png/revision/latest?cb=20160514183643" group-title="SPORTS (DADDY LIVE)" streamId="272" channel-number="272",Sportsnet East
+https://webhdrunns.mizhls.ru/lb/premium408/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="Sportsnet360(English).ca" tvg-name="Sportsnet 360" tvg-logo="https://w7.pngwing.com/pngs/746/852/png-transparent-sportsnet-360-cfac-calgary-flames-national-hockey-league-others-text-logo-world.png" group-title="SPORTS (DADDY LIVE)" streamId="273" channel-number="273",Sportsnet 360
+https://webhdrunns.mizhls.ru/lb/premium409/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="SportsnetWorld(English).ca" tvg-name="Sportsnet World" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68946_h15_aa.png" group-title="SPORTS (DADDY LIVE)" streamId="274" channel-number="274",Sportsnet World
+https://webhdrunns.mizhls.ru/lb/premium410/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="SpectrumSportsNetLA.us" tvg-name="Spectrum Sportsnet LA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/spectrum-sportsnet-la-us.png" group-title="SPORTS (DADDY LIVE)" streamId="275" channel-number="275",Spectrum Sportsnet LA
+https://webhdrunns.mizhls.ru/lb/premium764/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="9188" tvg-name="BT Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-1-uk.png" group-title="SPORTS (DADDY LIVE)" streamId="276" channel-number="276",BT Sport 1
+https://webhdrunns.mizhls.ru/lb/premium31/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="9350" tvg-name="BT Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-2-uk.png" group-title="SPORTS (DADDY LIVE)" streamId="277" channel-number="277",BT Sport 2
+https://webhdrunns.mizhls.ru/lb/premium32/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="9202" tvg-name="BT Sport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-3-uk.png" group-title="SPORTS (DADDY LIVE)" streamId="278" channel-number="278",BT Sport 3
+https://webhdrunns.mizhls.ru/lb/premium33/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="9529" tvg-name="BT Sport 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-4-uk.png" group-title="SPORTS (DADDY LIVE)" streamId="279" channel-number="279",BT Sport 4
+https://webhdrunns.mizhls.ru/lb/premium34/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="TSN1(English).ca" tvg-name="TSN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="SPORTS (DADDY LIVE)" streamId="280" channel-number="280",TSN1
+https://webhdrunns.mizhls.ru/lb/premium111/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="TSN2(English).ca" tvg-name="TSN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/2560px-TSN2_New_Logo.svg.png" group-title="SPORTS (DADDY LIVE)" streamId="281" channel-number="281",TSN2
+https://webhdrunns.mizhls.ru/lb/premium112/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="TSN3(English).ca" tvg-name="TSN3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90119_h15_aa.png" group-title="SPORTS (DADDY LIVE)" streamId="282" channel-number="282",TSN3
+https://webhdrunns.mizhls.ru/lb/premium113/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="TSN4(English).ca" tvg-name="TSN4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png" group-title="SPORTS (DADDY LIVE)" streamId="283" channel-number="283",TSN4
+https://webhdrunns.mizhls.ru/lb/premium114/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="TSN5(English).ca" tvg-name="TSN5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1200px-TSN5.svg.png" group-title="SPORTS (DADDY LIVE)" streamId="284" channel-number="284",TSN5
+https://webhdrunns.mizhls.ru/lb/premium115/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png" group-title="SPORTS (DADDY LIVE)" streamId="285" channel-number="285",Tennis Channel
+https://webhdrunns.mizhls.ru/lb/premium40/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tudn-us.png" group-title="SPORTS (DADDY LIVE)" streamId="286" channel-number="286",TUDN
+https://webhdrunns.mizhls.ru/lb/premium66/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 1" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" streamId="287" channel-number="287",Tennis+ 1
+https://webhdrunns.mizhls.ru/lb/premium700/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 2" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" streamId="288" channel-number="288",Tennis+ 2
+https://webhdrunns.mizhls.ru/lb/premium701/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 3" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" streamId="289" channel-number="289",Tennis+ 3
+https://webhdrunns.mizhls.ru/lb/premium702/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 4" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" streamId="290" channel-number="290",Tennis+ 4
+https://webhdrunns.mizhls.ru/lb/premium703/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 5" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" streamId="291" channel-number="291",Tennis+ 5
+https://webhdrunns.mizhls.ru/lb/premium704/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 6" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" streamId="292" channel-number="292",Tennis+ 6
+https://webhdrunns.mizhls.ru/lb/premium705/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 7" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" streamId="293" channel-number="293",Tennis+ 7
+https://webhdrunns.mizhls.ru/lb/premium706/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 8" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" streamId="294" channel-number="294",Tennis+ 8
+https://webhdrunns.mizhls.ru/lb/premium707/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 9" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" streamId="295" channel-number="295",Tennis+ 9
+https://webhdrunns.mizhls.ru/lb/premium708/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 10" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" streamId="296" channel-number="296",Tennis+ 10
+https://webhdrunns.mizhls.ru/lb/premium709/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 11" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" streamId="297" channel-number="297",Tennis+ 11
+https://webhdrunns.mizhls.ru/lb/premium710/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 12" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" streamId="298" channel-number="298",Tennis+ 12
+https://webhdrunns.mizhls.ru/lb/premium711/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 13" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" streamId="299" channel-number="299",Tennis+ 13
+https://webhdrunns.mizhls.ru/lb/premium712/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 14" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" streamId="300" channel-number="300",Tennis+ 14
+https://webhdrunns.mizhls.ru/lb/premium713/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 15" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" streamId="301" channel-number="301",Tennis+ 15
+https://webhdrunns.mizhls.ru/lb/premium714/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="Viaplay Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/viaplay-sports-1-uk.png" group-title="SPORTS (DADDY LIVE)" streamId="302" channel-number="302",Viaplay Sports 1
+https://webhdrunns.mizhls.ru/lb/premium451/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="Viaplay Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/viaplay-sports-2-uk.png" group-title="SPORTS (DADDY LIVE)" streamId="303" channel-number="303",Viaplay Sports 2
+https://webhdrunns.mizhls.ru/lb/premium550/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="ViaplayXtra.uk" tvg-name="Viaplay Xtra" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/viaplay-xtra-uk.png" group-title="SPORTS (DADDY LIVE)" streamId="304" channel-number="304",Viaplay Xtra
+https://webhdrunns.mizhls.ru/lb/premium597/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="Willow Cricket" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS (DADDY LIVE)" streamId="305" channel-number="305",Willow Cricket
+https://webhdrunns.mizhls.ru/lb/premium346/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="WillowXtra.us" tvg-name="Willow XTRA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/willow-xtra-us.png" group-title="SPORTS (DADDY LIVE)" streamId="306" channel-number="306",Willow XTRA
+https://webhdrunns.mizhls.ru/lb/premium598/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+#EXTINF:-1 tvg-id="WWENetwork(English).ca" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/wwe-us.png" group-title="SPORTS (DADDY LIVE)" streamId="307" channel-number="307",WWE Network
+https://webhdrunns.mizhls.ru/lb/premium376/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
 
 
 
