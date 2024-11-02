@@ -638,11 +638,20 @@ https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://qqwebpla
 https://webhdrus.onlinehdhls.ru/lb/premium43/index.m3u8|Origin=https://qqwebplay.xyz
 
 
+#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/jb1igcv.png" group-title="ASTRO",TEST 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium374/index.m3u8|Origin=https://qqwebplay.xyz
 
+#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/jb1igcv.png" group-title="ASTRO",TEST 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium375/index.m3u8|Origin=https://qqwebplay.xyz
 
-
-
-
+#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/jb1igcv.png" group-title="ASTRO",TEST 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium376/index.m3u8|Origin=https://qqwebplay.xyz
 
 
 ---------------------------365digital-----------------------------------
