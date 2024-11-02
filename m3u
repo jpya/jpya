@@ -622,17 +622,21 @@ https://topembed.mizhls.ru/lb/espndeportes/playlist.m3u8
 
 
 
-#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="-",TNT Sports 1
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="-",Test 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://ddy1.iosplayer.ru/tshttp/ddy1/premium308/mono.m3u8?token=none
+https://webhdrus.onlinehdhls.ru/lb/premium431/index.m3u8|Origin=https://weblivehdplay.ru/
 
-
-#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="-",TNT Sports 1
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="-",Test 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-https://ddy1.iosplayer.ru/tshttp/ddy1/premium308/mono.m3u8?token=none
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium432/index.m3u8|Origin=https://weblivehdplay.ru/
 
+
+#EXTINF:-1 group-logo="-"  group-title="Superdeportes"  tvg-name="test" tvg-id="None" tvg-logo="-",Test 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium433/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
 
