@@ -523,8 +523,8 @@ https://restr2.bgtv.bg/agro/hls/agro.m3u8
 #EXTVLCOPT:network-caching=1000
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
-
-
+#EXTINF:-1 group-title="AGRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/1200px-TV_Agro_logo.svg.png", Agro Brasil
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 -----------------claro sports----------------------
 ---------------------------------------------------
