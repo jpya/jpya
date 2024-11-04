@@ -1319,6 +1319,19 @@ http://181.78.106.127:9000/play/ca035/index.m3u8
 http://181.78.106.127:9000/play/ca036/index.m3u8
 
 
+#EXTINF:-1 group-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="Sky-Espn+ " ,ESPN VIVO HD
+http://200.60.124.19:29000/play/a016/index.m3u8
+#EXTINF:-1 group-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="Sky-Espn+ " ,ESPN 2 HD
+http://200.60.124.19:29000/play/a015/index.m3u8
+#EXTINF:-1 group-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="Sky-Espn+ " ,ESPN 3 HD
+http://200.60.124.19:29000/play/a02e/index.m3u8
+#EXTINF:-1 group-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="Sky-Espn+ " ,ESPN 5
+http://200.60.124.19:29000/play/a04y/index.m3u8
+#EXTINF:-1 group-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="Sky-Espn+ " , ESPN 6
+http://200.60.124.19:29000/play/a01f/index.m3u8
+#EXTINF:-1 group-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="Sky-Espn+ " ,ESPN 7
+http://200.60.124.19:29000/play/a01e/index.m3u8
+
 ------------------------------------- MUSICA -------------------------------------------
 ----------------------------------------------------------------------------------------
 
