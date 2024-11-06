@@ -607,6 +607,10 @@ https://csc-ptn-edge01.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd
 
 -----------------------------Astro-----------------------------------
 -----------------------------------------------------------------------------
+#EXTINF:-1 group-logo="https://i.imgur.com/YqQIrY0.png"    tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="Aprender a",aprender a soltar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://pelisflix2.report/
+https://sv5.nupload.site/06/62/06226ddf626.m3u8
 
 
 
