@@ -849,7 +849,7 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344436.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="ARGENTINA", 4 AMERICA (🇦🇷) ss
-https://smt-edge03.sensa.com.ar//live/live/eds/America/live_dash_cld/America.mpd
+https://smt-edge03.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
 
 
 EL TRECE
