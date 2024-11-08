@@ -1984,7 +1984,8 @@ WOBI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2e44a719947ebfe37de527a9d6df71e:029bddeb08909dd66a80276fc338d692
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Wobi.png/revision/latest?cb=20220412231141" group-title="COCINA Y MODA", 164 WOBI (🇦🇷) fw
-https://edge-live17-hr.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc/WOBI.mpd
+https://edge-live01-cen.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc_C/WOBI.mpd
+
 
 LIFETIME
 
