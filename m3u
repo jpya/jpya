@@ -2635,10 +2635,6 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 
 
 
-#EXTINF:-1  test 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://joyousplay.xyz/
-https://webufffit.mizhls.ru/lb/primamatchpremier/index.m3u8
 
 
 
@@ -2941,12 +2937,12 @@ http://cdn.adultiptv.net/rough.m3u8
 
 PORTEÑA COOPLUS
 
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"  tvg-logo="https://www.sensa.com.ar/images/logo_sensa_nav.png" group-title="REGIONAL", 1 porteña
+#EXTINF:-0 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"  tvg-logo="https://www.sensa.com.ar/images/logo_sensa_nav.png" group-title="REGIONAL", 1 porteña
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:network-caching=1000
 https://cdn.sensa.com.ar/output/SMT5/PORD/output.mpd
 
 MORTEROS
