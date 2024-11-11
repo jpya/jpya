@@ -3314,8 +3314,17 @@ https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 --------------------novelas------------------------------
 ---------------------------------------------------------
 
-#EXTINF:-1 group-logo="-"  tvg-logo="-" group-title="NOVELAS", NOVELAS 1
+#EXTINF:-1 group-logo="-"  tvg-logo="-" group-title="NOVELAS", NOVELAS DRAMA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
+
+#EXTINF:-1 group-logo="-"  tvg-logo="-" group-title="NOVELAS", NOVELAS ROMANCE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84db2db3851800077c871e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=941&terminate=false&userId=
+
+#EXTINF:-1 group-logo="-"  tvg-logo="-" group-title="NOVELAS", NOVELAS TELEMUNDO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
+
+#EXTINF:-1 group-logo="-"  tvg-logo="-" group-title="NOVELAS", NOVELISIMA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
 #EXTINF:-1 group-logo="-"  tvg-logo="-" group-title="NOVELAS", TELEVISA NOVELAS
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
@@ -3325,7 +3334,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 
 #EXTINF:-1 group-logo="-"  tvg-logo="-" group-title="NOVELAS", NOVELAS TURCAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
-
 
 
 
