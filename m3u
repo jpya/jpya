@@ -2344,14 +2344,7 @@ https://edge-live31-hr.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/F
 
 testeando
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e87d24ed7b54576895548ffa65eab1d:1e5d7c9e67248af38e48ec56d2241507
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-#EXTGRP:CANALES HOOTLASK
-#EXTVLCOPT:audio-track="es-ES"
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-shift="" tvg-logo="https://hootlask.com/img/logo/ea.jpg" group-title="CANALES HOOTLASK", TCinecanal MX
-https://live4-ott.izzigo.tv/out/u/dash/CINECANAL-HD/default.mpd
+
 
 
 
