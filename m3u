@@ -2342,7 +2342,7 @@ https://edge-live31-hr.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/F
 
 
 
-testeando
+
 
 
 
@@ -3308,6 +3308,24 @@ TELEMUNDO
 
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344530.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="MEXICO", 456 TELEMUNDO CA (🇲🇽)
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+
+
+--------------------novelas------------------------------
+---------------------------------------------------------
+
+#EXTINF:-1 group-logo="-"  tvg-logo="-" group-title="NOVELAS", NOVELAS 1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
+
+#EXTINF:-1 group-logo="-"  tvg-logo="-" group-title="NOVELAS", TELEVISA NOVELAS
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-logo="-"  tvg-logo="-" group-title="NOVELAS", NOVELAS 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+
+#EXTINF:-1 group-logo="-"  tvg-logo="-" group-title="NOVELAS", NOVELAS TURCAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+
 
 
 
