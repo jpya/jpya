@@ -5486,3 +5486,198 @@ https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/329.m3u8
 https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/398.m3u8
 EXTINF:-1 group-title="24/7" , 24/7 BOB ESPONJA
 https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/404.m3u8
+
+
+#EXTINF:-1 group-title="Respaldo SD" ,AE Mundo
+http://181.78.27.128:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,ATV
+http://181.78.27.128:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,AXN
+http://181.78.27.128:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Abc Tv
+http://181.78.27.128:8000/play/a05r/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,America TV
+http://181.78.27.128:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,America TV PY
+http://181.78.27.128:8000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,AmericaTV
+http://181.78.27.128:8000/play/a048/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Animal Planet
+http://181.78.27.128:8000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,BabyFirst
+http://181.78.27.128:8000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,C9n
+http://181.78.27.128:8000/play/a05s/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,CANAL E
+http://181.78.27.128:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,CN23
+http://181.78.27.128:8000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,CNN Espanol
+http://181.78.27.128:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,CRONICA TV
+http://181.78.27.128:8000/play/a04k/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Canal AlbNET
+http://181.78.27.128:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Canal Estrellas
+http://181.78.27.128:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Cartoon Network
+http://181.78.27.128:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Cartoonito HD
+http://181.78.27.128:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Cinecanal
+http://181.78.27.128:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Cinemax
+http://181.78.27.128:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Deporte Py
+http://181.78.27.128:8000/play/a060/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Deporte Py+
+http://181.78.27.128:8000/play/a061/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Discovery Channel
+http://181.78.27.128:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Discovery ID
+http://181.78.27.128:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Discovery Kids
+http://181.78.27.128:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Discovery Turbo
+http://181.78.27.128:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Disney Channel
+http://181.78.27.128:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Disney Jr
+http://181.78.27.128:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,E Entertainment
+http://181.78.27.128:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,E40
+http://181.78.27.128:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,ENCUENTRO HD
+http://181.78.27.128:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,ESPN
+http://181.78.27.128:8000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,ESPN 2
+http://181.78.27.128:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,ESPN 2 Latin
+http://181.78.27.128:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,ESPN 3
+http://181.78.27.128:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,ESPN 4
+http://181.78.27.128:8000/play/a04b/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,El Trece Arg
+http://181.78.27.128:8000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Enlace
+http://181.78.27.128:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Ewtn
+http://181.78.27.128:8000/play/a066/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,FX
+http://181.78.27.128:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Fox Sport 1
+http://181.78.27.128:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Fox Sport 2
+http://181.78.27.128:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Fox Sports 2
+http://181.78.27.128:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Fox Sports 3
+http://181.78.27.128:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,France 24
+http://181.78.27.128:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Gen_Py
+http://181.78.27.128:8000/play/a05n/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Globo Brasil
+http://181.78.27.128:8000/play/a068/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,HBO
+http://181.78.27.128:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,HBO 2
+http://181.78.27.128:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,HBO Family
+http://181.78.27.128:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,HBO Plus
+http://181.78.27.128:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,HBO XTREME SD
+http://181.78.27.128:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,History Channel
+http://181.78.27.128:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,HomeandHealth
+http://181.78.27.128:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,IP
+http://181.78.27.128:8000/play/a055/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,LAPACHO TV
+http://181.78.27.128:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,La Tele 
+http://181.78.27.128:8000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Latina
+http://181.78.27.128:8000/play/a047/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,MTV
+http://181.78.27.128:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Nat Geo
+http://181.78.27.128:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Nick Jr
+http://181.78.27.128:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Nickelodeon
+http://181.78.27.128:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,PAKA PAKA
+http://181.78.27.128:8000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Panamericana TV
+http://181.78.27.128:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Paraguay Tv
+http://181.78.27.128:8000/play/a05m/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Paravision
+http://181.78.27.128:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,RCN Novelas
+http://181.78.27.128:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,SNT
+http://181.78.27.128:8000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,STAR CHANNEL
+http://181.78.27.128:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Sbt Brasil
+http://181.78.27.128:8000/play/a067/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Sin Limites
+http://181.78.27.128:8000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Sony
+http://181.78.27.128:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Space
+http://181.78.27.128:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Studio Universal
+http://181.78.27.128:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,TCM
+http://181.78.27.128:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,TEC TV
+http://181.78.27.128:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,TLC
+http://181.78.27.128:8000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,TNT
+http://181.78.27.128:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,TNT Novelas
+http://181.78.27.128:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Telefe Arg
+http://181.78.27.128:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Telefuturo
+http://181.78.27.128:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Telemundo
+http://181.78.27.128:8000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Tnt Sport
+http://181.78.27.128:8000/play/a064/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Trece
+http://181.78.27.128:8000/play/a05w/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Tyc Sport
+http://181.78.27.128:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,USA SD
+http://181.78.27.128:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Unicanal 
+http://181.78.27.128:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Universal
+http://181.78.27.128:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD"  tvg-chno="461" tvg-id="UNIVERSAL CINEMA.py" tvg-name="UNIVERSAL CINEMA.py" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true" group-title="Universal+ Pack", Universal Cinema
+http://181.78.27.128:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD"  tvg-chno="462" tvg-id="UNIVERSAL COMEDY.py" tvg-name="UNIVERSAL COMEDY.py" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICO.png?raw=true" group-title="Universal+ Pack", Universal Comedy
+http://181.78.27.128:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD"  tvg-chno="460" tvg-id="UNIVERSAL PREMIERE.py" tvg-name="UNIVERSAL PREMIERE.py" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIPR.png?raw=true" group-title="Universal+ Pack", Universal Premiere
+http://181.78.27.128:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Warner
+http://181.78.27.128:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Zona Latina
+http://181.78.27.128:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,FARRA PLAY
+https://stream.farra.com.py/live/farra.m3u8
+#EXTINF:-1 group-title="Respaldo SD" ,Tele N HD
+https://videostream.shockmedia.com.ar:19360/tlnhd/tlnhd.m3u8
+#EXTINF:-1 group-title="Respaldo SD" , FARRA PLAY HD
+http://159.203.148.226/live/farra_src.m3u
+
