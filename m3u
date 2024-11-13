@@ -5668,14 +5668,4 @@ https://videostream.shockmedia.com.ar:19360/tlnhd/tlnhd.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  , FARRA PLAY HD
 http://159.203.148.226/live/farra_src.m3u8
 
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="Deportes",Fox Sports Premium
-http://bgtv.xyz/play/play-117.php?tlat=364&token=dfghdfghfghdfghdfg
-
-
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="Deportes",Liga 1 Max
-http://bgtv.xyz/play/play-117.php?tlat=367&token=dfghdfghfghdfghdfg
 
