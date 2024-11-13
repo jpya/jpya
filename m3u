@@ -2775,6 +2775,8 @@ https://trace-sportstars-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/857/857455.png" group-title="DEPORTES VARIOS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a0221ad835e26b43c69c35e76f0cd052.webp" ,Deporte Canela
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/857/857455.png" group-title="DEPORTES VARIOS" tvg-logo="https://play-lh.googleusercontent.com/Zt7pigoU67Zun6NMuXzKLSGdk-UHHfBlk59ck4TfMChUlqvrgJnZ23cbXQhDYd1Vww" ,ITV Deporte
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
 
 
 --------------------------------------- DEPORTES DAZN --------------------------------------------
