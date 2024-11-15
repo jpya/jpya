@@ -2021,7 +2021,7 @@ https://cdn.sensa.com.ar/live/eds/DePelicula/live_dash_cld/DePelicula.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/268/CH_LOGO/160/160/0/0/28796844071531.png" group-title="DOCUMENTALES Y CULTURA", HGTV (🇦🇷) ss
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/268/CH_LOGO/160/160/0/0/28796844071531.png" group-title="DOCUMENTALES Y CULTURA",139 HGTV (🇦🇷) ss
 https://smt-edge03.sensa.com.ar//live/eds/HGTV/live_dash_cld/HGTV.mpd
 
 NAT GEO
@@ -2036,6 +2036,17 @@ NAT GEO
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png" group-title="DOCUMENTALES Y CULTURA", 140 NAT GEO (🇦🇷) fw
 https://chromecast.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png" group-title="DOCUMENTALES Y CULTURA", 140 NAT GEO (🇦🇷) ss
+https://cdn.sensa.com.ar/live/eds/NatGeo/live_dash_cld/NatGeo.mpd
+
+
+
 HISTORY
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2047,6 +2058,18 @@ HISTORY
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/160/160/0/0/90194224071499.png" group-title="DOCUMENTALES Y CULTURA", 141 HISTORY (🇦🇷) fw
 https://chromecast.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/160/160/0/0/90194224071499.png" group-title="DOCUMENTALES Y CULTURA", 141 HISTORY (🇦🇷) ss
+https://cdn.sensa.com.ar/live/eds/History/live_dash_cld/History.mpd
+
+
+
 
 H 2
 
@@ -2060,6 +2083,18 @@ H 2
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/160/160/0/0/16627153073621.png" group-title="DOCUMENTALES Y CULTURA", 142 H2 (🇦🇷) fw
 https://chromecast.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd
 
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/160/160/0/0/16627153073621.png" group-title="DOCUMENTALES Y CULTURA", 142 H2 (🇦🇷) ss
+https://cdn.sensa.com.ar/live/eds/History2/live_dash_cld/History2.mpd
+
+
+
 DISCOVERY CIENSE
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2071,6 +2106,17 @@ DISCOVERY CIENSE
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png" tvg-logo="https://e7.pngegg.com/pngimages/521/498/png-clipart-logo-science-channel-television-channel-discovery-science-science-television-text.png" group-title="DOCUMENTALES Y CULTURA", 143 DISCOVERY SCIENCE (🇦🇷) fw 
 https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc/Discovery_Science.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png" tvg-logo="https://e7.pngegg.com/pngimages/521/498/png-clipart-logo-science-channel-television-channel-discovery-science-science-television-text.png" group-title="DOCUMENTALES Y CULTURA", 143 DISCOVERY SCIENCE (🇦🇷) ss
+https://cdn.sensa.com.ar/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScience.mpd
+
+
 
 DISCOVERY 
 
@@ -2084,6 +2130,17 @@ DISCOVERY
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/60/60/0/0/24951383073066.png" group-title="DOCUMENTALES Y CULTURA", 144 DISCOVERY (🇦🇷) fw
 https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/60/60/0/0/24951383073066.png" group-title="DOCUMENTALES Y CULTURA", 144 DISCOVERY (🇦🇷) ss
+https://cdn.sensa.com.ar/live/eds/DiscoveryChannel/live_dash_cld/DiscoveryChannel.mpd
+
+
+
 DISCOVERY TURBO
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2096,6 +2153,8 @@ DISCOVERY TURBO
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png"  tvg-logo="https://banner2.kisspng.com/20180704/hty/kisspng-discovery-turbo-television-channel-discovery-chann-rua-gabriel-oeschler-5b3cb4edd44231.0893172215307051338694.jpg" group-title="DOCUMENTALES Y CULTURA", 145 DISCOVERY TURBO (🇦🇷) fw
 https://chromecast.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd
 
+
+
 DISCOVERY WORLD
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2107,6 +2166,18 @@ DISCOVERY WORLD
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/69/CH_LOGO/60/60/0/0/24981309071389.png" group-title="DOCUMENTALES Y CULTURA",146 DISCOVERY WORLD (🇦🇷) fw
 https://chromecast.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc/Discovery_World_HD.mpd
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/69/CH_LOGO/60/60/0/0/24981309071389.png" group-title="DOCUMENTALES Y CULTURA",146 DISCOVERY WORLD (🇦🇷) ss
+https://cdn.sensa.com.ar/live/eds/DiscoveryWorld/live_dash_cld/DiscoveryWorld.mpd
+
+
 
 FILM ARTS
 
@@ -2141,8 +2212,21 @@ DISCOVERY THEATER
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5279c05ea51c4dae8e7fa6be88448089:b28dfafba4b848dfd5d7c177ebf19108
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10d7e8b1-9fe1-4c41-aeb7-331f4fb188aa/dfkeh0r-2f9d29c4-cbce-4ec5-a043-594d28f10a85.png/v1/fill/w_1280,h_397/2015_discovery_theater_hd_logo_svg_by_huyvo2001_dfkeh0r-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mzk3IiwicGF0aCI6IlwvZlwvMTBkN2U4YjEtOWZlMS00YzQxLWFlYjctMzMxZjRmYjE4OGFhXC9kZmtlaDByLTJmOWQyOWM0LWNiY2UtNGVjNS1hMDQzLTU5NGQyOGYxMGE4NS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.F5yzNqknsw4c8auF0sHKYeQxJ8MbCLgj5ilzt3p0GNc" group-title="DOCUMENTALES Y CULTURA", 149 DISCOVERY THEATER (🇦🇷) fw
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/68/CH_LOGO/160/160/0/0/72670030071181.png" group-title="DOCUMENTALES Y CULTURA", 149 DISCOVERY THEATER (🇦🇷) fw
 https://chromecast.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc/Theater_HD.mpd
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/68/CH_LOGO/160/160/0/0/72670030071181.png" group-title="DOCUMENTALES Y CULTURA", 149 DISCOVERY THEATER (🇦🇷) ss
+https://cdn.sensa.com.ar/live/eds/DiscoveryTheater/live_dash_cld/DiscoveryTheater.mpd
+
+
+
 
 SUN CHANNEL
 
