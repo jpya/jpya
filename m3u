@@ -1941,6 +1941,17 @@ FX
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/10893/10893592.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/160/160/0/0/35224800072040.png" group-title="CINE", 127 FX (🇦🇷) fw
 https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_2A/FXHD.mpd
 
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/10893/10893592.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/160/160/0/0/35224800072040.png" group-title="CINE", 127 FX (🇦🇷) ss
+https://cdn.sensa.com.ar/live/eds/FX/live_dash_cld/FX.mpd
+
+
 TBS
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1952,6 +1963,8 @@ TBS
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/10893/10893592.png"  tvg-logo="https://iconape.com/wp-content/png_logo_vector/tbs.png" group-title="CINE", 128 TBS (🇦🇷) fw
 https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd
+
+
 
 AXN
 
@@ -1966,6 +1979,35 @@ AXN
 https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/10893/10893592.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/160/160/0/0/77211152071862.png" group-title="CINE", 129 AXN (🇦🇷) ss
+https://cdn.sensa.com.ar/live/eds/AXN/live_dash_cld/AXN.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/10893/10893592.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/285/CH_LOGO/160/160/0/0/1820288007328.png" group-title="CINE", 129 TCM (🇦🇷) ss
+https://cdn.sensa.com.ar/live/eds/TCM/live_dash_cld/TCM.mpd
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/10893/10893592.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/316/CH_LOGO/160/160/0/0/2880757007137.png" group-title="CINE", 129 DE PELICULA (🇦🇷) ss
+https://cdn.sensa.com.ar/live/eds/DePelicula/live_dash_cld/DePelicula.mpd
 
 
 
