@@ -3,8 +3,6 @@
 
 
 
-
-
 ----------------4g-----------------------
 -----------------------------------------
 
@@ -529,6 +527,7 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 group-title="AGRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/1200px-TV_Agro_logo.svg.png", Agro Brasil
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
+
 -----------------claro sports----------------------
 ---------------------------------------------------
 
@@ -781,6 +780,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/o
 
 ---------------------ARGENTINAS --------------------------
 ----------------------------------------------------------
+
 EL NUEVE
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1107,7 +1107,8 @@ CANAL 26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1042/1042680.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png" group-title="NOTICIAS",  60 CANAL 26 (🇦🇷) fw
-https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_C/26_TV_HD.mpd
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1145,7 +1146,8 @@ https://smt-edge03.sensa.com.ar//live/eds/TN/live_dash_cld/TN.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1042/1042680.png" tvg-id="TodoNoticias.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="NOTICIAS", 64 TODO NOTICIAS (🇦🇷) fw
-https://edge-mix02-cen.cvattv.com.ar/live/c4eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd
+
 
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1042/1042680.png" tvg-id="TodoNoticias.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="NOTICIAS", 64 TODO NOTICIAS (🇦🇷) m3u8
 https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
@@ -1162,7 +1164,7 @@ A 24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1042/1042680.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/5552631907343.png" group-title="NOTICIAS",65 A 24 (🇦🇷) fw
-https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1187,7 +1189,7 @@ C5N
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1042/1042680.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png" group-title="NOTICIAS", 67 C5N (🇦🇷) fw
-https://edge-live15-hr.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
+https://chromecast.cvattv.com.ar/live/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1222,7 +1224,7 @@ https://smt-edge03.sensa.com.ar//live/eds/Cronica/live_dash_cld/Cronica.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1042/1042680.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png" group-title="NOTICIAS",70 CRONICA TV (🇦🇷) fw
-https://edge-live15-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd
 
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1042/1042680.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png" group-title="NOTICIAS",70 CRONICA TV (🇦🇷) m3u8
 https://delivery.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
@@ -1248,7 +1250,7 @@ https://smt-edge03.sensa.com.ar//live/eds/LaNacionMas/live_dash_cld/LaNacionMas.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1042/1042680.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" group-title="NOTICIAS", 72 LA NACION (🇦🇷) fw
-https://edge-live15-hr.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd
 
 
 CNN
@@ -1775,7 +1777,7 @@ NAT GEO
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png" group-title="DOCUMENTALES Y CULTURA", 140 NAT GEO (🇦🇷) fw
-https://edge-live02-mun.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd
 
 HISTORY
 
@@ -1787,7 +1789,7 @@ HISTORY
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/160/160/0/0/90194224071499.png" group-title="DOCUMENTALES Y CULTURA", 141 HISTORY (🇦🇷) fw
-https://edge-live17-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd
 
 H 2
 
@@ -1799,7 +1801,7 @@ H 2
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/160/160/0/0/16627153073621.png" group-title="DOCUMENTALES Y CULTURA", 142 H2 (🇦🇷) fw
-https://edge-live02-mun.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd
 
 DISCOVERY CIENSE
 
@@ -1811,7 +1813,7 @@ DISCOVERY CIENSE
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png" tvg-logo="https://e7.pngegg.com/pngimages/521/498/png-clipart-logo-science-channel-television-channel-discovery-science-science-television-text.png" group-title="DOCUMENTALES Y CULTURA", 143 DISCOVERY SCIENCE (🇦🇷) fw 
-https://edge-live17-hr.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc/Discovery_Science.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc/Discovery_Science.mpd
 
 DISCOVERY 
 
@@ -1823,7 +1825,7 @@ DISCOVERY
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/60/60/0/0/24951383073066.png" group-title="DOCUMENTALES Y CULTURA", 144 DISCOVERY (🇦🇷) fw
-https://edge-live17-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd
 
 DISCOVERY TURBO
 
@@ -1835,7 +1837,7 @@ DISCOVERY TURBO
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png"  tvg-logo="https://banner2.kisspng.com/20180704/hty/kisspng-discovery-turbo-television-channel-discovery-chann-rua-gabriel-oeschler-5b3cb4edd44231.0893172215307051338694.jpg" group-title="DOCUMENTALES Y CULTURA", 145 DISCOVERY TURBO (🇦🇷) fw
-https://edge-vod03-hr.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd
 
 DISCOVERY WORLD
 
@@ -1847,7 +1849,7 @@ DISCOVERY WORLD
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/69/CH_LOGO/60/60/0/0/24981309071389.png" group-title="DOCUMENTALES Y CULTURA",146 DISCOVERY WORLD (🇦🇷) fw
-https://edge-live17-hr.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc/Discovery_World_HD.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc/Discovery_World_HD.mpd
 
 FILM ARTS
 
@@ -1883,7 +1885,7 @@ DISCOVERY THEATER
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5279c05ea51c4dae8e7fa6be88448089:b28dfafba4b848dfd5d7c177ebf19108
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10d7e8b1-9fe1-4c41-aeb7-331f4fb188aa/dfkeh0r-2f9d29c4-cbce-4ec5-a043-594d28f10a85.png/v1/fill/w_1280,h_397/2015_discovery_theater_hd_logo_svg_by_huyvo2001_dfkeh0r-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mzk3IiwicGF0aCI6IlwvZlwvMTBkN2U4YjEtOWZlMS00YzQxLWFlYjctMzMxZjRmYjE4OGFhXC9kZmtlaDByLTJmOWQyOWM0LWNiY2UtNGVjNS1hMDQzLTU5NGQyOGYxMGE4NS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.F5yzNqknsw4c8auF0sHKYeQxJ8MbCLgj5ilzt3p0GNc" group-title="DOCUMENTALES Y CULTURA", 149 DISCOVERY THEATER (🇦🇷) fw
-https://edge-live17-hr.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc/Theater_HD.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc/Theater_HD.mpd
 
 SUN CHANNEL
 
@@ -1895,7 +1897,7 @@ SUN CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=158177692aa3463eae5f4e1f72403e9c:1c6c026fba9cf7ecb576c7bedce0ead4
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/1200px-Sun_Channel_logo.svg.png" group-title="DOCUMENTALES Y CULTURA", 150 SUN CHANNEL (🇦🇷) fw
-https://edge-live17-hr.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1931,7 +1933,7 @@ FOOD NETWORK
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/86/CH_LOGO/60/60/0/0/90527363073450.png" group-title="COCINA Y MODA", 160 FOOD NETWORK (🇦🇷) fw
-https://edge-live17-hr.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc/Food_Network.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc/Food_Network.mpd
 
 EL GOURMET
 
@@ -1943,7 +1945,7 @@ EL GOURMET
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/82/CH_LOGO/60/60/0/0/15069203073244.png" group-title="COCINA Y MODA", 161 EL GOURMET (🇦🇷) fw
-https://edge-live12-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd
 
 HOLA TV
 
@@ -1955,7 +1957,7 @@ HOLA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d759477f0ad1bdef2c6de09e7c275fd:82cc6eea185eecc934df95adfbbf9dbc
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png"  tvg-logo="https://image.pitchbook.com/5dSZGkokRkvpzWs5cAr2597YVuX1594151049473_200x200" group-title="COCINA Y MODA", 162 HOLA TV (🇦🇷) fw
-https://edge-live17-hr.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc/Hola_TV.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc/Hola_TV.mpd
 
 TV 5 MONDE
 
@@ -1967,7 +1969,7 @@ TV 5 MONDE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62034ff5988b4787b17cdf6f751a3142:b3938f0af28b4c0c082b0d4210e389a0
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV5MONDE_logo.png" group-title="COCINA Y MODA", 163 TV 5 MONDE (🇦🇷) fw
-https://edge-live17-hr.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc/TV5_Monde.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc/TV5_Monde.mpd
 
 WOBI
 
@@ -1979,7 +1981,7 @@ WOBI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2e44a719947ebfe37de527a9d6df71e:029bddeb08909dd66a80276fc338d692
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Wobi.png/revision/latest?cb=20220412231141" group-title="COCINA Y MODA", 164 WOBI (🇦🇷) fw
-https://edge-live01-cen.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc_C/WOBI.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc_C/WOBI.mpd
 
 
 LIFETIME
@@ -1992,7 +1994,7 @@ LIFETIME
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eae51b1d67ff47adac7b6bd3a4b1120a:b4d6bb47193f33ffc12379cdc447455d
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png"  tvg-logo="https://www.pngkit.com/png/full/806-8065614_lifetime-logo-lifetime-tv.png" group-title="COCINA Y MODA", 165 LIFETIME (🇦🇷) fw
-https://edge-live17-hr.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc/Lifetime.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc/Lifetime.mpd
 
 MAS CHIC
 
@@ -2004,7 +2006,7 @@ MAS CHIC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac8ff1688994efd898222acdd05cafc:22fdf97c7233667518258ed16ccb2545
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png" tvg-logo="https://4.bp.blogspot.com/-yIuiaw5RAOY/VZA9CnEF_2I/AAAAAAAAAHk/a_ycmDi9gCY/s1600/maschic-2015.png" group-title="COCINA Y MODA", 166 MAS CHIC (🇦🇷) fw
-https://edge-live17-hr.cvattv.com.ar/live/c6eds/Mas_Chic/SA_Live_dash_enc/Mas_Chic.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/Mas_Chic/SA_Live_dash_enc/Mas_Chic.mpd
 
 GUSTO TV CANAGA (ENG)
 
@@ -2217,19 +2219,8 @@ ESPN ARGENTINA
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="ESPN",200 ESPN (🇦🇷) fw
-https://edge-live02-mun.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="ESPN",200 ESPN opc 2 (🇦🇷) fw
 https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
 
-ESPN ARGENTINA
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2239,6 +2230,10 @@ ESPN ARGENTINA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTINF:-1  group-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="ESPN",201 ESPN (🇦🇷) ss
 https://smt-edge03.sensa.com.ar//live/eds/ESPN/live_dash_cld/ESPN.mpd
+
+
+
+
 
 ESPN 2 ARGENTINA
 
