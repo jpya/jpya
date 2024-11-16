@@ -5967,9 +5967,9 @@ http://181.78.27.128:8000/play/a033/index.m3u8
 http://181.78.27.128:8000/play/a05r/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Am%C3%A9rica_Televisi%C3%B3n_2016.svg/revision/latest/scale-to-width-down/175?cb=20240207225027&path-prefix=es"  ,America TV
 http://181.78.27.128:8000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,America TV PY
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,America TV 
 http://181.78.27.128:8000/play/a04f/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png"  ,AmericaTV
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,AmericaTV
 http://181.78.27.128:8000/play/a048/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/43/CH_LOGO/160/160/0/0/93120001074605.png"  ,Animal Planet
 http://181.78.27.128:8000/play/a03l/index.m3u8
@@ -6125,11 +6125,7 @@ http://181.78.27.128:8000/play/a02e/index.m3u8
 http://181.78.27.128:8000/play/a03m/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,Zona Latina
 http://181.78.27.128:8000/play/a01m/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,FARRA PLAY
-https://stream.farra.com.py/live/farra.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,Tele N HD
-https://videostream.shockmedia.com.ar:19360/tlnhd/tlnhd.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  , FARRA PLAY HD
-http://159.203.148.226/live/farra_src.m3u8
+
+
 
 
