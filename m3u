@@ -5963,35 +5963,35 @@ http://181.78.27.128:8000/play/a03s/index.m3u8
 http://181.78.27.128:8000/play/a04a/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/160/160/0/0/77211152071862.png"  ,AXN
 http://181.78.27.128:8000/play/a033/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,Abc Tv
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJFnYypcCifV4uGjQ7qVHBnaiVJLnOo18b5o6heeVQSb9yM19osnTKFqOnG7SdWfdpdlg&usqp=CAU"  ,Abc Tv
 http://181.78.27.128:8000/play/a05r/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Am%C3%A9rica_Televisi%C3%B3n_2016.svg/revision/latest/scale-to-width-down/175?cb=20240207225027&path-prefix=es"  ,America TV
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png"  ,America TV
 http://181.78.27.128:8000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,America TV 
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png"  ,America TV 
 http://181.78.27.128:8000/play/a04f/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,AmericaTV
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Am%C3%A9rica_Televisi%C3%B3n_2016.svg/revision/latest/scale-to-width-down/175?cb=20240207225027&path-prefix=es"  ,AmericaTV
 http://181.78.27.128:8000/play/a048/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/43/CH_LOGO/160/160/0/0/93120001074605.png"  ,Animal Planet
 http://181.78.27.128:8000/play/a03l/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,BabyFirst
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/ad/BabyFirst_TV.svg/revision/latest?cb=20170414214501"  ,BabyFirst
 http://181.78.27.128:8000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,C9n
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVOsfWUr5wWQiiTPLrlFneyk4DMtTNlS-U6g&s"  ,C9n
 http://181.78.27.128:8000/play/a05s/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,CANAL E
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-UG4AWh5Z629R8faO00lu4KDsci26i9Z9wtKu0nq2eeTL1ev-12pVkEw3_3yRzKmkqUWzfuse87aOS8wWiTGtM0x84p2BJ6BC-KBBr5dsqW333rGqOxLq3kL8fpQqQ2QBtdjnSdxvSS7brGMyf3YbZBypavCdKZDXtb1ndVxKghGf7XV1EhhgH4gf/s158/canal-e.webp"  ,CANAL E
 http://181.78.27.128:8000/play/a04w/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,CN23
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/cn23.png"  ,CN23
 http://181.78.27.128:8000/play/a04r/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,CNN Espanol
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Laq1IgzFdTmqzi9kaHLglW-gd1i2qMW-mg&s"  ,CNN Espanol
 http://181.78.27.128:8000/play/a021/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png"  ,CRONICA TV
 http://181.78.27.128:8000/play/a04k/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,Canal AlbNET
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Albavisi%C3%B3n.png"  ,Canal AlbNET
 http://181.78.27.128:8000/play/a05p/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/120px-Canal_2_%28Las_Estrellas_2017%29.svg.png"  ,Canal Estrellas
 http://181.78.27.128:8000/play/a03w/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png" ,Cartoon Network
 http://181.78.27.128:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,Cartoonito HD
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe15L2mucDr-jaBFTWdAQ95WrR59zpprZLzw&s"  ,Cartoonito HD
 http://181.78.27.128:8000/play/a003/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png"  ,Cinecanal
 http://181.78.27.128:8000/play/a01i/index.m3u8
