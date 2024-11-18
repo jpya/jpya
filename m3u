@@ -6025,7 +6025,7 @@ http://181.78.27.128:8000/play/a05y/index.m3u8
 http://181.78.27.128:8000/play/a05k/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://logodix.com/logo/2139323.png"  ,Ewtn
 http://181.78.27.128:8000/play/a066/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg"  ,FX
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://banner2.cleanpng.com/20180718/fuo/5aa84948a658208d0b3e15f0b450785d.webp"  ,FX
 http://181.78.27.128:8000/play/a035/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD"  tvg-logo="https://w7.pngwing.com/pngs/662/561/png-transparent-france-24-journalist-television-news-france-television-blue-text-thumbnail.png"  ,France 24
 http://181.78.27.128:8000/play/a042/index.m3u8
@@ -6121,13 +6121,13 @@ http://181.78.27.128:8000/play/a02f/index.m3u8
 http://181.78.27.128:8000/play/a02g/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD"  tvg-chno="460" tvg-id="UNIVERSAL PREMIERE.py" tvg-name="UNIVERSAL PREMIERE.py" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIPR.png?raw=true" group-title="Universal+ Pack", Universal Premiere
 http://181.78.27.128:8000/play/a02e/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Warner_Bros._logo_2023.svg"  ,Warner
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png/revision/latest/scale-to-width-down/300?cb=20180325001201"  ,Warner
 http://181.78.27.128:8000/play/a03m/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Logo_Zona_Latina_2023.png/revision/latest/scale-to-width-down/236?cb=20230823211245&path-prefix=es"  ,Zona Latina
 http://181.78.27.128:8000/play/a01m/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaJgUCBHpZxRRzAMD0WJMNNat1ldxZtcFhWQ&s"  ,Tigo Sports
 http://181.78.106.127:9000/play/ca038/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg"  ,Directv sports
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png"  ,Directv sports
 http://181.78.106.127:9000/play/ca026/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png"  ,TUDN
 http://181.78.106.127:9000/play/ca025/index.m3u8
