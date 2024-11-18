@@ -6125,8 +6125,12 @@ http://181.78.27.128:8000/play/a02e/index.m3u8
 http://181.78.27.128:8000/play/a03m/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Logo_Zona_Latina_2023.png/revision/latest/scale-to-width-down/236?cb=20230823211245&path-prefix=es"  ,Zona Latina
 http://181.78.27.128:8000/play/a01m/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,Tigo Sports
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaJgUCBHpZxRRzAMD0WJMNNat1ldxZtcFhWQ&s"  ,Tigo Sports
 http://181.78.106.127:9000/play/ca038/index.m3u8
-
-
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg"  ,Directv sports
+http://181.78.106.127:9000/play/ca026/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png"  ,TUDN
+http://181.78.106.127:9000/play/ca025/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png"  ,Univision
+http://181.78.106.127:9000/play/ca024/index.m3u8
 
