@@ -6075,27 +6075,27 @@ http://181.78.27.128:8000/play/a05u/index.m3u8
 http://181.78.27.128:8000/play/a040/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png"  ,SNT
 http://181.78.27.128:8000/play/a05t/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,STAR CHANNEL
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG_BD99vK7McUxJkKjgDAq2MEEbtFoz-43EQ&s"  ,STAR CHANNEL
 http://181.78.27.128:8000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,Sbt Brasil
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://solucoesmassa.com.br/wp-content/uploads/2021/06/SBT-Brasil.png"  ,Sbt Brasil
 http://181.78.27.128:8000/play/a067/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,Sin Limites
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://image.roku.com/developer_channels/prod/7e7948a790034a88bf58a593b64170644664659ab7ad81d428d5a0a7c8d57760.png"  ,Sin Limites
 http://181.78.27.128:8000/play/a04e/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png"  ,Sony
 http://181.78.27.128:8000/play/a032/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png"  ,Space
 http://181.78.27.128:8000/play/a034/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,Studio Universal
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg"  ,Studio Universal
 http://181.78.27.128:8000/play/a02c/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png"  ,TCM
 http://181.78.27.128:8000/play/a01p/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tecnopolis_m.png"  ,TEC TV
 http://181.78.27.128:8000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,TLC
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/1200px-TLC_logo_%282023%29.svg.png"  ,TLC
 http://181.78.27.128:8000/play/a03u/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,TNT
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/0/03/TNT_Logo.png/revision/latest?cb=20210826155428&path-prefix=es"  ,TNT
 http://181.78.27.128:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,TNT Novelas
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://static.wikia.nocookie.net/rarter/images/2/23/TNT_Novelas_%282007%29.png/revision/latest/scale-to-width-down/246?cb=20231127013129"  ,TNT Novelas
 http://181.78.27.128:8000/play/a044/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png"  ,Telefe Arg
 http://181.78.27.128:8000/play/a05x/index.m3u8
