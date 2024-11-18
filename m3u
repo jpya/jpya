@@ -5997,9 +5997,9 @@ http://181.78.27.128:8000/play/a003/index.m3u8
 http://181.78.27.128:8000/play/a01i/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://static.wixstatic.com/media/34a0d2_1ae8ea99b9174fe0b4c8b4bd5b9a49af~mv2.png/v1/fill/w_90,h_90/34a0d2_1ae8ea99b9174fe0b4c8b4bd5b9a49af~mv2.png"  ,Cinemax
 http://181.78.27.128:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://pbs.twimg.com/profile_images/427272687883284480/9BZs8dRB_400x400.png"  ,Deporte Py
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png"  ,tv publica
 http://181.78.27.128:8000/play/a060/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://pbs.twimg.com/profile_images/427272687883284480/9BZs8dRB_400x400.png"  ,Deporte Py+
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png"  ,c5n
 http://181.78.27.128:8000/play/a061/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/60/60/0/0/24951383073066.png"  ,Discovery Channel
 http://181.78.27.128:8000/play/a03k/index.m3u8
