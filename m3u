@@ -5973,7 +5973,7 @@ http://181.78.27.128:8000/play/a04f/index.m3u8
 http://181.78.27.128:8000/play/a048/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/43/CH_LOGO/160/160/0/0/93120001074605.png"  ,Animal Planet
 http://181.78.27.128:8000/play/a03l/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/ad/BabyFirst_TV.svg/revision/latest?cb=20170414214501"  ,BabyFirst
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/10/BabyFirstTV-Logo.png"  ,BabyFirst
 http://181.78.27.128:8000/play/a05l/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVOsfWUr5wWQiiTPLrlFneyk4DMtTNlS-U6g&s"  ,C9n
 http://181.78.27.128:8000/play/a05s/index.m3u8
@@ -5993,7 +5993,7 @@ http://181.78.27.128:8000/play/a03w/index.m3u8
 http://181.78.27.128:8000/play/a01q/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe15L2mucDr-jaBFTWdAQ95WrR59zpprZLzw&s"  ,Cartoonito HD
 http://181.78.27.128:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png"  ,Cinecanal
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://cdn.mitvstatic.com/channels/sv_cinecanal_m.png"  ,Cinecanal
 http://181.78.27.128:8000/play/a01i/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://static.wixstatic.com/media/34a0d2_1ae8ea99b9174fe0b4c8b4bd5b9a49af~mv2.png/v1/fill/w_90,h_90/34a0d2_1ae8ea99b9174fe0b4c8b4bd5b9a49af~mv2.png"  ,Cinemax
 http://181.78.27.128:8000/play/a031/index.m3u8
@@ -6101,7 +6101,7 @@ http://181.78.27.128:8000/play/a044/index.m3u8
 http://181.78.27.128:8000/play/a05x/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM652mduhcspUNFlvwPmGw4_21N-Q6igH_Z1NmALZIZmKXCdYCbbpn5799jUfEM-F1kcg&usqp=CAU"  ,Telefuturo
 http://181.78.27.128:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg"  ,Telemundo
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://www.brandemia.org/wp-content/uploads/2012/06/logo_principal_telemundo.jpg"  ,Telemundo
 http://181.78.27.128:8000/play/a03z/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/320px-TNT_Sports_%282023%29.svg.png" ,Tnt Sport
 http://181.78.27.128:8000/play/a064/index.m3u8
@@ -6113,7 +6113,7 @@ http://181.78.27.128:8000/play/a063/index.m3u8
 http://181.78.27.128:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkkcouqzomSMEmImsrqnUlQ8dridXFC3o5Vw&s"  ,Unicanal 
 http://181.78.27.128:8000/play/a05v/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Universal-Pictures-Logo.svg"  ,Universal
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png"  ,Universal
 http://181.78.27.128:8000/play/a01j/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD"  tvg-chno="461" tvg-id="UNIVERSAL CINEMA.py" tvg-name="UNIVERSAL CINEMA.py" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true" group-title="Universal+ Pack", Universal Cinema
 http://181.78.27.128:8000/play/a02f/index.m3u8
