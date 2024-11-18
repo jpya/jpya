@@ -6133,4 +6133,5 @@ http://181.78.106.127:9000/play/ca026/index.m3u8
 http://181.78.106.127:9000/play/ca025/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png"  ,Univision
 http://181.78.106.127:9000/play/ca024/index.m3u8
-
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Telemundo_Internacional_2018.svg/revision/latest/scale-to-width-down/200?cb=20210104235725"  ,Telemundo internacional
+http://181.78.106.127:9000/play/ca009/index.m3u8
