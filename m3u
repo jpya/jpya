@@ -6109,7 +6109,7 @@ http://181.78.27.128:8000/play/a064/index.m3u8
 http://181.78.27.128:8000/play/a05w/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png"  ,Tyc Sport
 http://181.78.27.128:8000/play/a063/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD"  tvg-logo="-" ,USA SD
+#EXTINF:-1 group-title="Respaldo SD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" ,USA SD
 http://181.78.27.128:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkkcouqzomSMEmImsrqnUlQ8dridXFC3o5Vw&s"  ,Unicanal 
 http://181.78.27.128:8000/play/a05v/index.m3u8
