@@ -1581,7 +1581,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/10893/10893592.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png" group-title="CINE", 113 HBO PLUS (🇦🇷) ss
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/10893/10893592.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png" group-title="CINE", 113 HBO PLUS (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd
 
 
@@ -5997,9 +5997,9 @@ http://181.78.27.128:8000/play/a003/index.m3u8
 http://181.78.27.128:8000/play/a01i/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://static.wixstatic.com/media/34a0d2_1ae8ea99b9174fe0b4c8b4bd5b9a49af~mv2.png/v1/fill/w_90,h_90/34a0d2_1ae8ea99b9174fe0b4c8b4bd5b9a49af~mv2.png"  ,Cinemax
 http://181.78.27.128:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,Deporte Py
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://pbs.twimg.com/profile_images/427272687883284480/9BZs8dRB_400x400.png"  ,Deporte Py
 http://181.78.27.128:8000/play/a060/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,Deporte Py+
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://pbs.twimg.com/profile_images/427272687883284480/9BZs8dRB_400x400.png"  ,Deporte Py+
 http://181.78.27.128:8000/play/a061/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/60/60/0/0/24951383073066.png"  ,Discovery Channel
 http://181.78.27.128:8000/play/a03k/index.m3u8
@@ -6013,35 +6013,35 @@ http://181.78.27.128:8000/play/a03d/index.m3u8
 http://181.78.27.128:8000/play/a03j/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/70/CH_LOGO/160/160/0/0/4140286707756.png"  ,Disney Jr
 http://181.78.27.128:8000/play/a02a/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,E Entertainment
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.E-Entertainment-Logo.png.45cb86109090ec7d7e3630cf4673b4b5.png"  ,E Entertainment
 http://181.78.27.128:8000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,E40
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXTFMbStnL4uHOCk2wdfst7lUIY6xFDebtRA&s"  ,E40
 http://181.78.27.128:8000/play/a065/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,ENCUENTRO HD
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/800px-Logo_del_canal_Encuentro.svg.png"  ,ENCUENTRO HD
 http://181.78.27.128:8000/play/a04t/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png"  ,El Trece Arg
 http://181.78.27.128:8000/play/a05y/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,Enlace
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg0C2WcOO_ANdNOtX3WgAitfCKTkakijYSWQ&s"  ,Enlace
 http://181.78.27.128:8000/play/a05k/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,Ewtn
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://logodix.com/logo/2139323.png"  ,Ewtn
 http://181.78.27.128:8000/play/a066/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,FX
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg"  ,FX
 http://181.78.27.128:8000/play/a035/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD"  tvg-logo="-"  ,France 24
+#EXTINF:-1 group-title="Respaldo SD"  tvg-logo="https://w7.pngwing.com/pngs/662/561/png-transparent-france-24-journalist-television-news-france-television-blue-text-thumbnail.png"  ,France 24
 http://181.78.27.128:8000/play/a042/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,Gen_Py
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://pbs.twimg.com/profile_images/1572191556945285120/gezEdSuT_400x400.jpg"  ,Gen_Py
 http://181.78.27.128:8000/play/a05n/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,Globo Brasil
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/2000px-Globo_logo_and_wordmark.svg.png"  ,Globo Brasil
 http://181.78.27.128:8000/play/a068/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,HBO
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/160/160/0/0/228799490721.png"  ,HBO
 http://181.78.27.128:8000/play/a030/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,HBO 2
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/101/CH_LOGO/160/160/0/0/93371734072127.png"  ,HBO 2
 http://181.78.27.128:8000/play/a026/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,HBO Family
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png"  ,HBO Family
 http://181.78.27.128:8000/play/a029/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,HBO Plus
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png"  ,HBO Plus
 http://181.78.27.128:8000/play/a027/index.m3u8
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,HBO XTREME SD
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/160/160/0/0/6041444607334.png"  ,HBO XTREME SD
 http://181.78.27.128:8000/play/a028/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,History Channel
 http://181.78.27.128:8000/play/a01h/index.m3u8
