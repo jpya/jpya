@@ -3418,9 +3418,13 @@ PORTEÑA COOPLUS
 
 #EXTINF:-0 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"  tvg-logo="https://www.sensa.com.ar/images/logo_sensa_nav.png" group-title="REGIONAL", 1 porteña
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-#EXT-X-PRELOAD-HINT
-#EXTVLCOPT:network-caching=100000
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=1400000,AVERAGE-BANDWIDTH=1400000
 https://cdn.sensa.com.ar/output/SMT5/PORD/output.mpd
+
+
+
+
 
 MORTEROS
 
