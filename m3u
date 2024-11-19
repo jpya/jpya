@@ -3417,15 +3417,8 @@ http://cdn.adultiptv.net/rough.m3u8
 PORTEÑA COOPLUS
 
 #EXTINF:-0 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"  tvg-logo="https://www.sensa.com.ar/images/logo_sensa_nav.png" group-title="REGIONAL", 1 porteña
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=1400000,AVERAGE-BANDWIDTH=1400000
-#EXT-X-VERSION:3
-	#EXT-X-PLAYLIST-TYPE:EVENT
-	#EXT-X-START:TIME-OFFSET=25,PRECISE=YES
-	#EXT-X-TARGETDURATION:10
-	#EXT-X-MEDIA-SEQUENCE:1
-	#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXTVLCOPT:http-referrer=https://www-365video-ar.filesusr.com
+#EXTVLCOPT:network-caching=1400000
 https://cdn.sensa.com.ar/output/SMT5/PORD/output.mpd
 
 
