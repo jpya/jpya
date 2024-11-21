@@ -6442,32 +6442,32 @@ http://177.53.155.236:8000/play/a0c4/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch59
 
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,ESPN 3
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,ESPN 3
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch18
 
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,ESPN 
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,ESPN 
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch16
 
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,ESPN FHD
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,ESPN FHD
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch17
 
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,ESPN 5
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,ESPN 5
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch19
 
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,ESPN 6
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,ESPN 6
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch21
 
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,ESPN 7
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,ESPN 7
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch20
@@ -6498,7 +6498,7 @@ http://181.78.23.26:45000/play/a02h
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a02m
 
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-" ,ESPN Ecuador
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,ESPN Ecuador
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a02p
@@ -6508,12 +6508,12 @@ http://181.78.23.26:45000/play/a02p
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a02s
 
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-" ,ESPN ARG
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,ESPN ARG
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a01h
 
-#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-" ,ESPN Chile
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,ESPN Chile
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a01i
