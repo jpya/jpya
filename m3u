@@ -6492,3 +6492,20 @@ http://181.78.23.26:45000/play/a02g
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a02h
 
+
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-" ,Señal Colombia
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.23.26:45000/play/a02m
+
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-" ,ESPN Ecuador
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.23.26:45000/play/a02p
+
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-" ,Canal Soom
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.23.26:45000/play/a02s
+
+
