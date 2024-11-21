@@ -676,15 +676,7 @@ https://webhdrus.onlinehdhls.ru/lb/premium385/index.m3u8|Origin=https://qqwebpla
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium386/index.m3u8|Origin=https://qqwebplay.xyz
 
-#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/jb1igcv.png" group-title="ASTRO",espn premium arg
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium387/index.m3u8|Origin=https://qqwebplay.xyz
 
-#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/jb1igcv.png" group-title="ASTRO",tnt sports arg
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium388/index.m3u8|Origin=https://qqwebplay.xyz
 
 
 ---------------------------365digital-----------------------------------
@@ -3151,6 +3143,17 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 
 ----------------------------------DEPORTES VARIOS---------------------------------------
 -----------------------------------------------------------------------------------------
+
+#EXTINF:-1 tgroup-logo="https://cdn-icons-png.flaticon.com/128/857/857455.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="DEPORTES VARIOS",espn premium arg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium387/index.m3u8|Origin=https://qqwebplay.xyz
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/857/857455.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES VARIOS",tnt sports arg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium388/index.m3u8|Origin=https://qqwebplay.xyz
+
 
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/857/857455.png" tvg-logo="https://i.pinimg.com/originals/51/a1/9a/51a19abfd08d5b3ea5f78e1c5fa61ec7.png" group-title="DEPORTES VARIOS", 299 red bull(🇺🇸) 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
