@@ -6153,3 +6153,24 @@ http://181.78.106.127:9000/play/ca025/index.m3u8
 http://181.78.106.127:9000/play/ca024/index.m3u8
 #EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Telemundo_Internacional_2018.svg/revision/latest/scale-to-width-down/200?cb=20210104235725"  ,Telemundo internacional
 http://181.78.106.127:9000/play/ca009/index.m3u8
+
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,ESPN PREMIUM ECUADOR
+http://177.53.155.236:8000/play/a0c4/index.m3u8
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,RCN COLOMBIA
+http://179.189.222.226:8000/play/ch59
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,ESPN 3
+http://179.189.222.226:8000/play/ch18
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,ESPN 
+http://179.189.222.226:8000/play/ch16
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,ESPN FHD
+http://179.189.222.226:8000/play/ch17
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,ESPN 5
+http://179.189.222.226:8000/play/ch19
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,ESPN 6
+http://179.189.222.226:8000/play/ch21
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-"  ,ESPN 7
+http://179.189.222.226:8000/play/ch20
+
+
+
+
