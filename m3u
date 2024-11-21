@@ -6508,4 +6508,14 @@ http://181.78.23.26:45000/play/a02p
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a02s
 
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-" ,ESPN ARG
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.23.26:45000/play/a01h
+
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-" ,ESPN Chile
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.23.26:45000/play/a01i
+
 
