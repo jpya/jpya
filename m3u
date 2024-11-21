@@ -6487,3 +6487,8 @@ http://168.181.122.234:8000/play/a041/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a02g
 
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-" ,RCN
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.23.26:45000/play/a02h
+
