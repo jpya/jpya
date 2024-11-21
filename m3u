@@ -6172,5 +6172,9 @@ http://179.189.222.226:8000/play/ch21
 http://179.189.222.226:8000/play/ch20
 
 
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://i.imgur.com/prk8QXO.png"  ,ESPN 2 HD (1)(Hon1)
+http://168.181.122.234:8000/play/a040/index.m3u8
 
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="https://i.imgur.com/cg8QWOm.png" ,ESPN 3 HD (1)(Hon1)
+http://168.181.122.234:8000/play/a041/index.m3u8
 
