@@ -2664,7 +2664,7 @@ ESPN ARGENTINA
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="ESPN",200 ESPN (🇦🇷) fw
-https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
 
 
 
@@ -2693,7 +2693,7 @@ ESPN 2 ARGENTINA
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="ESPN",205 ESPN 2 (🇦🇷) fw
-https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd
 
 
 
@@ -2723,7 +2723,7 @@ ESPN 3 ARGENTINA
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="ESPN",210 ESPN 3 (🇦🇷) fw
-https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
 
 
 
@@ -2820,15 +2820,7 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(D
 
 FOX SPORTS ARGENTINA
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="FOX SPORTS",220 FOX SPORTS (🇦🇷) fw HD
-https://edge-live02-cen.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_C/FoxSports.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2858,15 +2850,7 @@ https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
 
 FOX SPORTS 2 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png"  tvg-logo="https://nebula-net.qvixsolutions.com/img/channels/fox-sports-2_c9ab9461980b46758729e229603ebaf7.png" group-title="FOX SPORTS",222 FOX SPORTS 2 HD (🇦🇷) fw
-https://edge-mix05-coe.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_C/FoxSports2HD.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2897,15 +2881,7 @@ https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
 
 FOX SPORTS 3 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1   group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="FOX SPORTS",225 FOX SPORTS 3  HD(🇦🇷)  fw
-https://edge-mix01-cen.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_C/FoxSports3HD.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2960,25 +2936,8 @@ https://cdn.sensa.com.ar/live/eds/FoxSportsPremium/live_dash_cld/FoxSportsPremiu
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 https://csc-ptn-edge01.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
 
-#EXTINF:-1   group-logo="https://cdn-icons-png.flaticon.com/128/1165/1165187.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="FUTBOL ARGENTINA",251 ESPN PREMIUM (🇦🇷) fw
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1165/1165187.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="FUTBOL ARGENTINA",252 ESPN PREMIUM OPC 2 (🇦🇷) fw
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://edge-mix02-ird.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+
 
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1165/1165187.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="FUTBOL ARGENTINA",252 ESPN PREMIUM OPC 3 (🇦🇷) fw
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2988,7 +2947,7 @@ https://edge-mix02-ird.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_da
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
 
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1165/1165187.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="FUTBOL ARGENTINA",252 ESPN PREMIUM OPC 4 (🇦🇷) m3u8
@@ -3017,25 +2976,7 @@ https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 https://csc-ptn-edge01.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1165/1165187.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="FUTBOL ARGENTINA",256 TNT SPORTS (🇦🇷) fw
-https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 
-#EXTINF:-1   group-logo="https://cdn-icons-png.flaticon.com/128/1165/1165187.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="FUTBOL ARGENTINA",257 TNT SPORTS OPC 2 (🇦🇷) fw
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://edge-mix02-ird.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
 
 #EXTINF:-1   group-logo="https://cdn-icons-png.flaticon.com/128/1165/1165187.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="FUTBOL ARGENTINA",257 TNT SPORTS OPC 3 (🇦🇷) fw
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3045,7 +2986,7 @@ https://edge-mix02-ird.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/T
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 
 
 #EXTINF:-1   group-logo="https://cdn-icons-png.flaticon.com/128/1165/1165187.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="FUTBOL ARGENTINA",255 TNT SPORTS (🇦🇷) m3u8
