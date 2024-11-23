@@ -7554,3 +7554,8 @@ https://99a.pricesaskeloadsc.com/espnmx/tracks-v1a1/mono.m3u8?token=95cc0becf092
 #EXTVLCOPT:http-referrer=https://la12hd.com/
 https://bmf0aw9u.la10tv.com/beinsportes/tracks-v1a1/mono.m3u8?token=179ca87e730b10034ad93d8846fcf51f6776f317-d9-1732430268-1732394268
 
+
+#EXTINF:-1 group-logo="-"  group-title="FINAL SUDAMERICANA"  tvg-name="test" tvg-id="None" tvg-logo="-",OPCION 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://candler.beauty/
+https://livedashmx.cdn.startv.tv/bpk-tv/espn/vmx/index.mpd
