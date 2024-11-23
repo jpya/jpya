@@ -532,14 +532,7 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 ---------------------------------------------------
 
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 group-logo="https://geo.edge.pontiscloud.com:9002/images/3441/CH_LOGO/160/160/0/0/61680399078962.png"  group-title="PACK CLARO SPORTS"  tvg-name="test" tvg-id="None" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3441/CH_LOGO/160/160/0/0/61680399078962.png",Claro 1
-https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd
+
 
 
 --------------------------directv --------------------------
@@ -7540,6 +7533,17 @@ https://chromecast.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_
 
 
 
+#EXTINF:-1 group-logo="-"  group-title="FINAL SUDAMERICANA"  tvg-name="test" tvg-id="None" tvg-logo="-",OPCION 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la12hd.com/
+https://cxvpy2s.la10tv.com/lb/espn/index.m3u8?token=18a09eab9c36c59bcf31315977ca4cff69160395-9d-1732430000-1732394000
 
+#EXTINF:-1 group-logo="-"  group-title="FINAL SUDAMERICANA"  tvg-name="test" tvg-id="None" tvg-logo="-",OPCION 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la12hd.com/
+https://yxdlc29tzq.la10tv.com/lb/dsports/index.m3u8?token=7ce80473c2f33502e32a9821852678fec9b57ed8-80-1732430159-1732394159
 
-
+#EXTINF:-1 group-logo="-"  group-title="FINAL SUDAMERICANA"  tvg-name="test" tvg-id="None" tvg-logo="-",OPCION 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp1.com/
+https://99a.pricesaskeloadsc.com/espnmx/tracks-v1a1/mono.m3u8?token=95cc0becf092a26dd890a709e178288c7539c0c3-15-1732430585-1732394585
