@@ -3099,18 +3099,24 @@ https://webhdrus.onlinehdhls.ru/lb/premium388/index.m3u8|Origin=https://qqwebpla
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/857/857455.png" tvg-logo="https://i.pinimg.com/originals/51/a1/9a/51a19abfd08d5b3ea5f78e1c5fa61ec7.png" group-title="DEPORTES VARIOS", 299 red bull(🇺🇸) 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/857/857455.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="DEPORTES VARIOS" ,RCN COLOMBIA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e86599387e4313a8e57a2732f5af261:8a9df0eee927df1a70814755566f3410
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://1185-vos.dtvott.com/DASH/manifest.mpd
+
 
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/857/857455.png" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES VARIOS" ,BEIN SPORTS XTRA Ñ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=54ef857b74c0c6e37b04022a87708382:712ca8c470e9ff4f08915e7a7d91ff33
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/857/857455.png" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES VARIOS" ,BEIN SPORTS ESPAÑOL
+https://bein-live.cdn.vustreams.com/live/f0fc61a0-b161-4eef-ae50-646c4f842b37/live.isml/f0fc61a0-b161-4eef-ae50-646c4f842b37.mpd
+
+
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
