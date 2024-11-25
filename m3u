@@ -2188,7 +2188,7 @@ FILM ARTS
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png"  tvg-logo="https://www.pikpng.com/pngl/m/55-550730_film-arts-logo-png-transparent-film-and-arts.png" group-title="DOCUMENTALES Y CULTURA",147 FILM & ARTS (🇦🇷) fw
-https://cdn.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc_2A/Film_Arts.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc/Film_Arts.mpd
 
 A & E
 
@@ -2200,7 +2200,7 @@ A & E
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/60/60/0/0/95118087071584.png" group-title="DOCUMENTALES Y CULTURA",148 A&E (🇦🇷) fw
-https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc_2A/AEHD.mpd
+https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd
 
 DISCOVERY THEATER
 
@@ -2386,7 +2386,7 @@ WOBI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2e44a719947ebfe37de527a9d6df71e:029bddeb08909dd66a80276fc338d692
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Wobi.png/revision/latest?cb=20220412231141" group-title="COCINA Y MODA", 164 WOBI (🇦🇷) fw
-https://chromecast.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc_C/WOBI.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc/WOBI.mpd
 
 
 LIFETIME
@@ -2479,7 +2479,7 @@ NIKELODEON
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/7069/7069373.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/320/CH_LOGO/160/160/0/0/70239189071229.png" group-title="INFANTILES", 180 NICKELODEON (🇦🇷) fw
-https://edge-live17-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd
 
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/7069/7069373.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/320/CH_LOGO/160/160/0/0/70239189071229.png" group-title="INFANTILES", 180 NICKELODEON (🇦🇷) m3u8
 https://delivery.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
@@ -2495,7 +2495,7 @@ DISNEY CHANELL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a742e478d14023e1993e011d9415f94:0df77ede9bc744376836d21afa137dda
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/7069/7069373.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1024px-Disney_Channel_logo.svg.png" group-title="INFANTILES", 181 DISNEY CHANNEL (🇦🇷) fw
-https://edge-live16-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd
 
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/7069/7069373.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1024px-Disney_Channel_logo.svg.png" group-title="INFANTILES", 181 DISNEY CHANNEL (🇦🇷) m3u8
 https://delivery.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
@@ -2530,7 +2530,7 @@ https://cdn.sensa.com.ar/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/7069/7069373.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/70/CH_LOGO/160/160/0/0/4140286707756.png" group-title="INFANTILES",182 DISNEY JUNIOR (🇦🇷) fw
-https://edge-mix01-coe.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd
 
 nick jr
 
@@ -2542,7 +2542,7 @@ nick jr
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/7069/7069373.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png" group-title="INFANTILES",183 NICK JR (🇦🇷) fw
-https://edge-live15-hr.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd
 
 CARTOON NETWORK
 
@@ -2572,7 +2572,7 @@ https://cdn.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mp
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/7069/7069373.png"   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png" group-title="INFANTILES",184 CARTOON NETWORK (🇦🇷) fw
-https://edge7-ccast-sl.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd
 
 BOOMERANG
 
@@ -2602,7 +2602,7 @@ https://cdn.sensa.com.ar/live/eds/Boomerang/live_dash_cld/Boomerang.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/7069/7069373.png"   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/481/CH_LOGO/160/160/0/0/1490409807453.png" group-title="INFANTILES",185 BOOMERANG (🇦🇷) fw
-https://edge-vod04-hr.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd
 
 TOONCAST
 
@@ -2623,7 +2623,7 @@ https://smt-edge03.sensa.com.ar//live/eds/Tooncast/live_dash_cld/Tooncast.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/7069/7069373.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp" group-title="INFANTILES", 187 DISCOVERY KIDS (🇦🇷) fw
-https://edge-mix02-cte.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd
 
 PAKAPAKA
 
@@ -2635,7 +2635,7 @@ PAKAPAKA
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/7069/7069373.png"   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/111/CH_LOGO/160/160/0/0/46888977071492.png" group-title="INFANTILES", 187 PAKA PAKA (🇦🇷) fw
-https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd
+https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd
 
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/7069/7069373.png"   tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/copia_de_linear-canela_kids-16x9-jainer_2_0.jpg" group-title="INFANTILES", Mundo Pequeño
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
@@ -2658,17 +2658,8 @@ ESPN ARGENTINA
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="ESPN",200 ESPN (🇦🇷) fw
-https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="ESPN",200 ESPN (🇦🇷) TEST
-https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd
 
 
 
@@ -2696,7 +2687,7 @@ ESPN 2 ARGENTINA
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="ESPN",205 ESPN 2 (🇦🇷) fw
-https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
 
 
 
@@ -2726,7 +2717,7 @@ ESPN 3 ARGENTINA
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="ESPN",210 ESPN 3 (🇦🇷) fw
-https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd
 
 
 
@@ -2772,7 +2763,7 @@ ESPN 5
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="ESPN",217 ESPN 5 COLOMBIA (🇨🇴) cl
-https://edge-live01-mun.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd
 
 
 ESPN 6 COLOMBIA
@@ -2785,7 +2776,7 @@ ESPN 6 COLOMBIA
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="ESPN",217 ESPN 6 COLOMBIA (🇨🇴) cl
-https://edge-live16-sl.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd
 
 ESPN 7 COLOMBIA
 
@@ -2797,7 +2788,7 @@ ESPN 7 COLOMBIA
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png" group-title="ESPN",218 ESPN 7 COLOMBIA (🇨🇴) cl
-https://edge-live31-hr.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd
 
 
 
@@ -2825,7 +2816,7 @@ FOX SPORTS ARGENTINA
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="FOX SPORTS",220 FOX SPORTS  (🇦🇷) fw
-https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2855,7 +2846,7 @@ FOX SPORTS 2
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1   group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" tvg-logo="https://nebula-net.qvixsolutions.com/img/channels/fox-sports-2_c9ab9461980b46758729e229603ebaf7.png" group-title="FOX SPORTS",222 FOX SPORTS 2  (🇦🇷) fw
-https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2886,7 +2877,7 @@ FOX SPORTS 3
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="FOX SPORTS",225 FOX SPORTS 3  (🇦🇷)  fw
-https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2942,7 +2933,7 @@ https://csc-ptn-edge01.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
 
 
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1165/1165187.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="FUTBOL ARGENTINA",252 ESPN PREMIUM OPC 4 (🇦🇷) m3u8
@@ -2981,7 +2972,7 @@ https://csc-ptn-edge01.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
 
 
 #EXTINF:-1   group-logo="https://cdn-icons-png.flaticon.com/128/1165/1165187.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="FUTBOL ARGENTINA",255 TNT SPORTS (🇦🇷) m3u8
@@ -3013,7 +3004,7 @@ T Y C SPORTS
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-logo="https://i.ibb.co/MN7HcLq/tycsports.png" tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="TYC SPORTS PLAY",279 TYC SPORTS (🇦🇷) fw
-https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3024,7 +3015,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-logo="https://i.ibb.co/MN7HcLq/tycsports.png" tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="TYC SPORTS PLAY",280 TYC SPORTS INTERNACIONAL (🇦🇷) fw
-https://edge-live15-hr.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd
 
   
 #EXTINF:0 group-logo="https://i.ibb.co/MN7HcLq/tycsports.png" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" group-title="TYC SPORTS PLAY",281 TyC SPORT PLAY 1 (🇦🇷)
@@ -3126,7 +3117,7 @@ https://bein-live.cdn.vustreams.com/live/f0fc61a0-b161-4eef-ae50-646c4f842b37/li
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/857/857455.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj6VN0E3yOH_vJObkY1zB0gPOMIu_6QGOl3MwsXRSEFw&s" group-title="DEPORTES VARIOS", 300 NBA TV (🇺🇸) fw
-https://edge-vod04-hr.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3137,7 +3128,7 @@ https://edge-vod04-hr.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mp
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/857/857455.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="DEPORTES VARIOS", 301 DEPORTV (🇦🇷) fw
-https://edge-live17-hr.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd
 
 TENNIS CHANNEL
 
@@ -3156,7 +3147,7 @@ AMERICA SPORTS
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/857/857455.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/368/CH_LOGO/160/160/0/0/446218910784.png" group-title="DEPORTES VARIOS",303 AMERICA SPORTS (🇦🇷) fw
-https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc_2A/America_Sports.mpd
+https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc/America_Sports.mpd
 
 
 PX SPORTS
@@ -3169,7 +3160,7 @@ PX SPORTS
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/857/857455.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/PX_Sports_-_Logo.png" group-title="DEPORTES VARIOS", 304 PX SPORTS (🇦🇷) fw
-https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc_2A/PX_Sports.mpd
+https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc/PX_Sports.mpd
 
 
 GOLF  CHANNEL
@@ -3182,7 +3173,7 @@ GOLF  CHANNEL
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/857/857455.png"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkXyr2QMlW7GwFXISrx91uNRNRcqDqwhCGPXtAmWV3fMqSA78Vk_s6S1hC7JGqt01enz4&usqp=CAU" group-title="DEPORTES VARIOS",305 GOLF CHANNEL (🇦🇷) fw
-https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Golf_Channel.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc/Golf_Channel.mpd
 
 
 VTV
@@ -3195,7 +3186,7 @@ VTV
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/857/857455.png" tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" group-title="DEPORTES VARIOS",307 VTV (🇺🇾) fw
-https://cdn.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd
+https://cdn.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc/VTV_HD.mpd
 
 
 VTV PLUS
@@ -3298,7 +3289,7 @@ PLAYBOY TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "9gigrHA8+q+UQldNmiuH+w","kid": "hXfYHq8zQ22fHkgjYGhafA"}],"type": "temporary"} 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HqHHhwQ/playboy.png" group-title="🔐 ADULTOS", 340 PLAYBOY TV (🇺🇸) fw
-https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_2A/Playboy.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd
 
 
 SEXTREME
@@ -3311,7 +3302,7 @@ SEXTREME
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "eeKO4OxYlYu2ZvnlOgzUNA","kid": "lb1kInrPRY2veIb4A9Apjg"}],"type": "temporary"} 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/chyp5Vc/sextreme.png" group-title="🔐 ADULTOS", 341 SEXTREME (🇺🇸) fw
-https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_2A/Sextreme.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd
 
 
 VENUS
@@ -3324,7 +3315,7 @@ VENUS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "Bdlz2YeRUSDlZ4gPUKQirw","kid": "NCN9KuZoTuegEfW5x8Q+bQ"}],"type": "temporary"}
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L0ZZ2hw/venus.png" group-title="🔐 ADULTOS", 342 VENUS (🇺🇸) fw
-https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd
 
 #EXTINF:-1 tvg-logo="https://www.altice.com.do/assets/imgs/premium-channels/adults/Eroxxx_HD.png" group-title="🔐 ADULTOS", 343 ERO XXX  
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_HD.smil/manifest.m3u8
@@ -3513,7 +3504,7 @@ CANAL 8 TUCUMAN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7760caa058b51b7cce151c0539fa4a8f:edd086c1011ed2c54cbe869d0e8d9289
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="REGIONAL", 384 CANAL 8 TUCUMAN (🇦🇷) fw
-https://edge-live17-hr.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd
 
 TELEFE NEUQUEN
 
@@ -3525,7 +3516,7 @@ TELEFE NEUQUEN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=55828b728b8affe6d1d57d050025645d:8ac11ed6d0ccaeac3f8218419f65bb94
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="REGIONAL", 385 TELEFE NEUQUEN (🇦🇷) fw
-https://edge-live17-hr.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd
+https://chromecast.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd
 
 TELEFE SALTA
 
@@ -3537,7 +3528,7 @@ TELEFE SALTA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c7a5de392f874308e4dd8f2837f1115:9ccf9ec6922c403d67d0df7952547581
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="REGIONAL", 386 TELEFE SALTA (🇦🇷) fw
-https://edge-live17-hr.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Telefe_Salta.mpd
+https://chromecast.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Telefe_Salta.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3669,7 +3660,7 @@ https://4.trstream01.xyz/canal6/stream.m3u8
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/14009/14009741.png" tvg-logo="https://i.ibb.co/KLMTj8J/anrtena3.png" group-title="ESPAÑA", 430 ANTENA 3 INT (🇪🇸) fw
-https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc/Antena_3.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3679,7 +3670,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/14009/14009741.png" tvg-logo="https://i.ibb.co/KLMTj8J/anrtena3.png" group-title="ESPAÑA", 430 ANTENA 3 INT (HD) (🇪🇸) fw
-https://edge-mix02-cen.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_C/Antena_3.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc/Antena_3.mpd
 
 
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/14009/14009741.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/500px-DMax_Espa%C3%B1a.svg.png" group-title="ESPAÑA", 435 DMAX (🇪🇸) mpd
@@ -3712,7 +3703,7 @@ EL CANAL DE LAS ESTRELLAS
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344530.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/120px-Canal_2_%28Las_Estrellas_2017%29.svg.png" group-title="MEXICO", 450 LAS ESTRELLAS (🇲🇽) fw
-https://edge-live17-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd
 
 PASIONES
 
@@ -3724,7 +3715,7 @@ PASIONES
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344530.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="MEXICO",451 PASIONES (🇲🇽) fw
-https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_2A/Pasiones.mpd
+https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd
 
 TELENOVELAS
 
