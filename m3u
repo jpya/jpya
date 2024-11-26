@@ -3,6 +3,7 @@
 
 
 
+
 ----------------4g-----------------------
 -----------------------------------------
 
@@ -6450,8 +6451,47 @@ http://181.78.23.26:45000/play/a01h
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a01i
 
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-" ,RCN
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch59
+
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-" ,espn 7
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch20
+
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-" ,espn 5
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch19
+
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-" ,espn 3
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch18
 
 
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-" ,espn 2
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch17
+
+
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-" ,espn 
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch16
+
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-" ,espn 6
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch21
+
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-" ,Discovery
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch22
 
 
 
