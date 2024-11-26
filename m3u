@@ -6493,11 +6493,37 @@ http://179.189.222.226:8000/play/ch21
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch22
 
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-" ,Discovery turbo
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch24
 
 
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-" ,Discovery h&h
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch25
+
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-" ,Gourmet
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch27
 
 
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-" ,history
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch30
 
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-" ,pasiones
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch35
+
+#EXTINF:-1 group-title="Respaldo SD" tvg-logo="-" ,telenovelas
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch45
 
 
 
