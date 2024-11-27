@@ -7661,6 +7661,9 @@ https://cdn-3.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4" group-title="Brasilerao liga" tvg-logo="-",BAND 🇧🇷 
 https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN4" group-title="Brasilerao liga" tvg-logo="-",BAND SPORTS 🇧🇷 
+https://cdn-3.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1  group-title="Brasilerao liga" ,BR | GLOBO SP SD
 http://streamsy.online:2999/venomj/EmoOmOskzq/2182
