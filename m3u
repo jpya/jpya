@@ -3389,6 +3389,7 @@ PORTEÑA COOPLUS
 
 #EXTINF:-0 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"  tvg-logo="https://www.sensa.com.ar/images/logo_sensa_nav.png" group-title="REGIONAL", 1 porteña
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1500
 http://cdn.sensa.com.ar/output/SMT5/PORH/playlist.m3u8
 
 
