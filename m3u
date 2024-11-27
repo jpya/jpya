@@ -7633,22 +7633,23 @@ https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-#EXTINF:-1 tvg-id="ESPN1" group-title="📺 Liga Bwin ⚽️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 🇧🇷
+#EXTINF:-1 tvg-id="ESPN1" group-title="Brasilerao liga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 🇧🇷
 https://cdn-5.nxplay.com.br/ESPN/index.m3u8
 
 
-#EXTINF:-1 tvg-id="ESPN2" group-title="📺 Liga Bwin ⚽️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 2 🇧🇷 
+#EXTINF:-1 tvg-id="ESPN2" group-title="Brasilerao liga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 2 🇧🇷 
 https://cdn-5.nxplay.com.br/ESPN_2/index.m3u8
 
 
-#EXTINF:-1 tvg-id="ESPN3" group-title="📺 Liga Bwin ⚽️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 3 🇧🇷
+#EXTINF:-1 tvg-id="ESPN3" group-title="Brasilerao liga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 3 🇧🇷
 https://cdn-5.nxplay.com.br/ESPN_3/index.m3u8
 
 
-#EXTINF:-1 tvg-id="ESPN4" group-title="📺 Liga Bwin ⚽️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 4 🇧🇷 
+#EXTINF:-1 tvg-id="ESPN4" group-title="Brasilerao liga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 4 🇧🇷 
 https://cdn-5.nxplay.com.br/ESPN_4/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN4" group-title="📺 Liga Bwin ⚽️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Globo_logo_and_wordmark.svg",GLOBO
+#EXTINF:-1 tvg-id="ESPN4" group-title="Brasilerao liga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Globo_logo_and_wordmark.svg",GLOBO 🇧🇷 
 https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
-
+#EXTINF:-1 tvg-id="ESPN4" group-title="Brasilerao liga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Globo_logo_and_wordmark.svg",RECORD 🇧🇷 
+https://cdn-5.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
