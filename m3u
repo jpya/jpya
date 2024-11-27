@@ -7651,6 +7651,10 @@ https://cdn-3.nxplay.com.br/ESPN_4/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4" group-title="Brasilerao liga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Globo_logo_and_wordmark.svg",GLOBO 🇧🇷 
 https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN4" group-title="Brasilerao liga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Globo_logo_and_wordmark.svg",GLOBO sp 🇧🇷 
+https://cdn-3.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="ESPN4" group-title="Brasilerao liga" tvg-logo="-",RECORD 🇧🇷 
 https://cdn-3.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
 
