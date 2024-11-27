@@ -7656,3 +7656,25 @@ https://cdn-3.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN4" group-title="Brasilerao liga" tvg-logo="-",BAND 🇧🇷 
 https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+
+
+#EXTINF:-1  group-title="Brasilerao liga" ,BR | GLOBO SP SD
+http://streamsy.online:2999/venomj/EmoOmOskzq/2182
+#EXTINF:-1 group-title="Brasilerao liga" ,BR | GLOBO SP HD
+http://streamsy.online:2999/venomj/EmoOmOskzq/2183
+#EXTINF:-1 group-title="Brasilerao liga"  ,BR | GLOBO SP FHD
+http://streamsy.online:2999/venomj/EmoOmOskzq/2184
+#EXTINF:-1 group-title="Brasilerao liga"  ,BR | GLOBO RPC TV HD
+http://streamsy.online:2999/venomj/EmoOmOskzq/2185
+#EXTINF:-1 group-title="Brasilerao liga"  ,BR | GLOBO RJ HD
+http://streamsy.online:2999/venomj/EmoOmOskzq/2186
+#EXTINF:-1 group-title="Brasilerao liga"  ,BR | GLOBO NORDESTE HD
+http://streamsy.online:2999/venomj/EmoOmOskzq/2187
+#EXTINF:-1 group-title="Brasilerao liga" ,BR | GLOBO NEWS HD
+http://streamsy.online:2999/venomj/EmoOmOskzq/2188
+#EXTINF:-1 group-title="Brasilerao liga"  ,BR | GLOBO MINAS HD
+http://streamsy.online:2999/venomj/EmoOmOskzq/2189
+#EXTINF:-1  group-title="Brasilerao liga" ,BR | GLOBO INTERNACIONAL SD
+http://streamsy.online:2999/venomj/EmoOmOskzq/2190
+#EXTINF:-1  group-title="Brasilerao liga" ,BR | GLOBO BRASILIA SD
+http://streamsy.online:2999/venomj/EmoOmOskzq/2191
