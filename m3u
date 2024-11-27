@@ -7648,7 +7648,7 @@ https://cdn-5.nxplay.com.br/ESPN_3/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4" group-title="📺 Liga Bwin ⚽️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 4 🇧🇷 
 https://cdn-5.nxplay.com.br/ESPN_4/index.m3u8
 
-
-
+#EXTINF:-1 tvg-id="ESPN4" group-title="📺 Liga Bwin ⚽️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Globo_logo_and_wordmark.svg",GLOBO
+https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
 
