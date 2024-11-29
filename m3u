@@ -7967,7 +7967,7 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/tvagro.stream/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/Juntos.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UCT TV" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176573.jpg?w=1119&h=1019" group-title="Movistar Lista",UCT TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/UCT.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZARACAY TV" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176590.jpg?w=1119&h=1019" group-title="Internacional",ZARACAY TV
+#EXTINF:-1 tvg-id="" tvg-name="ZARACAY TV" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176590.jpg?w=1119&h=1019" group-title="Movistar Lista",ZARACAY TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/Zaracay.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HOUSE TV" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1718467599.jpg?w=1119&h=1019" group-title="Movistar Lista",HOUSE TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/hogartv.stream/playlist.m3u8
