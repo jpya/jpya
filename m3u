@@ -1150,8 +1150,7 @@ https://delivery.cdn.rcs.net.ar/mnp/canal26_hls/playlist.m3u8
 TN TODO NOTICIAS
 
 
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1042/1042680.png"  tvg-id="TodoNoticias.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="NOTICIAS", 62 TODO NOTICIAS (🇦🇷) app
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
