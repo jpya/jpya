@@ -7689,3 +7689,28 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/2189
 http://streamsy.online:2999/venomj/EmoOmOskzq/2190
 #EXTINF:-1  group-title="Brasilerao liga" ,BR | GLOBO BRASILIA SD
 http://streamsy.online:2999/venomj/EmoOmOskzq/2191
+
+
+
+
+#EXTINF:-1 group-title="PERU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es"  ,Latina
+https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="-"  ,America Tv
+https://live-evg25.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="-"  ,TV Peru
+https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="-"  ,Panamericana
+https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="-"  ,ATV
+https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="-"  ,Exitosa
+https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
+
+
+
+
