@@ -8134,3 +8134,15 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/AZ_Clic/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/SYFY.stream/playlist.m3u8
 
 
+
+#EXTINF:-1 ,TEST
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d716974633523163a90912f20d40a50b:2e2945824b82c72bef9dc21c9f004784
+https://0103-vos.dtvott.com/DASH/manifest.mpd
+
+
