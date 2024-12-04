@@ -8138,4 +8138,5 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/SYFY.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="-" group-title="test",winsports 
 https://la12hd.com/vivo/canal.php?stream=winsportsplus
 
-
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="-" group-title="test",espn premi
+https://tucanaldeportivo.org/espnpremium.php
