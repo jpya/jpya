@@ -42,6 +42,7 @@
 
 
 
+
 ----------------4g-----------------------
 -----------------------------------------
 
@@ -3165,6 +3166,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/857/857455.png" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES VARIOS" ,BEIN SPORTS ESPAÑOL
 https://bein-live.cdn.vustreams.com/live/f0fc61a0-b161-4eef-ae50-646c4f842b37/live.isml/f0fc61a0-b161-4eef-ae50-646c4f842b37.mpd
 
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/857/857455.png" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES VARIOS" ,BEIN SPORTS XTRA Ñ OPC 2
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
 
 
