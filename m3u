@@ -8140,24 +8140,6 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/SYFY.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1280px-Win_Sports%2B_logo.svg.png" group-title="WEB VIDEO CAST",winsports 
-https://la12hd.com/vivo/canal.php?stream=winsportsplus
-
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="WEB VIDEO CAST",espn premi
-https://tucanaldeportivo.org/espnpremium.php
-
-
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/GolTV.svg" group-title="WEB VIDEO CAST",gol tv
-https://www.telextrema.com/gol-tv-en-vivo.html
-
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="WEB VIDEO CAST",movistar
-https://www.telextrema.com/movistar-deportes-en-vivo.html
-
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TNT_Sports_Logo.svg/1200px-TNT_Sports_Logo.svg.png" group-title="WEB VIDEO CAST",tnt sports
-https://www.photocalltv.me/cv/embed.php?r=tntsports-op2
-
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="WEB VIDEO CAST",univision
-https://www.photocalltv.me/cv/embed.php?r=univision
 
 
 
@@ -8206,10 +8188,15 @@ https://la12hd.com/vivo/canales.php?stream=espnpremium
 #EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1280px-Win_Sports%2B_logo.svg.png" group-title="WEB VIDEO CAST", WIN SPORTS
 https://la12hd.com/vivo/canales.php?stream=winsports
 
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1280px-Win_Sports%2B_logo.svg.png" group-title="WEB VIDEO CAST",winsports 
+https://la12hd.com/vivo/canal.php?stream=winsportsplus
+
+
 #EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="WEB VIDEO CAST", DIRECTV SPORTS
 https://la12hd.com/vivo/canales.php?stream=dsports
 
 #EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="WEB VIDEO CAST", DIRECTV SPORTS 2
 https://la12hd.com/vivo/canales.php?stream=dsports2
 
-
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="WEB VIDEO CAST", MOVISTAR
+https://la12hd.com/vivo/canales.php?stream=movistar
