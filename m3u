@@ -8163,3 +8163,16 @@ https://www.photocalltv.me/cv/embed.php?r=univision
 
 #EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" group-title="WEB VIDEO CAST",caracol
 https://www.telelibre.net/en-vivo/player/embed.php?r=caracol
+
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://espnpressroom.com/mexico/files/2009/11/ESPN_Mexico_BW_Neg.jpg" group-title="WEB VIDEO CAST", ESPN MEXICO
+https://la12hd.com/vivo/canales.php?stream=espnmx
+
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://espnpressroom.com/mexico/files/2009/11/ESPN_Mexico_BW_Neg.jpg" group-title="WEB VIDEO CAST", ESPN 2 MEXICO
+https://la12hd.com/vivo/canales.php?stream=espn2mx
+
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://espnpressroom.com/mexico/files/2009/11/ESPN_Mexico_BW_Neg.jpg" group-title="WEB VIDEO CAST", ESPN 3 MEXICO
+https://la12hd.com/vivo/canales.php?stream=espn3mx
+
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://espnpressroom.com/mexico/files/2009/11/ESPN_Mexico_BW_Neg.jpg" group-title="WEB VIDEO CAST", ESPN 4 MEXICO
+https://la12hd.com/vivo/canales.php?stream=espn4mx
+
