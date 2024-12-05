@@ -8202,3 +8202,6 @@ https://la12hd.com/vivo/canales.php?stream=tntsports
 
 #EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="WEB VIDEO CAST", TNT SPORTS ARG
 https://la12hd.com/vivo/canales.php?stream=espnpremium
+
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1280px-Win_Sports%2B_logo.svg.png" group-title="WEB VIDEO CAST", WIN SPORTS
+https://la12hd.com/vivo/canales.php?stream=winsports
