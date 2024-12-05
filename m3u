@@ -8143,69 +8143,69 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/SYFY.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://espnpressroom.com/mexico/files/2009/11/ESPN_Mexico_BW_Neg.jpg" group-title="WEB VIDEO CAST", ESPN MEXICO
+#EXTINF:-1 tvg-id="" tvg-name="espn mexico" tvg-logo="https://espnpressroom.com/mexico/files/2009/11/ESPN_Mexico_BW_Neg.jpg" group-title="WEB VIDEO CAST", ESPN MEXICO
 https://la12hd.com/vivo/canales.php?stream=espnmx
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://espnpressroom.com/mexico/files/2009/11/ESPN_Mexico_BW_Neg.jpg" group-title="WEB VIDEO CAST", ESPN 2 MEXICO
+#EXTINF:-1 tvg-id="" tvg-name="espn 2 mexico" tvg-logo="https://espnpressroom.com/mexico/files/2009/11/ESPN_Mexico_BW_Neg.jpg" group-title="WEB VIDEO CAST", ESPN 2 MEXICO
 https://la12hd.com/vivo/canales.php?stream=espn2mx
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://espnpressroom.com/mexico/files/2009/11/ESPN_Mexico_BW_Neg.jpg" group-title="WEB VIDEO CAST", ESPN 3 MEXICO
+#EXTINF:-1 tvg-id="" tvg-name="espn 3 mexico" tvg-logo="https://espnpressroom.com/mexico/files/2009/11/ESPN_Mexico_BW_Neg.jpg" group-title="WEB VIDEO CAST", ESPN 3 MEXICO
 https://la12hd.com/vivo/canales.php?stream=espn3mx
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://espnpressroom.com/mexico/files/2009/11/ESPN_Mexico_BW_Neg.jpg" group-title="WEB VIDEO CAST", ESPN 4 MEXICO
+#EXTINF:-1 tvg-id="" tvg-name="espn 4 mexico" tvg-logo="https://espnpressroom.com/mexico/files/2009/11/ESPN_Mexico_BW_Neg.jpg" group-title="WEB VIDEO CAST", ESPN 4 MEXICO
 https://la12hd.com/vivo/canales.php?stream=espn4mx
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="WEB VIDEO CAST", ESPN PERU
+#EXTINF:-1 tvg-id="" tvg-name="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="WEB VIDEO CAST", ESPN PERU
 https://la12hd.com/vivo/canales.php?stream=espn
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="WEB VIDEO CAST", ESPN 2 PERU
+#EXTINF:-1 tvg-id="" tvg-name="espn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="WEB VIDEO CAST", ESPN 2 PERU
 https://la12hd.com/vivo/canales.php?stream=espn2
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="WEB VIDEO CAST", ESPN 3 PERU
+#EXTINF:-1 tvg-id="" tvg-name="espn 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="WEB VIDEO CAST", ESPN 3 PERU
 https://la12hd.com/vivo/canales.php?stream=espn3
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="WEB VIDEO CAST", ESPN 4 PERU
+#EXTINF:-1 tvg-id="" tvg-name="espn 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="WEB VIDEO CAST", ESPN 4 PERU
 https://la12hd.com/vivo/canales.php?stream=espn4
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="WEB VIDEO CAST", ESPN 5 PERU
+#EXTINF:-1 tvg-id="" tvg-name="espn 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="WEB VIDEO CAST", ESPN 5 PERU
 https://la12hd.com/vivo/canales.php?stream=espn5
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="WEB VIDEO CAST", ESPN 7 PERU
+#EXTINF:-1 tvg-id="" tvg-name="espn 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="WEB VIDEO CAST", ESPN 7 PERU
 https://la12hd.com/vivo/canales.php?stream=espn7
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="WEB VIDEO CAST", FOX SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="fox sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="WEB VIDEO CAST", FOX SPORTS
 https://la12hd.com/vivo/canales.php?stream=foxsports
 
 #EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="WEB VIDEO CAST", FOX SPORTS 2
 https://la12hd.com/vivo/canales.php?stream=foxsports2
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TNT_Sports_Logo.svg/1200px-TNT_Sports_Logo.svg.png" group-title="WEB VIDEO CAST", TNT SPORTS ARG
+#EXTINF:-1 tvg-id="" tvg-name="tnt sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TNT_Sports_Logo.svg/1200px-TNT_Sports_Logo.svg.png" group-title="WEB VIDEO CAST", TNT SPORTS ARG
 https://la12hd.com/vivo/canales.php?stream=tntsports
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="WEB VIDEO CAST", TNT SPORTS ARG
+#EXTINF:-1 tvg-id="" tvg-name="espn premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="WEB VIDEO CAST", TNT SPORTS ARG
 https://la12hd.com/vivo/canales.php?stream=espnpremium
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1280px-Win_Sports%2B_logo.svg.png" group-title="WEB VIDEO CAST", WIN SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="winsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1280px-Win_Sports%2B_logo.svg.png" group-title="WEB VIDEO CAST", WIN SPORTS
 https://la12hd.com/vivo/canales.php?stream=winsports
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1280px-Win_Sports%2B_logo.svg.png" group-title="WEB VIDEO CAST",winsports 
+#EXTINF:-1 tvg-id="" tvg-name="winsports plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1280px-Win_Sports%2B_logo.svg.png" group-title="WEB VIDEO CAST",winsports 
 https://la12hd.com/vivo/canal.php?stream=winsportsplus
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="WEB VIDEO CAST", DIRECTV SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="WEB VIDEO CAST", DIRECTV SPORTS
 https://la12hd.com/vivo/canales.php?stream=dsports
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="WEB VIDEO CAST", DIRECTV SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="WEB VIDEO CAST", DIRECTV SPORTS 2
 https://la12hd.com/vivo/canales.php?stream=dsports2
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="WEB VIDEO CAST", MOVISTAR
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="WEB VIDEO CAST", MOVISTAR
 https://la12hd.com/vivo/canales.php?stream=movistar
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="WEB VIDEO CAST", MOVISTAR PLUS
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="WEB VIDEO CAST", MOVISTAR PLUS
 https://la12hd.com/vivo/canales.php?stream=movistarplus
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="WEB VIDEO CAST", TYC SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="WEB VIDEO CAST", TYC SPORTS
 https://la12hd.com/vivo/canales.php?stream=tycsports
 
