@@ -8205,3 +8205,7 @@ https://la12hd.com/vivo/canales.php?stream=movistar
 #EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="WEB VIDEO CAST", MOVISTAR PLUS
 https://la12hd.com/vivo/canales.php?stream=movistarplus
 
+
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="WEB VIDEO CAST", TYC SPORTS
+https://la12hd.com/vivo/canales.php?stream=tycsports
+
