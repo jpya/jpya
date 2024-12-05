@@ -8191,3 +8191,14 @@ https://la12hd.com/vivo/canales.php?stream=espn5
 #EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="WEB VIDEO CAST", ESPN 7 PERU
 https://la12hd.com/vivo/canales.php?stream=espn7
 
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="WEB VIDEO CAST", FOX SPORTS
+https://la12hd.com/vivo/canales.php?stream=foxsports
+
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="WEB VIDEO CAST", FOX SPORTS 2
+https://la12hd.com/vivo/canales.php?stream=foxsports2
+
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TNT_Sports_Logo.svg/1200px-TNT_Sports_Logo.svg.png" group-title="WEB VIDEO CAST", TNT SPORTS ARG
+https://la12hd.com/vivo/canales.php?stream=tntsports
+
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="WEB VIDEO CAST", TNT SPORTS ARG
+https://la12hd.com/vivo/canales.php?stream=espnpremium
