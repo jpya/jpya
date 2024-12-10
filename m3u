@@ -8209,11 +8209,8 @@ https://la12hd.com/vivo/canales.php?stream=movistarplus
 #EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="WEB VIDEO CAST", TYC SPORTS
 https://la12hd.com/vivo/canales.php?stream=tycsports
 
-#EXTINF:-1,Moana 2 (2024)
-https://image.tmdb.org/t/p/original/4YZpsylmjHbqeWzjKpUEF8gcLNW.jpg
-https://geo.dailymotion.com/player.html?video=x970bvk
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4YZpsylmjHbqeWzjKpUEF8gcLNW.jpg"  ,Moana 2 (2024)
 https://iplayerhls.com/e/vepaz925vhnq
 
-#EXTINF:-1,Moana 2 (2024) español
-https://image.tmdb.org/t/p/original/4YZpsylmjHbqeWzjKpUEF8gcLNW.jpg
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4YZpsylmjHbqeWzjKpUEF8gcLNW.jpg"  ,Moana 2 (2024) español
 https://qvvpsd2sv7b7.cdn-centaurus.com/hls2/01/06624/vepaz925vhnq_h/master.m3u8?t=A474kiB_lQo3CPYmBIU6baQhjYk9Ta3_5xak6TjLMMY&s=1733850676&e=129600&f=33121077&srv=oyb6wom9jr&i=0.4&sp=500&p1=oyb6wom9jr&p2=oyb6wom9jr&asn=265729
