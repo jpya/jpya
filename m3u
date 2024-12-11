@@ -3982,7 +3982,16 @@ https://vps-2333016-x.dattaweb.com/listen/am_1050_radio_san_francisco/radio.mp3
 -------------------------------------------------------------------------------------------------------------------------
 
 
-
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="HTTP SERVER" ,A3Player Multicine 🇪🇸
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="HTTP SERVER" ,A3Player Clasicos 🇪🇸
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/5.m3u8
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="HTTP SERVER" ,A3Player Comedia 🇪🇸
+https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61/5.m3u8
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="HTTP SERVER" ,A3Player Mentes Inquietas 🇪🇸
+https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="HTTP SERVER" ,A3Player Equipo Investigacion 🇪🇸
+https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc/1.m3u8
 
 
 #EXTINF:-1  group-logo="https://magistv-pro.net/wp-content/uploads/2024/05/magis-tv-pro.png"   group-title="HTTP SERVER"  tvg-logo="https://static.flow.com.ar/images/242/CH_LOGO/60/40/0/0/45444272073059.png"  ,🐾 AE Mundo
