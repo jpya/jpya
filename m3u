@@ -4858,6 +4858,16 @@ https://webhdrus.onlinehdhls.ru/lb/premium57/index.m3u8|Origin=https://weblivehd
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium58/index.m3u8|Origin=https://weblivehdplay.ru/
 
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1280px-Eurosport_Logo_2015.svg.png" group-title="..DADDY LIVE SPORTS", EUROSPORTS 2 S
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium232/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1280px-Eurosport_Logo_2015.svg.png" group-title="..DADDY LIVE SPORTS", EUROSPORTS 1 S
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium233/index.m3u8|Origin=https://weblivehdplay.ru/
+
 
 
 
@@ -4938,6 +4948,12 @@ https://webhdrus.onlinehdhls.ru/lb/premium426/index.m3u8|Origin=https://webliveh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium427/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="..DADDY LIVE SPORTS", DAZN 1 S
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium230/index.m3u8|Origin=https://weblivehdplay.ru/
+
 
 
 #EXTINF:-1  group-logo="-"  tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1.png" group-title="..DADDY LIVE SPORTS", ELEVEN SPORTS 1
