@@ -5169,6 +5169,15 @@ https://webhdrus.onlinehdhls.ru/lb/premium98/index.m3u8|Origin=https://weblivehd
 https://webhdrus.onlinehdhls.ru/lb/premium99/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
+#EXTINF:-1  group-logo="-"  tvg-logo="https://iconape.com/wp-content/png_logo_vector/nova-sport.png" group-title="..DADDY LIVE SPORTS", NOVA SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium468/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
+
+
+
 
 
 #EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="..DADDY LIVE SPORTS", ASTRO GRAND
