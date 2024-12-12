@@ -4787,6 +4787,32 @@ https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e458
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc/1.m3u8
 
 
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png" group-title="HTTP SERVER",2 LA 1 ESPAÑA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium533/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/LaSexta_2024_Logo.svg/1200px-LaSexta_2024_Logo.svg.png" group-title="HTTP SERVER",2 LA SEXTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium534/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Cuatro_icon.svg/revision/latest?cb=20210603021936&path-prefix=es" group-title="HTTP SERVER",2 LA CUATRO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium535/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -5118,7 +5144,10 @@ https://webhdrus.onlinehdhls.ru/lb/premium459/index.m3u8|Origin=https://webliveh
 
 
 
-
+#EXTINF:-1  group-logo="-"  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="..DADDY LIVE SPORTS",1 DAZN FORMULA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium537/index.m3u8|Origin=https://weblivehdplay.ru
 
 
 
@@ -5131,6 +5160,17 @@ https://webhdrus.onlinehdhls.ru/lb/premium427/index.m3u8|Origin=https://webliveh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium230/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="..DADDY LIVE SPORTS", DAZN REDIFUSION ESP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium538/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="..DADDY LIVE SPORTS", DAZN LALIGA ESP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium539/index.m3u8|Origin=https://weblivehdplay.ru/
+
 
 
 
