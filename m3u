@@ -5175,6 +5175,36 @@ https://webhdrus.onlinehdhls.ru/lb/premium99/index.m3u8|Origin=https://weblivehd
 https://webhdrus.onlinehdhls.ru/lb/premium468/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_Canal%2B_Sport_2013.svg" group-title="..DADDY LIVE SPORTS", + SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium486/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_Canal%2B_Sport_2013.svg" group-title="..DADDY LIVE SPORTS", + SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium487/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_Canal%2B_Sport_2013.svg" group-title="..DADDY LIVE SPORTS", + SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium488/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_Canal%2B_Sport_2013.svg" group-title="..DADDY LIVE SPORTS", + SPORTS DIRECT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium489/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_Canal%2B_Sport_2013.svg" group-title="..DADDY LIVE SPORTS", + SPORTS 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium490/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
 
 
 
