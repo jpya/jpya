@@ -5288,6 +5288,27 @@ https://webhdrus.onlinehdhls.ru/lb/premium406/index.m3u8|Origin=https://webliveh
 https://webhdrus.onlinehdhls.ru/lb/premium410/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Max_Sport.svg/1200px-Max_Sport.svg.png" group-title="..DADDY LIVE SPORTS", MAX SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium472/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Max_Sport.svg/1200px-Max_Sport.svg.png" group-title="..DADDY LIVE SPORTS", MAX SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium473/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Max_Sport.svg/1200px-Max_Sport.svg.png" group-title="..DADDY LIVE SPORTS", MAX SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium474/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Max_Sport.svg/1200px-Max_Sport.svg.png" group-title="..DADDY LIVE SPORTS", MAX SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium475/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
 
 
 
