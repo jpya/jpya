@@ -7404,7 +7404,7 @@ https://archive.org/download/13-encuentros-muy-cercanos-con-senoras-de-cualquier
 
 
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/animaniacs/images/d/d9/Animaniacs_%285%29.png" group-title="24/7",ANIMANIACS
+#EXTINF:-1 group-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557"   tvg-logo="https://vignette.wikia.nocookie.net/animaniacs/images/d/d9/Animaniacs_%285%29.png" group-title="24/7",ANIMANIACS
 http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56604&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/lucian-films-thirteenth-deluxe-edition/images/6/64/SpongeBob_SquarePants_logo_wordmark.png" group-title="24/7",BOB SPONGE
@@ -7425,17 +7425,11 @@ http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guil
 #EXTINF:-1 tvg-logo="-" group-title="24/7",dinosaurios
 http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=13405&extension=m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ec545603-cf4e-48e0-936d-5376ea12fdc0/dfkp5gk-b67dcfb1-e294-4658-b959-1da345673a32.png/v1/fill/w_1156,h_691/jimmy_neutron_boy_genius_logo_png_2022_by_wcwjunkbox_dfkp5gk-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY1IiwicGF0aCI6IlwvZlwvZWM1NDU2MDMtY2Y0ZS00OGUwLTkzNmQtNTM3NmVhMTJmZGMwXC9kZmtwNWdrLWI2N2RjZmIxLWUyOTQtNDY1OC1iOTU5LTFkYTM0NTY3M2EzMi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.0lAFK13Uxn6XWma0ozTlmOOP-U1oo1fY5_OdXwuhyIE" group-title="24/7",JIMMY NEUTRON
 http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56664&extension=m3u8
 
-
 #EXTINF:-1 tvg-logo="https://pngimg.com/uploads/futurama/futurama_PNG26.png" group-title="24/7",FUTURAMA
 http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56595&extension=m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://miro.medium.com/max/1380/1*5FDqv_Jqlk___XP0eFZptQ.png" group-title="24/7",DINOSAURIOS
 http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56613&extension=m3u8
@@ -7463,7 +7457,6 @@ http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guil
 
 #EXTINF:-1 tvg-logo="https://i.kym-cdn.com/photos/images/facebook/001/018/269/b21.png" group-title="24/7",THE THEORY OF BIG BANG
 http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=131193&extension=m3u8
-
 
 #EXTINF:-1 tvg-logo="-" group-title="24/7",los simpson ingles
 http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=13408&extension=m3u8
