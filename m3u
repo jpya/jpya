@@ -7413,6 +7413,21 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d85
 #EXTINF:-1 tvg-logo="https://www.vippng.com/png/full/201-2013595_el-chavo-el-chavo-del-8-letra.png" group-title="24/7",EL CHAVO DEL OCHO
 http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=13400&extension=m3u8
 
+#EXTINF:-1 tvg-logo="-" group-title="24/7",locos adams
+http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=13402&extension=m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="24/7",Merge 1
+http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=13403&extension=m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="24/7",MR beean
+http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=13404&extension=m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="24/7",dinosaurios
+http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=13405&extension=m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ec545603-cf4e-48e0-936d-5376ea12fdc0/dfkp5gk-b67dcfb1-e294-4658-b959-1da345673a32.png/v1/fill/w_1156,h_691/jimmy_neutron_boy_genius_logo_png_2022_by_wcwjunkbox_dfkp5gk-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY1IiwicGF0aCI6IlwvZlwvZWM1NDU2MDMtY2Y0ZS00OGUwLTkzNmQtNTM3NmVhMTJmZGMwXC9kZmtwNWdrLWI2N2RjZmIxLWUyOTQtNDY1OC1iOTU5LTFkYTM0NTY3M2EzMi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.0lAFK13Uxn6XWma0ozTlmOOP-U1oo1fY5_OdXwuhyIE" group-title="24/7",JIMMY NEUTRON
 http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56664&extension=m3u8
 
@@ -7445,11 +7460,6 @@ http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guil
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="24/7",DRAGON BALL SUPER
 http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56618&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/4f/4f0ca4a99c82adc701d1c18856708d3a.png" group-title="24/7",NARUTO
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=eba192f4-cd23-11eb-9091-0242ac110002&sid=eba192f4-cd23-11eb-9091-0242ac110002&userId=
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R404141aa90894f89d7090785b3e1685d?rik=ml589mK99ne4GQ&pid=ImgRaw" group-title="24/7",CABALLEROS DEL ZODIACO
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=130986&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://i.kym-cdn.com/photos/images/facebook/001/018/269/b21.png" group-title="24/7",THE THEORY OF BIG BANG
 http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=131193&extension=m3u8
