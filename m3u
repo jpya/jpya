@@ -4717,12 +4717,12 @@ http://200.60.124.19:29000/play/a01e/index.m3u8
 
 
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png"  ,#️⃣ Univision
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png"  ,#️⃣ Univision
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.106.127:9000/play/ca024/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Telemundo_Internacional_2018.svg/revision/latest/scale-to-width-down/200?cb=20210104235725"  ,Telemundo internacional
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Telemundo_Internacional_2018.svg/revision/latest/scale-to-width-down/200?cb=20210104235725"  ,Telemundo internacional
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.106.127:9000/play/ca009/index.m3u8
@@ -4730,269 +4730,269 @@ http://181.78.106.127:9000/play/ca009/index.m3u8
 
 
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-"  ,⚽ ESPN PREMIUM ECUADOR
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="-"  ,⚽ ESPN PREMIUM ECUADOR
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://177.53.155.236:8000/play/a0c4/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-"  ,RCN COLOMBIA
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="-"  ,RCN COLOMBIA
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch59
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN 3
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN 3
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch18
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN 
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN 
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch16
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN FHD
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN FHD
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch17
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN 5
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN 5
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch19
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN 6
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN 6
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch21
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN 7
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN 7
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch20
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://i.imgur.com/prk8QXO.png"  ,⚽ ESPN 2 HD (1)(Hon1)
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://i.imgur.com/prk8QXO.png"  ,⚽ ESPN 2 HD (1)(Hon1)
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://168.181.122.234:8000/play/a040/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://i.imgur.com/cg8QWOm.png" ,⚽ ESPN 3 HD (1)(Hon1)
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://i.imgur.com/cg8QWOm.png" ,⚽ ESPN 3 HD (1)(Hon1)
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://168.181.122.234:8000/play/a041/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Caracol_Televisi%C3%B3n_logo_2023.png" ,#️⃣ Caracol Colombia
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Caracol_Televisi%C3%B3n_logo_2023.png" ,#️⃣ Caracol Colombia
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a02g
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" ,#️⃣ RCN
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" ,#️⃣ RCN
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a02h
 
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" ,#️⃣ Señal Colombia
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" ,#️⃣ Señal Colombia
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a02m
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ ESPN Ecuador
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ ESPN Ecuador
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a02p
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Canal_ZOOM_2008.png/revision/latest?cb=20210501194336&path-prefix=es" ,#️⃣ Canal Soom
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Canal_ZOOM_2008.png/revision/latest?cb=20210501194336&path-prefix=es" ,#️⃣ Canal Soom
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a02s
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ ESPN ARG
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ ESPN ARG
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a01h
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ ESPN Chile
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ ESPN Chile
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a01i
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,💞 RCN
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="-" ,💞 RCN
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch59
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn 7
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn 7
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch20
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn 5
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn 5
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch19
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn 3
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn 3
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch18
 
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn 2
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn 2
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch17
 
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn 
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn 
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch16
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn 6
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn 6
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch21
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/60/60/0/0/24951383073066.png" ,🐾 Discovery
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/60/60/0/0/24951383073066.png" ,🐾 Discovery
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch22
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://static.flow.com.ar/images/641/CH_LOGO/60/40/0/0/52117167073223.png" ,🐾 Discovery turbo
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://static.flow.com.ar/images/641/CH_LOGO/60/40/0/0/52117167073223.png" ,🐾 Discovery turbo
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch24
 
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://static.flow.com.ar/images/272/CH_LOGO/60/40/0/0/84821268072218.png" ,🐾 Discovery h&h
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://static.flow.com.ar/images/272/CH_LOGO/60/40/0/0/84821268072218.png" ,🐾 Discovery h&h
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch25
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://static.flow.com.ar/images/295/CH_LOGO/60/40/0/0/9907571507125.png" ,Gourmet
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://static.flow.com.ar/images/295/CH_LOGO/60/40/0/0/9907571507125.png" ,Gourmet
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch27
 
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://static.flow.com.ar/images/301/CH_LOGO/60/40/0/0/68362124075201.png" ,🐾 history
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://static.flow.com.ar/images/301/CH_LOGO/60/40/0/0/68362124075201.png" ,🐾 history
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch30
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://static.flow.com.ar/images/6619/CH_LOGO/60/40/0/0/93318670071976.png" ,💞 pasiones
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://static.flow.com.ar/images/6619/CH_LOGO/60/40/0/0/93318670071976.png" ,💞 pasiones
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch35
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://static.flow.com.ar/images/9737/CH_LOGO/60/40/0/0/3871340007170.png" ,💞 telenovelas
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://static.flow.com.ar/images/9737/CH_LOGO/60/40/0/0/3871340007170.png" ,💞 telenovelas
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch45
 
 
 
-#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER",⚽ sky esp
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="MAGIS TV",⚽ sky esp
 http://181.78.106.127:9000/play/ca028/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER",⚽ sky eng
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="MAGIS TV",⚽ sky eng
 http://181.78.106.127:9000/play/ca029/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER",⚽ sky 2 esp
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="MAGIS TV",⚽ sky 2 esp
 http://181.78.106.127:9000/play/ca030/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER",⚽ fox sports mex
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="MAGIS TV",⚽ fox sports mex
 http://181.78.106.127:9000/play/ca031/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER",⚽ fox sports 2 mex
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="MAGIS TV",⚽ fox sports 2 mex
 http://181.78.106.127:9000/play/ca032/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER",⚽ espn mex
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="MAGIS TV",⚽ espn mex
 http://181.78.106.127:9000/play/ca033/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER",⚽ espn 2 mex
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="MAGIS TV",⚽ espn 2 mex
 http://181.78.106.127:9000/play/ca034/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER",⚽ espn 3 mex
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="MAGIS TV",⚽ espn 3 mex
 http://181.78.106.127:9000/play/ca035/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER",⚽ espn 4 mex
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="MAGIS TV",⚽ espn 4 mex
 http://181.78.106.127:9000/play/ca036/index.m3u8
 
 
 
 
 
-#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER" ,⚽ ESPN 4
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="MAGIS TV" ,⚽ ESPN 4
 http://181.176.153.107:8090/play/a0rl/index.m3u8
 
 
 
-#EXTINF:-1   group-title="HTTP SERVER"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",⚽ Directv(ecuador) SD
+#EXTINF:-1   group-title="MAGIS TV"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",⚽ Directv(ecuador) SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/directv/playlist.m3u8
 
-#EXTINF:-1   group-title="HTTP SERVER"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",⚽ Directv opc 1
+#EXTINF:-1   group-title="MAGIS TV"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",⚽ Directv opc 1
 http://45.228.233.93:8000/play/ca033/index.m3u8
 
-#EXTINF:-1   group-title="HTTP SERVER"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",⚽ Directv opc 2
+#EXTINF:-1   group-title="MAGIS TV"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",⚽ Directv opc 2
 http://181.78.106.127:9000/play/ca026/index.m3u8
 
-#EXTINF:-1   group-title="HTTP SERVER"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",⚽ Directv opc 3
+#EXTINF:-1   group-title="MAGIS TV"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",⚽ Directv opc 3
 http://177.53.155.236:8000/play/a0co/index.m3u8
 
-#EXTINF:-1   group-title="HTTP SERVER"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",⚽ Directv opc 4
+#EXTINF:-1   group-title="MAGIS TV"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",⚽ Directv opc 4
 http://209.45.103.201:8000/play/a067/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER",💞 NOVELAS DRAMA
+#EXTINF:-1   tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="MAGIS TV",💞 NOVELAS DRAMA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
 
-#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER",💞 NOVELAS ROMANCE
+#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="MAGIS TV",💞 NOVELAS ROMANCE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84db2db3851800077c871e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=941&terminate=false&userId=
 
-#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER",💞 NOVELAS TELEMUNDO
+#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="MAGIS TV",💞 NOVELAS TELEMUNDO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
 
-#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER",💞 NOVELISIMA
+#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="MAGIS TV",💞 NOVELISIMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
-#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER",💞 TELEVISA NOVELAS
+#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="MAGIS TV",💞 TELEVISA NOVELAS
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER",💞 NOVELAS 2
+#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="MAGIS TV",💞 NOVELAS 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 
-#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER",💞 NOVELAS TURCAS
+#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="MAGIS TV",💞 NOVELAS TURCAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
-#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER",💞 SONY NOVELAS
+#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="MAGIS TV",💞 SONY NOVELAS
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="HTTP SERVER" ,A3Player Multicine 🇪🇸
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="MAGIS TV" ,A3Player Multicine 🇪🇸
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="HTTP SERVER" ,A3Player Clasicos 🇪🇸
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="MAGIS TV" ,A3Player Clasicos 🇪🇸
 https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/5.m3u8
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="HTTP SERVER" ,A3Player Comedia 🇪🇸
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="MAGIS TV" ,A3Player Comedia 🇪🇸
 https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61/5.m3u8
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="HTTP SERVER" ,A3Player Mentes Inquietas 🇪🇸
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="MAGIS TV" ,A3Player Mentes Inquietas 🇪🇸
 https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="HTTP SERVER" ,A3Player Equipo Investigacion 🇪🇸
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="MAGIS TV" ,A3Player Equipo Investigacion 🇪🇸
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc/1.m3u8
 
 
-#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png" group-title="HTTP SERVER",2 LA 1 ESPAÑA
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png" group-title="MAGIS TV",2 LA 1 ESPAÑA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium533/index.m3u8|Origin=https://weblivehdplay.ru/
 
-#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/LaSexta_2024_Logo.svg/1200px-LaSexta_2024_Logo.svg.png" group-title="HTTP SERVER",2 LA SEXTA
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/LaSexta_2024_Logo.svg/1200px-LaSexta_2024_Logo.svg.png" group-title="MAGIS TV",2 LA SEXTA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium534/index.m3u8|Origin=https://weblivehdplay.ru/
 
-#EXTINF:-1  group-logo="-"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Cuatro_icon.svg/revision/latest?cb=20210603021936&path-prefix=es" group-title="HTTP SERVER",2 LA CUATRO
+#EXTINF:-1  group-logo="-"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Cuatro_icon.svg/revision/latest?cb=20210603021936&path-prefix=es" group-title="MAGIS TV",2 LA CUATRO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium535/index.m3u8|Origin=https://weblivehdplay.ru/
