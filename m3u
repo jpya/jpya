@@ -4678,7 +4678,23 @@ http://181.78.106.127:9000/play/ca025/index.m3u8
 http://181.78.106.127:9000/play/ca027/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,⚽ ESPN VIVO HD
+http://200.60.124.19:29000/play/a016/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,⚽ ESPN 2 HD
+http://200.60.124.19:29000/play/a015/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,⚽ ESPN 3 HD
+http://200.60.124.19:29000/play/a02e/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,⚽ ESPN 5
+http://200.60.124.19:29000/play/a04y/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,⚽ ESPN 6
+http://200.60.124.19:29000/play/a01f/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,⚽ ESPN 7
+http://200.60.124.19:29000/play/a01e/index.m3u8
 
 
 
@@ -4898,18 +4914,7 @@ http://181.78.106.127:9000/play/ca035/index.m3u8
 http://181.78.106.127:9000/play/ca036/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER" ,⚽ ESPN VIVO HD
-http://200.60.124.19:29000/play/a016/index.m3u8
-#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER" ,⚽ ESPN 2 HD
-http://200.60.124.19:29000/play/a015/index.m3u8
-#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER" ,⚽ ESPN 3 HD
-http://200.60.124.19:29000/play/a02e/index.m3u8
-#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER" ,⚽ ESPN 5
-http://200.60.124.19:29000/play/a04y/index.m3u8
-#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER" ,⚽ ESPN 6
-http://200.60.124.19:29000/play/a01f/index.m3u8
-#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER" ,⚽ ESPN 7
-http://200.60.124.19:29000/play/a01e/index.m3u8
+
 
 
 #EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER" ,⚽ ESPN 4
