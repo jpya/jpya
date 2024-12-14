@@ -4647,16 +4647,35 @@ http://181.78.27.128:8000/play/a031/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a064/index.m3u8
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png"  ,⚽ Tyc Sport
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/121/CH_LOGO/160/160/0/0/28233186072861.png"  ,⚽ Tyc Sport
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a063/index.m3u8
 
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png"  ,⚽ Fox SPorts 
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.27.128:8000/play/a062/index.m3u8
 
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaJgUCBHpZxRRzAMD0WJMNNat1ldxZtcFhWQ&s"  ,⚽ Tigo Sports
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.106.127:9000/play/ca038/index.m3u8
 
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  ,⚽ Directv sports
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.106.127:9000/play/ca026/index.m3u8
 
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png"  ,⚽ TUDN
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.106.127:9000/play/ca025/index.m3u8
 
-
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png"  ,⚽ DAZN la liga
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.106.127:9000/play/ca027/index.m3u8
 
 
 
@@ -4674,20 +4693,7 @@ http://181.78.27.128:8000/play/a063/index.m3u8
 
 
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaJgUCBHpZxRRzAMD0WJMNNat1ldxZtcFhWQ&s"  ,⚽ Tigo Sports
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.106.127:9000/play/ca038/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  ,⚽ Directv sports
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.106.127:9000/play/ca026/index.m3u8
-
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png"  ,⚽ TUDN
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.106.127:9000/play/ca025/index.m3u8
 
 #EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png"  ,#️⃣ Univision
 #EXTVLCOPT:network-caching=1500
