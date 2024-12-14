@@ -4190,12 +4190,9 @@ https://vps-2333016-x.dattaweb.com/listen/am_1050_radio_san_francisco/radio.mp3
 
 
 
-#EXTINF:-1  group-logo="https://magistv-pro.net/wp-content/uploads/2024/05/magis-tv-pro.png"   group-title="MAGIS TV"  tvg-logo="https://static.flow.com.ar/images/242/CH_LOGO/60/40/0/0/45444272073059.png"  ,🐾 AE Mundo
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a03s/index.m3u8
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://seeklogo.com/images/A/atv-logo-D6D16EB2D1-seeklogo.com.png" ,#️⃣ ATV
+
+#EXTINF:-1    group-logo="https://magistv-pro.net/wp-content/uploads/2024/05/magis-tv-pro.png"  group-title="MAGIS TV" tvg-logo="https://seeklogo.com/images/A/atv-logo-D6D16EB2D1-seeklogo.com.png" ,#️⃣ ATV
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a04a/index.m3u8
@@ -4364,32 +4361,6 @@ http://181.78.27.128:8000/play/a061/index.m3u8
 
 
 
-
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/60/60/0/0/24951383073066.png"  ,🐾 Discovery Channel
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a03k/index.m3u8
-
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/66/CH_LOGO/160/160/0/0/6146615007111.png"  ,🐾 Discovery ID
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a041/index.m3u8
-
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/43/CH_LOGO/160/160/0/0/93120001074605.png"  ,🐾 Animal Planet
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a03l/index.m3u8
-
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://banner2.kisspng.com/20180704/hty/kisspng-discovery-turbo-television-channel-discovery-chann-rua-gabriel-oeschler-5b3cb4edd44231.0893172215307051338694.jpg"  ,🐾 Discovery Turbo
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a03d/index.m3u8
-
-
-
-
-
-
 #EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp"  ,🧩 Discovery Kids
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
@@ -4453,7 +4424,30 @@ http://181.78.27.128:8000/play/a046/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a03n/index.m3u8
 
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/60/60/0/0/24951383073066.png"  ,🐾 Discovery Channel
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.27.128:8000/play/a03k/index.m3u8
 
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/66/CH_LOGO/160/160/0/0/6146615007111.png"  ,🐾 Discovery ID
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.27.128:8000/play/a041/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/43/CH_LOGO/160/160/0/0/93120001074605.png"  ,🐾 Animal Planet
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.27.128:8000/play/a03l/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://banner2.kisspng.com/20180704/hty/kisspng-discovery-turbo-television-channel-discovery-chann-rua-gabriel-oeschler-5b3cb4edd44231.0893172215307051338694.jpg"  ,🐾 Discovery Turbo
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.27.128:8000/play/a03d/index.m3u8
+
+#EXTINF:-1   group-title="MAGIS TV"  tvg-logo="https://static.flow.com.ar/images/242/CH_LOGO/60/40/0/0/45444272073059.png"  ,🐾 AE Mundo
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.27.128:8000/play/a03s/index.m3u8
 
 
 
@@ -4513,6 +4507,7 @@ http://181.78.27.128:8000/play/a01f/index.m3u8
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a04x/index.m3u8
+
 
 
 
