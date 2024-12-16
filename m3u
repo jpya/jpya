@@ -1363,6 +1363,12 @@ https://online.coopmorteros.coop/canal50_dash/vivo.mpd
 #EXTVLCOPT:network-caching=1500
 http://cdn.sensa.com.ar/output/SMT5/PORH/playlist.m3u8
 
+#EXTINF:-1   tvg-logo="https://canal3tacural.com.ar/wp-content/uploads/2023/05/cropped-logo_canal3tacural.jpg" group-title="...SENSA",*️⃣ TACURAL
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1500
+http://cdn.sensa.com.ar/output/ARR2/TacuralH/playlist.m3u8
+
+
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1241/CH_LOGO/160/160/0/0/42902231076974.png" group-title="...SENSA",*️⃣ BRINKMAN
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1500
