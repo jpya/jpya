@@ -3217,7 +3217,7 @@ http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/294582.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/ovacion/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",⚽ ESPN
-https://bantel-cdn1.iptvperu.tv:1936/cdnalh/ESPN.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnalh/ESPN.stream/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122242.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",⚽ ESPN 2
 http://bantel-cdn1.iptvperu.tv:1935/cdnalh/ESPN2.stream/playlist.m3u8
