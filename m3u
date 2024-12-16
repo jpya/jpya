@@ -2307,6 +2307,10 @@ https://chromecast.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc/Canal_U.mpd
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/962/CH_LOGO/60/40/0/0/116715800761.png" group-title="... FLOW"  ,🛞  Antena 3 Internacional
 https://chromecast.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc/Antena_3.mpd
 
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/962/CH_LOGO/60/40/0/0/116715800761.png" group-title="... FLOW"  ,🛞  Antena 3 mpd españa
+https://tvup01.edge.milloh-cs.com/antena3hd/antena3hd.mpd
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=436d78a75fad9bdcc6d409640c116a62:c77471ac3b694513a9c5ff68b8d4fac5
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/941/CH_LOGO/60/40/0/0/6072830107322.png" group-title="... FLOW"  ,🛞 Ariran
