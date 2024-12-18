@@ -3172,12 +3172,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnskf/tnt/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322634.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",💞  TNT NOVELAS
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/tntnovelas/playlist.m3u8
 
-
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716932483.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",🧩 CARTOON NETWORK
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/cartoonnetwork/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716932508.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",⚽ TNT SPORTS
-http://bantel-cdn1.iptvperu.tv:1935/cdnskf/tntsports1/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725312597.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",💞  TNT SERIES
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/TntSeries.stream/playlist.m3u8
@@ -3209,33 +3205,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/lovenature_principal/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173952.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",⚽ BASQUET TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnalh/basket.stream/playlist.m3u8
 
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173952.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",⚽ DSports
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/294582.m3u8
-
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173969.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ OVACIÓN
 https://live-evg25.tv360.bitel.com.pe/bitel/ovacion/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",⚽ ESPN
-http://bantel-cdn1.iptvperu.tv:1935/cdnalh/ESPN.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122242.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",⚽ ESPN 2
-http://bantel-cdn1.iptvperu.tv:1935/cdnalh/ESPN2.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122257.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",⚽ ESPN 3
-http://bantel-cdn1.iptvperu.tv:1935/cdnalh/espn3/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122309.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",⚽ ESPN 5
-http://bantel-cdn1.iptvperu.tv:1935/cdnalh/espn5/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122275.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",⚽ ESPN 4
-http://bantel-cdn1.iptvperu.tv:1935/cdnalh/Espn4.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122338.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",⚽ ESPN 7
-http://bantel-cdn1.iptvperu.tv:1935/cdnalh/espn7.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122324.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",⚽ ESPN 6
-http://bantel-cdn1.iptvperu.tv:1935/cdnalh/espn6/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1718127893.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ PANAVISION
 http://bantel-cdn1.iptvperu.tv:1935/cdnjmk/panavision.stream/playlist.m3u8
