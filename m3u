@@ -3803,9 +3803,17 @@ https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d 
 https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 
+#EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png", ESPN BRASIL
+https://tv.fazoeli.co.za/m3u8/espn.m3u8
 
+#EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png", ESPN  2 BRASIL
+https://tv.fazoeli.co.za/m3u8/espn2.m3u8
 
+#EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png", ESPN 3 BRASIL
+https://tv.fazoeli.co.za/m3u8/espn3.m3u8
 
+#EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png", ESPN 4 BRASIL
+https://tv.fazoeli.co.za/m3u8/espn4.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="DEPORTES DASH MPD", DAZN FORMULA 1  mpd
