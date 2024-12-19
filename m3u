@@ -3815,6 +3815,9 @@ https://tv.fazoeli.co.za/m3u8/espn3.m3u8
 #EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png", ESPN 4 BRASIL
 https://tv.fazoeli.co.za/m3u8/espn4.m3u8
 
+#EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/2560px-BandSports_logo.svg.png", BANDSPORTS BRASIL
+https://tv.fazoeli.co.za/m3u8/bandsports.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="DEPORTES DASH MPD", DAZN FORMULA 1  mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
