@@ -5106,11 +5106,6 @@ https://webhdrus.onlinehdhls.ru/lb/premium150/index.m3u8|Origin=https://qqwebpla
 
 
 
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="..DADDY LIVE SPORTS",1 ESPN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://xyzdddd.mizhls.ru/lb/premium386/index.m3u8|Origin=https://qqwebplay.xy
-
 
 #EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/1280px-Sky_Sports_F1_logo_2020.svg.png" group-title="..DADDY LIVE SPORTS",1 SKY FORMULA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
