@@ -7987,6 +7987,23 @@ https://streamer1.nexgen.bz/DISCOVERY_SCIENCE/tracks-v1a2/mono.m3u8
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾  DISCOVERY TURBO
 https://streamer1.nexgen.bz/DISCOVERY_TURBO/tracks-v1a2/mono.m3u8
 
+#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", FX
+https://streamer1.nexgen.bz/FX/index.m3u8
+
+#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", LIFETIME
+https://streamer1.nexgen.bz/LIFETIME/index.m3u8
+
+#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", AXN
+https://streamer1.nexgen.bz/AXN/index.m3u8
+
+#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", CINECANAL
+https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", CINEMAX
+https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
+
+
+
 
 
 
