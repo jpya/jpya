@@ -8009,27 +8009,27 @@ https://streamer1.nexgen.bz/DISCOVERY_SCIENCE/tracks-v1a2/mono.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/DISCOVERY_TURBO/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", FX
+#EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🎥 FX
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/FX/index.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", LIFETIME
+#EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾 LIFETIME
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/LIFETIME/index.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", AXN 
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/263/CH_LOGO/60/40/0/0/92889820071862.png" group-title="TECNOTV",🎥 AXN 
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", TCM 
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/722/CH_LOGO/60/40/0/0/7001532007328.png" group-title="TECNOTV",🎥 TCM 
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/TCM/index.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", TNT 
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/6877/CH_LOGO/60/40/0/0/67214550074230.png" group-title="TECNOTV",🎥 TNT 
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/TCM/index.m3u8
@@ -8046,12 +8046,12 @@ https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", TRUTV 
+#EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾 TRUTV 
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/TRUTV/index.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", HGTV 
+#EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾 HGTV 
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/HGTV/index.m3u8
@@ -8061,10 +8061,6 @@ https://streamer1.nexgen.bz/HGTV/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/STAR/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", MTV 
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT--http-reconnect=true
-https://streamer1.nexgen.bz/MTV/index.m3u8
 
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/883/CH_LOGO/60/40/0/0/17024645072165.png" group-title="TECNOTV",🎥 HBO PLUS
 #EXTVLCOPT:network-caching=2500
