@@ -7976,25 +7976,25 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/DISCOVERY/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾  HISTORY
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/301/CH_LOGO/60/40/0/0/68362124075201.png" group-title="TECNOTV",🐾  HISTORY
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾  NAT GEO
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/300/CH_LOGO/60/40/0/0/88913423072710.png" group-title="TECNOTV",🐾  NAT GEO
 https://streamer1.nexgen.bz/NAT_GEO/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾  HISTORY2
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/698/CH_LOGO/60/40/0/0/89419560072823.png" group-title="TECNOTV",🐾  HISTORY2
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/HISTORY2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾  DISCOVERY WORLD
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/69/CH_LOGO/60/60/0/0/24981309071389.png" group-title="TECNOTV",🐾  DISCOVERY WORLD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/DISCOVERY_WORLD/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾  DISCOVERY THEATER
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/68/CH_LOGO/160/160/0/0/72670030071181.png" group-title="TECNOTV",🐾  DISCOVERY THEATER
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/DISCOVERY_THEATER/tracks-v1a2/mono.m3u8
@@ -8009,7 +8009,7 @@ https://streamer1.nexgen.bz/DISCOVERY_SCIENCE/tracks-v1a2/mono.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/DISCOVERY_TURBO/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🎥 FX
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/160/160/0/0/35224800072040.png" group-title="TECNOTV",🎥 FX
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/FX/index.m3u8
