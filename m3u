@@ -8036,12 +8036,12 @@ https://streamer1.nexgen.bz/TCM/index.m3u8
 
 
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", CINECANAL
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/267/CH_LOGO/60/40/0/0/75126015073445.png" group-title="TECNOTV",🎥 CINECANAL
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", CINEMAX
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/60/40/0/0/57692590073142.png" group-title="TECNOTV",🎥 CINEMAX
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
@@ -8056,7 +8056,7 @@ https://streamer1.nexgen.bz/TRUTV/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/HGTV/index.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", STAR
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/123/CH_LOGO/60/40/0/0/7718553707879.png" group-title="TECNOTV",🎥 STAR
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/STAR/tracks-v1a1/mono.m3u8
@@ -8066,32 +8066,32 @@ https://streamer1.nexgen.bz/STAR/tracks-v1a1/mono.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/MTV/index.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", HBO PLUS
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/883/CH_LOGO/60/40/0/0/17024645072165.png" group-title="TECNOTV",🎥 HBO PLUS
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", HBO FAMILY
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/882/CH_LOGO/60/40/0/0/9358483307335.png" group-title="TECNOTV",🎥 HBO FAMILY
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", HBO POP 
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/1441/CH_LOGO/60/40/0/0/71702634073927.png" group-title="TECNOTV",🎥 HBO POP 
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/HBO_POP/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", HBO MUNDI 
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/704/CH_LOGO/60/40/0/0/931513860712.png" group-title="TECNOTV",🎥 HBO MUNDI 
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/HBO_MUNDI/index.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", HBO XTREME
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/705/CH_LOGO/60/40/0/0/7754024707334.png" group-title="TECNOTV",🎥 HBO XTREME
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", STUDIO UNIVERSAL
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/718/CH_LOGO/60/40/0/0/358638080777.png" group-title="TECNOTV",🎥 STUDIO UNIVERSAL
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/tracks-v1a2/mono.m3u8
