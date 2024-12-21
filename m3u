@@ -7996,6 +7996,10 @@ https://streamer1.nexgen.bz/LIFETIME/index.m3u8
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV", AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
+#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", TCM
+https://streamer1.nexgen.bz/TCM/index.m3u8
+
+
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV", CINECANAL
 https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
 
