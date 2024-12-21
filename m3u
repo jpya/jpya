@@ -7975,7 +7975,14 @@ https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾  HISTORY2
 https://streamer1.nexgen.bz/HISTORY2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾  DISCOVERY WORLD
+https://streamer1.nexgen.bz/DISCOVERY_WORLD/tracks-v1a2/mono.m3u8
 
+#EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾  DISCOVERY THEATER
+https://streamer1.nexgen.bz/DISCOVERY_THEATER/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾  DISCOVERY SCIENCE
+https://streamer1.nexgen.bz/DISCOVERY_SCIENCE/tracks-v1a2/mono.m3u8
 
 
 
