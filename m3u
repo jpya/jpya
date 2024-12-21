@@ -7966,68 +7966,115 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b96
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
 
+
+
+
+
+
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/60/60/0/0/24951383073066.png" group-title="TECNOTV",🐾  DISCOVERY 
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/DISCOVERY/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾  HISTORY
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾  HISTORY2
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/HISTORY2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾  DISCOVERY WORLD
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/DISCOVERY_WORLD/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾  DISCOVERY THEATER
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/DISCOVERY_THEATER/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾  DISCOVERY SCIENCE
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/DISCOVERY_SCIENCE/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾  DISCOVERY TURBO
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/DISCOVERY_TURBO/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV", FX
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/FX/index.m3u8
 
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV", LIFETIME
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/LIFETIME/index.m3u8
 
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV", AXN
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV", TCM
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/TCM/index.m3u8
 
 
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV", CINECANAL
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV", CINEMAX
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV", TRUTV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/TRUTV/index.m3u8
 
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV", HGTV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/HGTV/index.m3u8
 
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV", STAR
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/STAR/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV", MTV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/MTV/index.m3u8
 
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV", HBO PLUS
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV", HBO FAMILY
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV", HBO POP
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/HBO_POP/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV", HBO MUNDI
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz//index.m3u8
 
 
