@@ -7981,6 +7981,9 @@ https://streamer1.nexgen.bz/DISCOVERY/tracks-v1a2/mono.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
 
+#EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾  NAT GEO
+https://streamer1.nexgen.bz/NAT_GEO/tracks-v1a2/mono.m3u8
+
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾  HISTORY2
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
@@ -8075,7 +8078,12 @@ https://streamer1.nexgen.bz/HBO_POP/tracks-v1a2/mono.m3u8
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV", HBO MUNDI
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
-https://streamer1.nexgen.bz//index.m3u8
+https://streamer1.nexgen.bz/HBO_MUNDI/index.m3u8
+
+#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", HBO XTREME
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT--http-reconnect=true
+https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a2/mono.m3u8
 
 
 
