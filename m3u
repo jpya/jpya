@@ -7971,7 +7971,10 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1
 
 
 
-#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/60/60/0/0/24951383073066.png" group-title="TECNOTV",🐾  DISCOVERY 
+
+
+
+#EXTINF:-1  group-logo="https://cdn.bio.link/uploads/thumbnails/2023-08-26/8ITaYC0TkXwTKPsjBnzao4bqEEqfLBS7.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/60/60/0/0/24951383073066.png" group-title="TECNOTV",🐾  DISCOVERY 
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/DISCOVERY/tracks-v1a2/mono.m3u8
