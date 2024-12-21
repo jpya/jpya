@@ -7999,12 +7999,12 @@ https://streamer1.nexgen.bz/DISCOVERY_WORLD/tracks-v1a2/mono.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/DISCOVERY_THEATER/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾  DISCOVERY SCIENCE
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/160/160/0/0/9654717907493.png" group-title="TECNOTV",🐾  DISCOVERY SCIENCE
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/DISCOVERY_SCIENCE/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾  DISCOVERY TURBO
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/641/CH_LOGO/60/40/0/0/52117167073223.png" group-title="TECNOTV",🐾  DISCOVERY TURBO
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/DISCOVERY_TURBO/tracks-v1a2/mono.m3u8
@@ -8014,7 +8014,7 @@ https://streamer1.nexgen.bz/DISCOVERY_TURBO/tracks-v1a2/mono.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/FX/index.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾 LIFETIME
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/313/CH_LOGO/160/160/0/0/30883628072788.png" group-title="TECNOTV",🐾 LIFETIME
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/LIFETIME/index.m3u8
@@ -8046,12 +8046,12 @@ https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾 TRUTV 
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="TECNOTV",🐾 TRUTV 
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/TRUTV/index.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="TECNOTV",🐾 HGTV 
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/8417/CH_LOGO/60/40/0/0/60015425071531.png" group-title="TECNOTV",🐾 HGTV 
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/HGTV/index.m3u8
