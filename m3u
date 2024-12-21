@@ -8014,6 +8014,18 @@ https://streamer1.nexgen.bz/STAR/tracks-v1a1/mono.m3u8
 #EXTINF:-1   tvg-logo="-" group-title="TECNOTV", MTV
 https://streamer1.nexgen.bz/MTV/index.m3u8
 
+#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", HBO PLUS
+https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", HBO FAMILY
+https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", HBO POP
+https://streamer1.nexgen.bz/HBO_POP/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1   tvg-logo="-" group-title="TECNOTV", HBO MUNDI
+https://streamer1.nexgen.bz//index.m3u8
+
 
 
 
