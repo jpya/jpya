@@ -8103,7 +8103,7 @@ https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/tracks-v1a2/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="SIEMPRETV MEXICO" ,Service01
+#EXTINF:-1  group-logo="https://static.wikia.nocookie.net/telewizja-internetowa-i-fikcyjna/images/b/bf/ITVM.png/revision/latest/thumbnail/width/360/height/360?cb=20220724181729&path-prefix=pl"  group-title="SIEMPRETV MEXICO" ,Service01
 http://187.249.112.44:9981/stream/channelid/1658478496?profile=pass
 #EXTINF:-1 group-title="SIEMPRETV MEXICO",localCAST
 http://187.249.112.44:9981/stream/channelid/18754418?profile=pass
