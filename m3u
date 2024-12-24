@@ -2545,17 +2545,17 @@ https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="...TV FUEGO",#️⃣  TELEFE 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="...TV FUEGO DASH",#️⃣  TELEFE 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_DASH/Telefe.mpd
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_DASH/Telefe.mpd
 
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="...TV FUEGO",#️⃣  AMERICA 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="...TV FUEGO DASH",#️⃣  AMERICA 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_DASH/America.mpd
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_DASH/America.mpd
 
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="...TV FUEGO",#️⃣  EL TRECE 
@@ -2566,10 +2566,10 @@ https://delivery.cdn.rcs.net.ar/mnp/el13/output.mpd
 
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="...TV FUEGO",#️⃣  TV PUBLICA 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica.m3u8
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica.m3u8
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="...TV FUEGO DASH",#️⃣  TV PUBLICA 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_DASH/Tv_Publica.mpd
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_DASH/Tv_Publica.mpd
 
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/367/CH_LOGO/160/160/0/0/917545880726.png" group-title="...TV FUEGO",#️⃣ CIUDAD MAGAZINE 
@@ -2624,10 +2624,10 @@ https://delivery.cdn.rcs.net.ar/mnp/cronica/output.mpd
 
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" group-title="...TV FUEGO",📰 LA NACION 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" group-title="...TV FUEGO DASH",📰 LA NACION  
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_DASH/LN.mpd
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_DASH/LN.mpd
 
 
 
@@ -2636,24 +2636,24 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_DASH/LN.mpd
 
 
 #EXTINF:-1   tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="...TV FUEGO",⚽ ESPN 1 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 
 #EXTINF:-1   tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="...TV FUEGO DASH",⚽ ESPN 1 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_DASH/ESPN.mpd
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_DASH/ESPN.mpd
 
 
 #EXTINF:-1   tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="...TV FUEGO",⚽ ESPN 2 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
 
 #EXTINF:-1   tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="...TV FUEGO DASH",⚽ ESPN 2 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_DASH/ESPN2.mpd
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_DASH/ESPN2.mpd
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="...TV FUEGO",⚽ ESPN 3 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="...TV FUEGO DASH",⚽ ESPN 3 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_DASH/ESPN3.mpd
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_DASH/ESPN3.mpd
 
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png" group-title="...TV FUEGO",⚽ ESPN 4 
@@ -2682,24 +2682,24 @@ https://delivery.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 
 
 #EXTINF:-1    tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="...TV FUEGO",⚽ESPN PREMIUM 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
 
 #EXTINF:-1    tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="...TV FUEGO DASH",⚽ESPN PREMIUM 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_DASH/ESPN_Premium.mpd
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_DASH/ESPN_Premium.mpd
 
 
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="...TV FUEGO",⚽TNT SPORTS 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="...TV FUEGO DASH",⚽TNT SPORTS 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_DASH/TNT_Sports.mpd
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_DASH/TNT_Sports.mpd
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="...TV FUEGO",⚽ TYC SPORTS 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TyC/SA_HLS/TyC.m3u8
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TyC/SA_HLS/TyC.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="...TV FUEGO DASH",⚽ TYC SPORTS 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TyC/SA_DASH/TyC.mpd
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TyC/SA_DASH/TyC.mpd
 
 
 
@@ -2747,10 +2747,10 @@ https://delivery.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/44/CH_LOGO/160/160/0/0/15119500074230.png" group-title="...TV FUEGO",🎥 TNT 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/44/CH_LOGO/160/160/0/0/15119500074230.png" group-title="...TV FUEGO DASH",🎥 TNT 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_DASH/TNT.mpd
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_DASH/TNT.mpd
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/160/160/0/0/14633187073787.png" group-title="...TV FUEGO",🎥 WARNER 
 https://delivery.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8 
@@ -2784,10 +2784,10 @@ https://delivery.cdn.rcs.net.ar/mnp/sony/output.mpd
 
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/43/CH_LOGO/160/160/0/0/93120001074605.png" group-title="...TV FUEGO",🐾  ANIMAL PLANET 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/43/CH_LOGO/160/160/0/0/93120001074605.png" group-title="...TV FUEGO DASH",🐾  ANIMAL PLANET 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_DASH/Animal_Planet.mpd
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_DASH/Animal_Planet.mpd
 
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/60/60/0/0/24951383073066.png" group-title="...TV FUEGO",🐾  DISCOVERY 
@@ -2803,10 +2803,10 @@ https://delivery.cdn.rcs.net.ar/mnp/disc_hh_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/66/CH_LOGO/160/160/0/0/6146615007111.png" group-title="...TV FUEGO",🐾  DISCOVERY ID 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8 
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8 
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/66/CH_LOGO/160/160/0/0/6146615007111.png" group-title="...TV FUEGO DASH",🐾  DISCOVERY ID 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_DASH/Discovery_ID.mpd
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_DASH/Discovery_ID.mpd
 
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/69/CH_LOGO/60/60/0/0/24981309071389.png" group-title="...TV FUEGO",🐾  DISCOVERY WORLD 
@@ -2828,10 +2828,10 @@ https://delivery.cdn.rcs.net.ar/mnp/disc_theater_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/disc_theater/output.mpd
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/268/CH_LOGO/160/160/0/0/28796844071531.png" group-title="...TV FUEGO",🐾 HGTV 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV.m3u8
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV.m3u8
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/268/CH_LOGO/160/160/0/0/28796844071531.png" group-title="...TV FUEGO DASH",🐾 HGTV 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_DASH/Discovery_HGTV.mpd
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_DASH/Discovery_HGTV.mpd
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/160/160/0/0/9654717907493.png" group-title="...TV FUEGO",🐾  DISCOVERY SCIENCE 
 https://delivery.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
@@ -2843,10 +2843,10 @@ https://delivery.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
 
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png" group-title="...TV FUEGO",🧩 CARTOON NETWORK 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png" group-title="...TV FUEGO DASH",🧩 CARTOON NETWORK 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_DASH/Cartoon_Network.mpd
+ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_DASH/Cartoon_Network.mpd
 
 
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/266/CH_LOGO/60/40/0/0/3115537507174.png" group-title="...TV FUEGO"  ,🧩 Cartoonito 
