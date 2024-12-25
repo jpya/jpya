@@ -2555,7 +2555,7 @@ ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_DASH/Telefe.mpd
 ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="...TV FUEGO DASH",#️⃣  AMERICA 
-ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_DASH/America.mpd
+https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd
 
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="...TV FUEGO",#️⃣  EL TRECE 
@@ -2961,8 +2961,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171281.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ LATINA
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 
+
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171317.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ AMÉRICA TV
-https://bantel-cdn1.iptvperu.tv:1936/cdnjut/americatv.stream/playlist.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171350.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ PANAMERICANA
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
