@@ -2828,10 +2828,10 @@ https://delivery.cdn.rcs.net.ar/mnp/disc_theater_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/disc_theater/output.mpd
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/268/CH_LOGO/160/160/0/0/28796844071531.png" group-title="...TV FUEGO",🐾 HGTV 
-ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/dsc_hgtv_hls/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/268/CH_LOGO/160/160/0/0/28796844071531.png" group-title="...TV FUEGO DASH",🐾 HGTV 
-ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_DASH/Discovery_HGTV.mpd
+https://delivery.cdn.rcs.net.ar/mnp/dsc_hgtv/output.mpd
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/160/160/0/0/9654717907493.png" group-title="...TV FUEGO",🐾  DISCOVERY SCIENCE 
 https://delivery.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
