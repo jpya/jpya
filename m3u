@@ -2572,6 +2572,14 @@ ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Public
 ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_DASH/Tv_Publica.mpd
 
 
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="...TV FUEGO DASH",#️⃣  EL 10 DE CORDOBA
+https://delivery.cdn.rcs.net.ar/iptelva/ch10cba/output.mpd
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="...TV FUEGO DASH",#️⃣  EL 12 DE CORDOBA
+https://delivery.cdn.rcs.net.ar/iptelva/ch12cba/output.mpd
+
+
+
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/367/CH_LOGO/160/160/0/0/917545880726.png" group-title="...TV FUEGO",#️⃣ CIUDAD MAGAZINE 
 https://delivery.cdn.rcs.net.ar/mnp/cm_hls/playlist.m3u8
 
