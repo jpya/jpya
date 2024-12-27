@@ -8121,42 +8121,4 @@ https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/tracks-v1a2/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="AXN" ch-number="701" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",AXN HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2303
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="Lifetime" ch-number="703" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png",Lifetime FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5052
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="Primetime" ch-number="704" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/453_144.png",PRIMEtime FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5049
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default.mpd
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="HITS" ch-number="706" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png",HITS FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/606
-http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default.mpd
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="FoodNetwork" ch-number="708" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png",Food Network FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2300
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default.mpd
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="AFN" ch-number="709" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",Asian Food Network FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/500
-http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default.mpd
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="WarnerTV" ch-number="712" tvg-logo="https://static.wikia.nocookie.net/arrow/images/8/8a/Warner_Channel_logo.png/revision/latest?cb=20120924094100",Warner TV FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2605
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="ParamountNetwork" ch-number="713" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png",Paramount Network HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5056
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default.mpd
