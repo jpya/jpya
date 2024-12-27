@@ -2861,7 +2861,7 @@ https://delivery.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
 ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png" group-title="...TV FUEGO DASH",🧩 CARTOON NETWORK 
-ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_DASH/Cartoon_Network.mpd
+https://delivery.cdn.rcs.net.ar/mnp/cartoon/output.mpd
 
 
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/266/CH_LOGO/60/40/0/0/3115537507174.png" group-title="...TV FUEGO"  ,🧩 Cartoonito 
