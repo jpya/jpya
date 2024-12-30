@@ -8118,5 +8118,5 @@ https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/tracks-v1a2/mono.m3u8
 
 *http://190.11.130.46/mnp/hbo2/output.mpd
 
-
-
+#EXTINF:-1 group-title="EL JUEGO DEL CALAMAR" tvg-logo="-"group-title="TEMPORADA 2", CAPITULO 1 TEMPORADA 2
+https://delivery-node-muhj4oek7al2g778.voe-network.net/engine/hls2-c/01/13177/vxonagrwwd1c_,n,.urlset/master.m3u8?t=vAJyDMXeDP0wX_qdiVVddjGp5yJ_w7jRrre-_pilKB4&s=1735517644&e=14400&f=65888115&node=LYGC272m1mIgu6Ja/tsBkFYY1DhTKaA8aVQRd4nZxw0=&i=45.7&sp=2500&asn=265729&q=n
