@@ -1725,10 +1725,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc/PX_Sports
 #EXTINF:-1   tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgusCblUkZgbEe0QzEyqhic7yB5B0CpYkR80juX5pmjTMf_7TgBN0DU7el6uSHfeNmkjgu3uwIiibqo1Jc_qXaQeRFVKSyG-Fvn6XB1C9JxkdZ6poMOjHgi4jeRugapH5Kb9zXQNIPkSQAu_reJzAgX8q6OmxbMKARNm4uxGSC_wE92fyLW_dJyWEla/s512/tycsports2.png" group-title="... FLOW"  ,⚽ Eventos TyC Sports 2
 https://chromecast.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=48d0e34c8797c5c2a742d2630a8fb975:fb5d12b9d8febe836e5670abd003ddca
-#EXTINF:-1   tvg-logo="https://cdn.prod.website-files.com/63f93c51f154b93093b10f40/646b5ca1fc3ceffd6c8479fd_Flow%20brand%20assets%20Final-05.png" group-title="... FLOW"  ,⚽ Eventos UY
-https://chromecast.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc_EXTRA/Eventos_HD_Uy.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e54e9ea87a634658fbba0e380aa701a7:4e486d25d7d0e7d131743b285963c643
@@ -2003,10 +2000,6 @@ https://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/322/CH_LOGO/60/40/0/0/77955190072999.png" group-title="... FLOW"  ,💞 TNT Series
 https://chromecast.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1f756cffcc838e28a3da6541c00ee8b:1444b1c17a5c1f78435de12dcff47c8e
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/7117/CH_LOGO/60/40/0/0/48165703074301.png" group-title="... FLOW"   ,💞 Telemundo
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WNJU)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b37d85be9d2b4b619f945beff713fda3:917309c98f072b0bd484dd6560c6d166
@@ -2167,10 +2160,6 @@ https://chromecast.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Cha
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/1027/CH_LOGO/60/40/0/0/49211360074909.png" group-title="... FLOW"  ,🐾 Discovery TLC
 https://chromecast.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc/TLC.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2e44a719947ebfe37de527a9d6df71e:029bddeb08909dd66a80276fc338d692
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/733/CH_LOGO/60/40/0/0/2654526707723.png" group-title="... FLOW"  ,🐾 WOBI
-https://chromecast.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc/WOBI.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db12035627a4b3d7198b761f36b4a290:80ca761a875992ac0e50b0851d5563fe
