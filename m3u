@@ -2675,25 +2675,25 @@ ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_DASH/ESPN3.mpd
 https://delivery.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png" group-title="...TV FUEGO DASH",⚽ ESPN 4 
-https://delivery.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
+ttps://delivery.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="...TV FUEGO",⚽ FOX SPORTS 1 
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="...TV FUEGO DASH",⚽ FOX SPORTS 1 
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+ttps://delivery.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png" group-title="...TV FUEGO",⚽ FOX SPORTS 2 
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png" group-title="...TV FUEGO DASH",⚽ FOX SPORTS 2 
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+ttps://delivery.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/95/CH_LOGO/160/160/0/0/14056054072366.png" group-title="...TV FUEGO",⚽ FOX SPORTS 3 
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/95/CH_LOGO/160/160/0/0/14056054072366.png" group-title="...TV FUEGO DASH",⚽ FOX SPORTS 3 
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+ttps://delivery.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 
 
 #EXTINF:-1    tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="...TV FUEGO",⚽ESPN PREMIUM 
@@ -2714,7 +2714,7 @@ ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_DASH/TNT_Spor
 ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TyC/SA_HLS/TyC.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="...TV FUEGO DASH",⚽ TYC SPORTS 
-http://190.11.130.46/mnp/6ym1cI5NULP0gJHuXiaWh5ZRqJO0ZR4T/output.mpd
+ttp://190.11.130.46/mnp/6ym1cI5NULP0gJHuXiaWh5ZRqJO0ZR4T/output.mpd
 
 
 
@@ -2732,7 +2732,7 @@ https://delivery.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png" group-title="...TV FUEGO DASH",🎥 SPACE 
-https://delivery.cdn.rcs.net.ar/mnp/space/output.mpd
+ttps://delivery.cdn.rcs.net.ar/mnp/space/output.mpd
 
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/285/CH_LOGO/160/160/0/0/1820288007328.png" group-title="...TV FUEGO",🎥 TCM 
@@ -2759,7 +2759,7 @@ https://delivery.cdn.rcs.net.ar/mnp/fx/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/47/CH_LOGO/160/160/0/0/60951863073142.png" group-title="...TV FUEGO DASH",🎥 CINEMAX 
-https://delivery.cdn.rcs.net.ar/mnp/cinemax/output.mpd
+ttps://delivery.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/44/CH_LOGO/160/160/0/0/15119500074230.png" group-title="...TV FUEGO",🎥 TNT 
 ttps://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
@@ -2783,7 +2783,7 @@ https://delivery.cdn.rcs.net.ar/mnp/universal/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/160/160/0/0/77211152071862.png" group-title="...TV FUEGO DASH",🎥  AXN 
-https://delivery.cdn.rcs.net.ar/mnp/axn/output.mpd
+ttps://delivery.cdn.rcs.net.ar/mnp/axn/output.mpd
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/160/160/0/0/86995730071579.png" group-title="...TV FUEGO",🎥 SONY 
 https://delivery.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
