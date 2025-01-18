@@ -2959,10 +2959,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171281.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ LATINA
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171317.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ AMÉRICA TV
-https://live-evg25.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171350.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ PANAMERICANA
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 
@@ -2972,26 +2968,11 @@ https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171414.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ ATV
 https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171403.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ ATV PLUS
-https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171466.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ EXITOSA
 https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171486.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ LA TELE
-http://bantel-cdn1.iptvperu.tv:1935/cdnjut/latele.stream/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171365.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ GLOBAL TV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171508.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ USMP TV
-http://bantel-cdn1.iptvperu.tv:1935/cdnjut/usmp.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171423.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ ATV SUR
-http://bantel-cdn1.iptvperu.tv:1935/cdnjut/atvsur.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171726.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ ONDA DIGITAL
-http://bantel-cdn1.iptvperu.tv:1935/cdntxi/ondadigital/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171538.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ NATIVA
 https://live-evg25.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8
@@ -2999,80 +2980,18 @@ https://live-evg25.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171606.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ BETHEL
 https://live-evg25.tv360.bitel.com.pe/bitel/bethel/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171553.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ JUSTICIA TV
-http://bantel-cdn1.iptvperu.tv:1935/cdnjut/justicia.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171570.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ VIVA TV
-http://bantel-cdn1.iptvperu.tv:1935/cdnjut/vivatv.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171629.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ BETHEL +
-http://bantel-cdn1.iptvperu.tv:1935/cdnpos/bethel/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171697.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ ODTV
-http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/ODTV.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171711.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ ODTV2
-http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/ODTV2.stream/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171584.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ CONECTA 2 TV
 https://live-evg25.tv360.bitel.com.pe/bitel/conectado2/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171644.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ TL LIMA
 http://live-evg25.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173076.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ PBO
-http://live-evg25.tv360.bitel.com.pe:80/bitel/pbo/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714059582.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ LIKE TV
-http://bantel-cdn1.iptvperu.tv:1935/cdnjut/fuegotv.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173076.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ TELELIMA
+http://live-evg25.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171685.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ TRIVU
 http://bantel-cdn1.iptvperu.tv:1935/miscelaneos/trivu.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173067.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ CANAL B
-http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/CanalB.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171787.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ NACIONAL TV PERU
-http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/NacionalTV_Peru.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725898108.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ NEO TV
-http://bantel-cdn1.iptvperu.tv:1935/cdnjut/DigitalTV/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173116.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",📰 TV PERU NOTICIAS
-http://bantel-cdn1.iptvperu.tv:1935/cdnery/tvperunoticias.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703175106.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ ANTENA UNO
-http://bantel-cdn1.iptvperu.tv:1935/cdnmwt/antenauno/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714065440.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ CBN TV
-http://bantel-cdn1.iptvperu.tv:1935/cdnpgh/CBN.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1720631561.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ VIO TV
-http://bantel-cdn1.iptvperu.tv:1935/cdnjut/tiempotv.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1706037328.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ CANAL EL CONGRESO
-http://bantel-cdn1.iptvperu.tv:1935/cdndin/canaldelcongreso/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708616907.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ BHTV
-http://bantel-cdn1.iptvperu.tv:1935/cdnjut/BHTV.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1709069470.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ SANTA ROSA TV
-http://bantel-cdn1.iptvperu.tv:1935/cdndin/SantaRosaTV.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714059922.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ VOZ PERU TV
-http://bantel-cdn1.iptvperu.tv:1935/cdnjut/vozperutv.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716849958.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ MILENIAL TV
-http://bantel-cdn1.iptvperu.tv:1935/cdnjut/milenialtv.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1720192399.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ RPP
-http://bantel-cdn1.iptvperu.tv:1935/cdnjut/RPP/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1718748825.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ GAMARRA CHANNEL
-http://bantel-cdn1.iptvperu.tv:1935/cdnthk/GamarraChannel/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1718748843.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",#️⃣ ASIRI TV
-http://bantel-cdn1.iptvperu.tv:1935/cdnthk/AsiriTV/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176000.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",🎥 CINE PREMIUM
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/cinepremium/playlist.m3u8
