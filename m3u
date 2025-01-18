@@ -2729,7 +2729,7 @@ https://delivery.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png" group-title="...TV FUEGO",🎥 SPACE 
-https://delivery.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+ttps://delivery.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png" group-title="...TV FUEGO DASH",🎥 SPACE 
 ttps://delivery.cdn.rcs.net.ar/mnp/space/output.mpd
@@ -2743,7 +2743,7 @@ https://delivery.cdn.rcs.net.ar/mnp/tcm/output.mpd
 
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/160/160/0/0/29332619071250.png" group-title="...TV FUEGO",🎥 AMC 
-https://delivery.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
+ttps://delivery.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/160/160/0/0/29332619071250.png" group-title="...TV FUEGO DASH",🎥 AMC 
 https://delivery.cdn.rcs.net.ar/mnp/amc/output.mpd
@@ -2780,7 +2780,7 @@ https://delivery.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/universal/output.mpd
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/160/160/0/0/77211152071862.png" group-title="...TV FUEGO",🎥  AXN 
-https://delivery.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
+ttps://delivery.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/160/160/0/0/77211152071862.png" group-title="...TV FUEGO DASH",🎥  AXN 
 ttps://delivery.cdn.rcs.net.ar/mnp/axn/output.mpd
