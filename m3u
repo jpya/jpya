@@ -8189,4 +8189,5 @@ https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_
 #EXTINF:-1 group-title="tests flow"    ,ESPN PREMIUM OP2
 https://cdn.cvattv.com.ar/live/c4eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
-
+#EXTINF:-1 group-title="atletic"    ,atletic
+https://jf1.naqsheala.com:999/hls/extremohuawei.m3u8?md5=EXv8wknaIG3urPo91IH85g&expires=1737221229
