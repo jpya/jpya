@@ -2520,10 +2520,10 @@ https://chromecast.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8
 
 
 
-#EXTINF:-1  group-logo="https://www.tvfuego.com.ar/img/logo_navbar.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="...TV FUEGO",#️⃣  EL NUEVE 
+#EXTINF:-1  group-logo="https://www.tvfuego.com.ar/_next/image?url=%2Fimages%2Flogos%2Flogo_tvf_nosotros.png&w=3840&q=100" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="...TV FUEGO",#️⃣  EL NUEVE 
 https://delivery.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
 
-#EXTINF:-1  group-logo="https://www.tvfuego.com.ar/img/logo_navbar.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="...TV FUEGO DASH",#️⃣  EL NUEVE 
+#EXTINF:-1  group-logo="https://www.tvfuego.com.ar/_next/image?url=%2Fimages%2Flogos%2Flogo_tvf_nosotros.png&w=3840&q=100"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="...TV FUEGO DASH",#️⃣  EL NUEVE 
 https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 
 
