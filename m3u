@@ -7635,4 +7635,26 @@ https://dhana.live/playlist/stream_4.m3u8
 https://dhana.live/playlist/stream_5.m3u8
 
 
+#EXTINF:-1  tvg-logo="-" group-title="TEST DEPORTES EXTRANJEROS", ch6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+https://dhana.live/playlist/stream_6.m3u8
+
+
+#EXTINF:-1  tvg-logo="-" group-title="TEST DEPORTES EXTRANJEROS", ch7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+https://dhana.live/playlist/stream_7.m3u8
+
+#EXTINF:-1  tvg-logo="-" group-title="TEST DEPORTES EXTRANJEROS", ch8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+https://dhana.live/playlist/stream_8.m3u8
+
+
+#EXTINF:-1  tvg-logo="-" group-title="TEST DEPORTES EXTRANJEROS", ch9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+https://dhana.live/playlist/stream_9.m3u8
+
 
