@@ -3107,7 +3107,7 @@ https://4.trstream01.xyz/canal6/stream.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES DASH MPD" ,BEIN SPORTS XTRA Ñ OPC 2
+#EXTINF:-1  group-logo="https://golatinotv.com/wp-content/uploads/2018/05/DISH-Latino-Footer-Logo.png"  tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES DASH MPD" ,BEIN SPORTS XTRA Ñ OPC 2
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1    tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="DEPORTES DASH MPD ", Premier 1
