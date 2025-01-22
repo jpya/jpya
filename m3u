@@ -3703,6 +3703,11 @@ http://181.78.27.128:8000/play/a04a/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://tvup01.edge.milloh-cs.com/antena3hd/antena3hd.mpd
 
+#EXTINF:-1 group-logo="https://www.sportsdads.com.au/wp-content/themes/sportsdads/content/SDOTY.png" tvg-logo="-" group-title="MAGIS TV", ANTENA TRES OPC 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium531/index.m3u8|Origin=https://qqwebplay.xy
+
 
 #EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJFnYypcCifV4uGjQ7qVHBnaiVJLnOo18b5o6heeVQSb9yM19osnTKFqOnG7SdWfdpdlg&usqp=CAU"  ,#️⃣ Abc Tv
 #EXTVLCOPT:network-caching=1500
