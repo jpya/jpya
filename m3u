@@ -3697,10 +3697,6 @@ https://vps-2333016-x.dattaweb.com/listen/am_1050_radio_san_francisco/radio.mp3
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a04a/index.m3u8
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png"  ,#️⃣   tv publica
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a060/index.m3u8
 
 #EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJFnYypcCifV4uGjQ7qVHBnaiVJLnOo18b5o6heeVQSb9yM19osnTKFqOnG7SdWfdpdlg&usqp=CAU"  ,#️⃣ Abc Tv
 #EXTVLCOPT:network-caching=1500
@@ -3752,10 +3748,6 @@ http://181.78.27.128:8000/play/a055/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a04o/index.m3u8
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ltlcolor.png/1200px-Ltlcolor.png"  ,#️⃣ La Tele 
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a05q/index.m3u8
 
 #EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Logo_Zona_Latina_2023.png/revision/latest/scale-to-width-down/236?cb=20230823211245&path-prefix=es"  ,#️⃣ Zona Latina
 #EXTVLCOPT:network-caching=1500
@@ -3777,20 +3769,6 @@ http://181.78.27.128:8000/play/a068/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a049/index.m3u8
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://yt3.googleusercontent.com/5TehEGDFRqifOh0JZ2y7v75u0xXzMUSdwlMdMDSmuSkd2UTicahVK4Q5-e1UVSSSwbxrOYCP9yM=s900-c-k-c0x00ffffff-no-rj"  ,#️⃣ Paraguay Tv
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a05m/index.m3u8
-
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Paravision.jpg"  ,#️⃣ Paravision
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a05u/index.m3u8
-
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tecnopolis_m.png"  ,#️⃣ TEC TV
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a04s/index.m3u8
 
 #EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png"  ,#️⃣ SNT
 #EXTVLCOPT:network-caching=1500
@@ -3802,20 +3780,11 @@ http://181.78.27.128:8000/play/a05t/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05x/index.m3u8
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM652mduhcspUNFlvwPmGw4_21N-Q6igH_Z1NmALZIZmKXCdYCbbpn5799jUfEM-F1kcg&usqp=CAU"  ,#️⃣ Telefuturo
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a05o/index.m3u8
 
 #EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9nWSQ2YMAILdGsvVwbUqU-AUVSdseMgSZg&s"  ,#️⃣ Trece
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05w/index.m3u8
-
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkkcouqzomSMEmImsrqnUlQ8dridXFC3o5Vw&s"  ,#️⃣ Unicanal 
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Albavisi%C3%B3n.png"  ,#️⃣ Canal AlbNET
 #EXTVLCOPT:network-caching=1500
