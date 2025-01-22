@@ -3927,10 +3927,6 @@ http://181.78.27.128:8000/play/a01l/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05k/index.m3u8
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://logodix.com/logo/2139323.png"  ,Ewtn
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a066/index.m3u8
 
 #EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://banner2.cleanpng.com/20180718/fuo/5aa84948a658208d0b3e15f0b450785d.webp"  ,FX
 #EXTVLCOPT:network-caching=1500
