@@ -3691,11 +3691,17 @@ https://vps-2333016-x.dattaweb.com/listen/am_1050_radio_san_francisco/radio.mp3
 
 
 
-
 #EXTINF:-1    group-logo="https://magistv-pro.net/wp-content/uploads/2024/05/magis-tv-pro.png"  group-title="MAGIS TV" tvg-logo="https://seeklogo.com/images/A/atv-logo-D6D16EB2D1-seeklogo.com.png" ,#️⃣ ATV
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a04a/index.m3u8
+
+
+
+#EXTINF:-1    group-logo="https://magistv-pro.net/wp-content/uploads/2024/05/magis-tv-pro.png"  group-title="MAGIS TV" tvg-logo="-" ,#️⃣ ANTENA TRES MPD
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+https://tvup01.edge.milloh-cs.com/antena3hd/antena3hd.mpd
 
 
 #EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJFnYypcCifV4uGjQ7qVHBnaiVJLnOo18b5o6heeVQSb9yM19osnTKFqOnG7SdWfdpdlg&usqp=CAU"  ,#️⃣ Abc Tv
