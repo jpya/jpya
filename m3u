@@ -3112,10 +3112,10 @@ https://4.trstream01.xyz/canal6/stream.m3u8
 
 
 
-#EXTINF:-1  group-logo="https://golatinotv.com/wp-content/uploads/2018/05/DISH-Latino-Footer-Logo.png"  tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES DASH MPD" ,BEIN SPORTS XTRA Ñ OPC 2
+#EXTINF:-1  group-logo="https://golatinotv.com/wp-content/uploads/2018/05/DISH-Latino-Footer-Logo.png"  tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DISH DEPORTES" ,BEIN SPORTS XTRA Ñ OPC 2
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1    tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="DEPORTES DASH MPD ", Premier 1
+#EXTINF:-1    tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="DISH DEPORTES ", Premier 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
@@ -3125,7 +3125,7 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
 
-#EXTINF:-1    tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="DEPORTES DASH MPD ", Premier 2
+#EXTINF:-1    tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="DISH DEPORTES ", Premier 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
@@ -3135,7 +3135,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/o
 #KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
 
-#EXTINF:-1     tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="DEPORTES DASH MPD ", Premier 3
+#EXTINF:-1     tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="DISH DEPORTES ", Premier 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
@@ -3145,7 +3145,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/o
 #KODIPROP:inputstream.adaptive.license_key=9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
 https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd
 
-#EXTINF:-1     tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="DEPORTES DASH MPD ", Premier 4
+#EXTINF:-1     tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="DISH DEPORTES ", Premier 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
@@ -3155,7 +3155,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/o
 #KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
 
-#EXTINF:-1     tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="DEPORTES DASH MPD ", Premier 5
+#EXTINF:-1     tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="DISH DEPORTES ", Premier 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
@@ -3165,7 +3165,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/o
 #KODIPROP:inputstream.adaptive.license_key=d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
 https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
 
-#EXTINF:-1   tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="DEPORTES DASH MPD ", Premier 6
+#EXTINF:-1   tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="DISH DEPORTES ", Premier 6
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
@@ -3177,7 +3177,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/o
 
 
 
-#EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://www.compara24.it/images/loghi/infinity.png",INFINITY 1
+#EXTINF:-1  group-title="DISH DEPORTES" tvg-logo="https://www.compara24.it/images/loghi/infinity.png",INFINITY 1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -3187,7 +3187,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/o
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://www.compara24.it/images/loghi/infinity.png",INFINITY 2
+#EXTINF:-1  group-title="DISH DEPORTES" tvg-logo="https://www.compara24.it/images/loghi/infinity.png",INFINITY 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -3197,7 +3197,7 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://www.compara24.it/images/loghi/infinity.png",INFINITY 3
+#EXTINF:-1  group-title="DISH DEPORTES" tvg-logo="https://www.compara24.it/images/loghi/infinity.png",INFINITY 3
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -3207,7 +3207,7 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8342d78d46c8c202a:8d2e953821d36c942161be09930d2bd4
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u3/u3-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://www.compara24.it/images/loghi/infinity.png",INFINITY 4
+#EXTINF:-1  group-title="DISH DEPORTES" tvg-logo="https://www.compara24.it/images/loghi/infinity.png",INFINITY 4
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -3217,7 +3217,7 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-u3/u3-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834357864bc2ae0a8:ae7bec66e4ac23f3d243fa6e4d767a00
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u4/u4-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://www.compara24.it/images/loghi/infinity.png",INFINITY 5
+#EXTINF:-1  group-title="DISH DEPORTES" tvg-logo="https://www.compara24.it/images/loghi/infinity.png",INFINITY 5
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -3227,7 +3227,7 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-u4/u4-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834b278760c5ba026:a9ab51a9e021da177f982de9b42eb0de
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u5/u5-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://www.compara24.it/images/loghi/infinity.png",INFINITY 5
+#EXTINF:-1  group-title="DISH DEPORTES" tvg-logo="https://www.compara24.it/images/loghi/infinity.png",INFINITY 5
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -3240,7 +3240,7 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manife
 
 
 
-#EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://icon2.cleanpng.com/20180601/kql/avo0uye11.webp", PREMIER LIGUE ENG
+#EXTINF:-1  group-title="DISH DEPORTES" tvg-logo="https://icon2.cleanpng.com/20180601/kql/avo0uye11.webp", PREMIER LIGUE ENG
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -3255,7 +3255,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 
 
 
-#EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2v005r1643205531.png", ARENA SPORTS 1
+#EXTINF:-1  group-title="DISH DEPORTES" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2v005r1643205531.png", ARENA SPORTS 1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -3265,7 +3265,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d 
 https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
-#EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/do4eok1643205747.png", ARENA SPORTS 2
+#EXTINF:-1  group-title="DISH DEPORTES" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/do4eok1643205747.png", ARENA SPORTS 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -3275,7 +3275,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d 
 https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
 
-#EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/nnqoda1643205755.png", ARENA SPORTS 3
+#EXTINF:-1  group-title="DISH DEPORTES" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/nnqoda1643205755.png", ARENA SPORTS 3
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -3285,7 +3285,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d 
 https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 
-#EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/6oo0y71643205763.png", ARENA SPORTS 4
+#EXTINF:-1  group-title="DISH DEPORTES" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/6oo0y71643205763.png", ARENA SPORTS 4
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -3295,7 +3295,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d 
 https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
-#EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2kuqly1643205772.png", ARENA SPORTS 5
+#EXTINF:-1  group-title="DISH DEPORTES" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2kuqly1643205772.png", ARENA SPORTS 5
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -3305,7 +3305,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d 
 https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 
-#EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/3htl2t1643205783.png", ARENA SPORTS 6
+#EXTINF:-1  group-title="DISH DEPORTES" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/3htl2t1643205783.png", ARENA SPORTS 6
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -3315,25 +3315,25 @@ https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d 
 https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 
-#EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png", ESPN BRASIL
+#EXTINF:-1  group-title="DISH DEPORTES" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png", ESPN BRASIL
 https://tv.fazoeli.co.za/m3u8/espn.m3u8
 
-#EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png", ESPN  2 BRASIL
+#EXTINF:-1  group-title="DISH DEPORTES" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png", ESPN  2 BRASIL
 https://tv.fazoeli.co.za/m3u8/espn2.m3u8
 
-#EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png", ESPN 3 BRASIL
+#EXTINF:-1  group-title="DISH DEPORTES" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png", ESPN 3 BRASIL
 https://tv.fazoeli.co.za/m3u8/espn3.m3u8
 
-#EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png", ESPN 4 BRASIL
+#EXTINF:-1  group-title="DISH DEPORTES" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png", ESPN 4 BRASIL
 https://tv.fazoeli.co.za/m3u8/espn4.m3u8
 
-#EXTINF:-1  group-title="DEPORTES DASH MPD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/2560px-BandSports_logo.svg.png", BANDSPORTS BRASIL
+#EXTINF:-1  group-title="DISH DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/2560px-BandSports_logo.svg.png", BANDSPORTS BRASIL
 https://tv.fazoeli.co.za/m3u8/bandsports.m3u8
 
 
 
  
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="DEPORTES DASH MPD", DAZN 1  (🇪🇸) mpd
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="DISH DEPORTES", DAZN 1  (🇪🇸) mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -3343,7 +3343,7 @@ https://tv.fazoeli.co.za/m3u8/bandsports.m3u8
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="DEPORTES DASH MPD", DAZN 2  (🇪🇸) mpd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="DISH DEPORTES", DAZN 2  (🇪🇸) mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -3353,7 +3353,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/o
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="DEPORTES DASH MPD", DAZN FORMULA 1 (🇪🇸) mpd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="DISH DEPORTES", DAZN FORMULA 1 (🇪🇸) mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -3370,28 +3370,28 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/o
 
 
 
-#EXTINF:-1  tvg-logo="https://image.roku.com/developer_channels/prod/27b05cc60a5abb162cf8af100d030154f00015a942703223fbf079993a6a9f45.png" group-title="DEPORTES DASH MPD" , POKER TOUR esp
+#EXTINF:-1  tvg-logo="https://image.roku.com/developer_channels/prod/27b05cc60a5abb162cf8af100d030154f00015a942703223fbf079993a6a9f45.png" group-title="DISH DEPORTES" , POKER TOUR esp
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6080381ab7c9ea00074ec64c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1  tvg-logo="https://image.roku.com/developer_channels/prod/27b05cc60a5abb162cf8af100d030154f00015a942703223fbf079993a6a9f45.png" group-title="DEPORTES DASH MPD" , POKER TOUR ing
+#EXTINF:-1  tvg-logo="https://image.roku.com/developer_channels/prod/27b05cc60a5abb162cf8af100d030154f00015a942703223fbf079993a6a9f45.png" group-title="DISH DEPORTES" , POKER TOUR ing
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1   tvg-logo="https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="DEPORTES DASH MPD" ,Poker Go 
+#EXTINF:-1   tvg-logo="https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="DISH DEPORTES" ,Poker Go 
 https://linear-426.frequency.stream/dist/localnow/426/hls/master/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Caza-pesca_m%2B.png/500px-Caza-pesca_m%2B.png" group-title="DEPORTES DASH MPD", PESCA (🇪🇸) mpd
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Caza-pesca_m%2B.png/500px-Caza-pesca_m%2B.png" group-title="DISH DEPORTES", PESCA (🇪🇸) mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ae3343806fda8a7bc27d38ab605a702:9a6a18d6877a1cfb037417be8ec3d7e6
 https://cache4.zapitv.com/live/eds_c2/iberalia_pesca/dash_live_enc/iberalia_pesca.mpd
 
-#EXTINF:-1    tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Caza-pesca_m%2B.png/500px-Caza-pesca_m%2B.png" group-title="DEPORTES DASH MPD", IBERLIA CAZA  (🇪🇸) mpd
+#EXTINF:-1    tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Caza-pesca_m%2B.png/500px-Caza-pesca_m%2B.png" group-title="DISH DEPORTES", IBERLIA CAZA  (🇪🇸) mpd
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:37_HD.smil/manifest.m3u8
 
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Caza-pesca_m%2B.png/500px-Caza-pesca_m%2B.png" group-title="DEPORTES DASH MPD", IBERALIA PESCA (🇪🇸) mpd
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Caza-pesca_m%2B.png/500px-Caza-pesca_m%2B.png" group-title="DISH DEPORTES", IBERALIA PESCA (🇪🇸) mpd
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:36_HD.smil/manifest.m3u8
 
 
