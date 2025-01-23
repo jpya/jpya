@@ -5188,6 +5188,37 @@ https://cdnhd.iblups.com/hls/tKSMu1Yedf.m3u8
 
 
 
+------------------CENTRO TV--------------
+-------------------------------------------
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="TELECENTRO",#️⃣  TELEFE  
+https://dsr.ride.com.ar/tvmia/an11/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png" group-title="TELECENTRO",📰 CRONICA TV
+https://dsr.ride.com.ar/tvmia/an10/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/48/CH_LOGO/160/160/0/0/13868550072195.png" group-title="TELECENTRO",⚽ DEPORTV
+https://dsr.ride.com.ar/tvmia/an09/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Radio_Programas_del_Per%C3%BA_logo.svg/1200px-Radio_Programas_del_Per%C3%BA_logo.svg.png" group-title="TELECENTRO", 📰 RRPP
+https://dsr.ride.com.ar/tvmia/an08/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="TELECENTRO", 📰 TODO NOTICIAS 
+https://dsr.ride.com.ar/tvmia/an07/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png" group-title="TELECENTRO", 📰 C5N 
+https://dsr.ride.com.ar/tvmia/an06/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="TELECENTRO",#️⃣  EL NUEVE
+https://dsr.ride.com.ar/tvmia/an05/playlist.m3u8
+
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="TELECENTRO",#️⃣  TV PUBLICA
+https://dsr.ride.com.ar/tvmia/an04/playlist.m3u8
+
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/111/CH_LOGO/160/160/0/0/46888977071492.png" group-title="TELECENTRO",🧩 PAKA PAKA
+https://dsr.ride.com.ar/tvmia/an03/playlist.m3u8
 
 
 
