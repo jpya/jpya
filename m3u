@@ -7654,3 +7654,7 @@ https://dhana.live/playlist/stream_12.m3u8
 #EXTVLCOPT:http-referrer=https://laceaccept.net/
 https://073354770.cdncolony.net:8443/hls/f68g2j5axq.m3u8?s=x50vGc1vmJed_k9B4B7WPw&e=1737614079
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png" group-title="TEST DEPORTES EXTRANJEROS", tyc sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+https://ch.livestreamdz.xyz/tyc/tracks-v1a1/mono.m3u8?md5=I1WXtPI1HIEhGF3AdxRFRw&expires=1737603381
