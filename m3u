@@ -4613,7 +4613,10 @@ https://xyzdddd.mizhls.ru/lb/premium60/index.m3u8|Origin=https://weblivehdplay.r
 https://xyzdddd.mizhls.ru/lb/premium746/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
-
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/2560px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="..DADDY LIVE SPORTS",1 BEIN SPORTS ESPAÑOL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium372/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
 #EXTINF:-1   tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="..DADDY LIVE SPORTS", sky sports football
