@@ -1688,6 +1688,12 @@ https://chromecast.cvattv.com.ar/live/c5eds/TyCSport/SA_Live_dash_enc_C/TyCSport
 http://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_wl/TyCSport.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/74/CH_LOGO/60/40/0/0/78711436072355.png" group-title="... FLOW"  ,⚽  TyC Sports 3 test
+http://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
 #EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/TYC95.png/revision/latest?cb=20200711033805" group-title="... FLOW" ,⚽ TyC Sports Internacional
 https://chromecast.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_C/TyC_Internacional.mpd
