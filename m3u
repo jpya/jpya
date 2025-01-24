@@ -5195,6 +5195,12 @@ https://cdnhd.iblups.com/hls/tKSMu1Yedf.m3u8
 
 
 
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/962/CH_LOGO/60/40/0/0/116715800761.png" group-title="TELECENTRO"  ,🛞  Antena 3 Internacional
+https://dsr.ride.com.ar/tvmia/sn33/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1280px-Eurosport_Logo_2015.svg.png" group-title="TELECENTRO",⚽  EUROSPORTS 
+https://dsr.ride.com.ar/tvmia/sn32/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="TELECENTRO",⚽   TNT SPORTS 
 https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
 
