@@ -5195,6 +5195,31 @@ https://cdnhd.iblups.com/hls/tKSMu1Yedf.m3u8
 
 
 
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/1200px-Boing_2020.svg.png" group-title="TELECENTRO", BOING
+https://dsr.ride.com.ar/tvmia/sn26/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScwkS1eYV_zmLHQA2yMOwTrIgNvjzPlz_gOw&s" group-title="TELECENTRO", BOOM CINE
+https://dsr.ride.com.ar/tvmia/sn25/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/2560px-Trece.svg.png" group-title="TELECENTRO", ESPAÑA 3?
+https://dsr.ride.com.ar/tvmia/sn24/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/NOVATV-bg_logo.png" group-title="TELECENTRO", NOVA TV
+https://dsr.ride.com.ar/tvmia/sn23/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="-" group-title="TELECENTRO", ESPAÑA 3?
+https://dsr.ride.com.ar/tvmia/sn20/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png" group-title="TELECENTRO", ENERGY
+https://dsr.ride.com.ar/tvmia/sn19/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TEN_2024_Logo.svg/1200px-TEN_2024_Logo.svg.png" group-title="TELECENTRO", TEN
+https://dsr.ride.com.ar/tvmia/sn18/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/1280px-MEGA.svg.png" group-title="TELECENTRO", MEGA
+https://dsr.ride.com.ar/tvmia/sn17/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="TELECENTRO", D MAX
 https://dsr.ride.com.ar/tvmia/sn16/playlist.m3u8
 
