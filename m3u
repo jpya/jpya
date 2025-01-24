@@ -5190,13 +5190,13 @@ https://cdnhd.iblups.com/hls/tKSMu1Yedf.m3u8
 
 ------------------CENTRO TV--------------
 -------------------------------------------
- group-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png" 
 
 
 
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/1200px-Boing_2020.svg.png" group-title="TELECENTRO", BOING
+
+#EXTINF:-1   group-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/1200px-Boing_2020.svg.png" group-title="TELECENTRO", BOING
 https://dsr.ride.com.ar/tvmia/sn26/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScwkS1eYV_zmLHQA2yMOwTrIgNvjzPlz_gOw&s" group-title="TELECENTRO", BOOM CINE
