@@ -5193,8 +5193,25 @@ https://cdnhd.iblups.com/hls/tKSMu1Yedf.m3u8
  group-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png" 
 
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/UCL_Televisi%C3%B3n.png" group-title="TELECENTRO", UCL
+https://dsr.ride.com.ar/tvmia/bn18/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="-" group-title="TELECENTRO", TELEPACIFICO
+#EXTINF:-1  tvg-logo="-" group-title="TELECENTRO",⚽ W DEPORTES URUGUAY
+https://dsr.ride.com.ar/tvmia/bn16/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="-" group-title="TELECENTRO", ? 3
+https://dsr.ride.com.ar/tvmia/bn15/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="-" group-title="TELECENTRO", ? 1
+https://dsr.ride.com.ar/tvmia/bn14/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="-" group-title="TELECENTRO", ? 2
+https://dsr.ride.com.ar/tvmia/bn12/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Citytv_logo.svg" group-title="TELECENTRO", CITY TV
+https://dsr.ride.com.ar/tvmia/bn11/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/LOGO-TELEPACIFICO.png" group-title="TELECENTRO", TELEPACIFICO
 https://dsr.ride.com.ar/tvmia/bn07/playlist.m3u8
 
 #EXTINF:-1    tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png" group-title="TELECENTRO",⚽  ESPN 2
