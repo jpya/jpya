@@ -5289,13 +5289,13 @@ https://dsr.ride.com.ar/tvmia/bn19/playlist.m3u8
 #EXTINF:-1  tvg-logo="-" group-title="MEGAVISION",⚽ W DEPORTES URUGUAY
 https://dsr.ride.com.ar/tvmia/bn16/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="-" group-title="MEGAVISION", ? 3
+#EXTINF:-1  tvg-logo="https://chtvcarmel.com/wp-content/uploads/2022/11/CHTV-3-removebg-preview.png" group-title="MEGAVISION",  CHACO TV
 https://dsr.ride.com.ar/tvmia/bn15/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="-" group-title="MEGAVISION", ? 1
+#EXTINF:-1  tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.ELUNOCOMOTU-color1080px.png.cff4440ed3aec91e868f353bc36ed07d.png" group-title="MEGAVISION", ? CANAL 1
 https://dsr.ride.com.ar/tvmia/bn14/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="-" group-title="MEGAVISION", ? 2
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/ET_canal_El_Tiempo_logo.png" group-title="MEGAVISION", EL TIEMPO TV
 https://dsr.ride.com.ar/tvmia/bn12/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Citytv_logo.svg" group-title="MEGAVISION", CITY TV
@@ -5332,7 +5332,7 @@ https://dsr.ride.com.ar/tvmia/an63/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="MEGAVISION",⚽ TYC SPORTS
 https://dsr.ride.com.ar/tvmia/an60/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="-" group-title="MEGAVISION", BUGA TV
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn8YgfDJwF7mc6eveJ82ZlkPk3LzsKgwF0TQ&s" group-title="MEGAVISION", BUGA TV
 https://dsr.ride.com.ar/tvmia/an55/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/8398/CH_LOGO/60/40/0/0/33946248076158.png" group-title="MEGAVISION" ,📰 IP Noticias
@@ -5341,25 +5341,25 @@ https://dsr.ride.com.ar/tvmia/an54/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://static.elcanaldelfutbol.com/static/logo.png" group-title="MEGAVISION",⚽ ECDF
 https://dsr.ride.com.ar/tvmia/an53/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="-" group-title="MEGAVISION", ?
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="MEGAVISION", DW
 https://dsr.ride.com.ar/tvmia/an52/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="-" group-title="MEGAVISION", TC
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/TC_Televisi%C3%B3n_2010.png/revision/latest?cb=20201021171628&path-prefix=es" group-title="MEGAVISION", TC
 https://dsr.ride.com.ar/tvmia/an51/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="-" group-title="MEGAVISION", EL 7
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Logotipo_de_Canal_7_Argentina_%282000-2002%29.png" group-title="MEGAVISION", EL 7
 https://dsr.ride.com.ar/tvmia/an50/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="-" group-title="MEGAVISION", TVS
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TVC2020.png" group-title="MEGAVISION", TVC
 https://dsr.ride.com.ar/tvmia/an49/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="-" group-title="MEGAVISION", RTS
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="MEGAVISION", RTS
 https://dsr.ride.com.ar/tvmia/an48/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="-" group-title="MEGAVISION",TA NOTICIAS
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="MEGAVISION",TA NOTICIAS
 https://dsr.ride.com.ar/tvmia/an47/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="-" group-title="MEGAVISION",ATV
+#EXTINF:-1  tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_mega_nuevo.jpg" group-title="MEGAVISION",ATV
 https://dsr.ride.com.ar/tvmia/an46/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/160/160/0/0/7391790707734.png" group-title="MEGAVISION",⚽ GOLF 
@@ -5378,7 +5378,7 @@ https://dsr.ride.com.ar/tvmia/an42/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/674/CH_LOGO/60/40/0/0/3383758507230.png" group-title="MEGAVISION"  ,🎵 CM
 https://dsr.ride.com.ar/tvmia/an41/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="-" group-title="MEGAVISION",en vivo peru
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/800px-Congreso_TV.png" group-title="MEGAVISION",CONGRESO TV
 https://dsr.ride.com.ar/tvmia/an38/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/5552631907343.png" group-title="MEGAVISION",📰 A 24 
