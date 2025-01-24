@@ -7974,3 +7974,50 @@ https://073354770.cdncolony.net:8443/hls/f68g2j5axq.m3u8?s=x50vGc1vmJed_k9B4B7WP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://streamdz1.xyz/
 https://ch.livestreamdz.xyz/tyc/tracks-v1a1/mono.m3u8?md5=I1WXtPI1HIEhGF3AdxRFRw&expires=1737603381
+
+
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"fHz2EQodSu6BTklsp6OqLQ","k":"1y6eBolxwMv27uN5EGd11Q"},{"kty":"oct","kid":"3n197Ui0N9aRlmrNyKlyYg","k":"DRHMXVAueJSzZKS3yqu_9A"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", Gran Hermano
+#EXTVLCOPT:http-origin=android_mobile.directvgo.com
+#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
+disabledisablehttp://m.mtd.llc:8880/CH0100000000341/index.mpd?|Origin="android_mobile.directvgo.com"
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gfbfsbvhSK2XV9fw1_c65w","k":"a0IfFxHEsTQYHScGbloHtw"},{"kty":"oct","kid":"lVFVkIWENIiHa0cs1UFgAA","k":"wSwvs6diLmOxz5nCLGBNPQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", Gran Hermano cámara 1
+#EXTVLCOPT:http-origin=android_mobile.directvgo.com
+#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
+disabledisablehttp://m.mtd.llc:8880/CH0100000000342/index.mpd?|Origin="android_mobile.directvgo.com"
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rUZcQoUbRMyoTwambDOuWw","k":"U_tkaRfJFDm3wA0bR7HbxA"},{"kty":"oct","kid":"IGuij2kfNPiNiIbMQnAsTA","k":"eDC2kkFqQT4fMfuBo733Ug"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", Gran Hermano Cámara 2
+#EXTVLCOPT:http-origin=android_mobile.directvgo.com
+#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
+disabledisablehttp://m.mtd.llc:8880/CH0100000000343/index.mpd?|Origin="android_mobile.directvgo.com"
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"a5R84Jf6TlGHXRWouLWBoA","k":"WGcZTy86VNw32RbWyH5V7Q"},{"kty":"oct","kid":"zZlB53_GMQCYas3La8umYQ","k":"16vFV9VGXvMKiQZJPs5A-g"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", Gran Hermano Cámara 3
+#EXTVLCOPT:http-origin=android_mobile.directvgo.com
+#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
+disabledisablehttp://m.mtd.llc:8880/CH0100000000340/index.mpd?|Origin="android_mobile.directvgo.com"
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AevBQH5MXCGIy7PkG5ichg","k":"FLm8r4XEK5hany4GQ_Uiyg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", Gran Hermano Multi Cámara 
+#EXTVLCOPT:http-origin=android_mobile.directvgo.com
+#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
+disablehttp://m.mtd.llc:8880/CH0100000000345/index.mpd?|Origin="android_mobile.directvgo.com"
+
+
+
+
