@@ -5281,10 +5281,6 @@ https://dsr.ride.com.ar/tvmia/bn21/playlist.m3u8
 https://dsr.ride.com.ar/tvmia/bn20/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/UCL_Televisi%C3%B3n.png" group-title="TELECENTRO", UCL
-https://dsr.ride.com.ar/tvmia/bn20/playlist.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/UCL_Televisi%C3%B3n.png" group-title="TELECENTRO", UCL
 https://dsr.ride.com.ar/tvmia/bn18/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="TELECENTRO",⚽ GOL TV
