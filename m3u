@@ -5193,6 +5193,39 @@ https://cdnhd.iblups.com/hls/tKSMu1Yedf.m3u8
 
 
 
+#EXTINF:-1   tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/HIT_TV_logo.svg/2560px-HIT_TV_logo.svg.png"" group-title="TELECENTRO", HIT TV
+https://dsr.ride.com.ar/tvmia/sn28/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/275/CH_LOGO/60/40/0/0/13885222074367.png" group-title="TELECENTRO"  ,🧩 Disney Channel 
+https://dsr.ride.com.ar/tvmia/sn27/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/160/160/0/0/85904894074972.png" group-title="TELECENTRO",⚽  ESPN 3 
+https://dsr.ride.com.ar/tvmia/an26/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="TELECENTRO",#️⃣  AMERICA 
+https://dsr.ride.com.ar/tvmia/an25/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png" group-title="TELECENTRO",⚽  FOX SPORTS 2 
+https://dsr.ride.com.ar/tvmia/an24/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="TELECENTRO",⚽  FOX SPORTS 
+https://dsr.ride.com.ar/tvmia/an23/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/2560px-DKiss.svg.png" group-title="TELECENTRO", españa
+https://dsr.ride.com.ar/tvmia/sn22/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/2560px-DKiss.svg.png" group-title="TELECENTRO", D KISS
+https://dsr.ride.com.ar/tvmia/sn21/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/318/CH_LOGO/160/160/0/0/87610940072910.png" group-title="TELECENTRO",🎥 PARAMOUNT NETW
+https://dsr.ride.com.ar/tvmia/sn20/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/697/CH_LOGO/60/40/0/0/95216322073987.png" group-title="TELECENTRO" ,#️⃣ KZOEntertaiment
+https://dsr.ride.com.ar/tvmia/an19/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/732/CH_LOGO/60/40/0/0/952123260745.png" group-title="TELECENTRO"  ,#️⃣ Volver
+https://dsr.ride.com.ar/tvmia/an18/playlist.m3u8
+
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/123/CH_LOGO/160/160/0/0/30595173074646.png" group-title="TELECENTRO",#️⃣ NET TV
 https://dsr.ride.com.ar/tvmia/an17/playlist.m3u8
