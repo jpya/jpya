@@ -5192,6 +5192,45 @@ https://cdnhd.iblups.com/hls/tKSMu1Yedf.m3u8
 -------------------------------------------
 
 
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="telecentro",⚽ TYC SPORTS
+https://dsr.ride.com.ar/tvmia/an60/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="-" group-title="TELECENTRO", BUGA TV
+https://dsr.ride.com.ar/tvmia/an55/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/8398/CH_LOGO/60/40/0/0/33946248076158.png" group-title="TELECENTRO" ,📰 IP Noticias
+https://dsr.ride.com.ar/tvmia/an54/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://static.elcanaldelfutbol.com/static/logo.png" group-title="TELECENTRO",⚽ ECDF
+https://dsr.ride.com.ar/tvmia/an53/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="-" group-title="TELECENTRO", ?
+https://dsr.ride.com.ar/tvmia/an52/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="-" group-title="TELECENTRO", TC
+https://dsr.ride.com.ar/tvmia/an51/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="-" group-title="TELECENTRO", EL 7
+https://dsr.ride.com.ar/tvmia/an50/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="-" group-title="TELECENTRO", TVS
+https://dsr.ride.com.ar/tvmia/an49/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="-" group-title="TELECENTRO", RTS
+https://dsr.ride.com.ar/tvmia/an48/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="-" group-title="TELECENTRO",TA NOTICIAS
+https://dsr.ride.com.ar/tvmia/an47/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="-" group-title="TELECENTRO",ATV
+https://dsr.ride.com.ar/tvmia/an46/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/160/160/0/0/7391790707734.png" group-title="TELECENTRO",⚽ GOLF 
+https://dsr.ride.com.ar/tvmia/an45/playlist.m3u8
+
+
+#EXTINF:-1    tvg-logo="https://static.flow.com.ar/images/6637/CH_LOGO/60/40/0/0/4485570807941.png" group-title="TELECENTRO"  ,🌐 Somos Norte
+https://dsr.ride.com.ar/tvmia/an44/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/706/CH_LOGO/60/40/0/0/904936680727.png" group-title="TELECENTRO"  ,#️⃣ METRO
 https://dsr.ride.com.ar/tvmia/an43/playlist.m3u8
