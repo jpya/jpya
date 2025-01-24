@@ -5284,7 +5284,7 @@ https://dsr.ride.com.ar/tvmia/bn18/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="MEGAVISION",⚽ GOL TV
 https://dsr.ride.com.ar/tvmia/bn19/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="-" group-title="MEGAVISION",⚽ W DEPORTES URUGUAY
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_VTV_Plus_nuevo.png/1100px-Logo_VTV_Plus_nuevo.png" group-title="MEGAVISION",⚽ W DEPORTES URUGUAY
 https://dsr.ride.com.ar/tvmia/bn16/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://chtvcarmel.com/wp-content/uploads/2022/11/CHTV-3-removebg-preview.png" group-title="MEGAVISION",  CHACO TV
@@ -5440,7 +5440,7 @@ https://dsr.ride.com.ar/tvmia/an24/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="MEGAVISION",⚽  FOX SPORTS 
 https://dsr.ride.com.ar/tvmia/an23/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="-" group-title="MEGAVISION", españa
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/2101px-Divinity.svg.png" group-title="MEGAVISION", DIVINITY
 https://dsr.ride.com.ar/tvmia/sn22/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/2560px-DKiss.svg.png" group-title="MEGAVISION", D KISS
