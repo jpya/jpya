@@ -5193,6 +5193,11 @@ https://cdnhd.iblups.com/hls/tKSMu1Yedf.m3u8
 
 
 
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/123/CH_LOGO/160/160/0/0/30595173074646.png" group-title="TELECENTRO",#️⃣ NET TV
+https://dsr.ride.com.ar/tvmia/an17/playlist.m3u8
+
+
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png" group-title="TELECENTRO",  📰 CANAL 26 
 https://dsr.ride.com.ar/tvmia/an15/playlist.m3u8
 
