@@ -5194,8 +5194,26 @@ https://cdnhd.iblups.com/hls/tKSMu1Yedf.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="-" group-title="TELECENTRO", TELEPACIFICO
+https://dsr.ride.com.ar/tvmia/bn07/playlist.m3u8
 
+#EXTINF:-1    tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png" group-title="TELECENTRO",⚽  ESPN 2
+https://dsr.ride.com.ar/tvmia/bn06/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="-" group-title="TELECENTRO", NOTICIAS PERU
+https://dsr.ride.com.ar/tvmia/bn04/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1200px-2020_Canal_Capital_logo.svg.png" group-title="TELECENTRO", CAPITAL
+https://dsr.ride.com.ar/tvmia/bn03/playlist.m3u8
+
+#EXTINF:-1   group-logo="https://www.sensa.com.ar/images/logo_sensa_nav.png"    tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="TELECENTRO",#️⃣  EL TRECE
+https://dsr.ride.com.ar/tvmia/bn02/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="TELECENTRO", SEÑAL COLOMBIA
+https://dsr.ride.com.ar/tvmia/bn01/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="-" group-title="TELECENTRO", G
+https://dsr.ride.com.ar/tvmia/bn32/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="TELECENTRO", RCN
 https://dsr.ride.com.ar/tvmia/an64/playlist.m3u8
