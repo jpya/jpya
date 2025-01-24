@@ -5193,7 +5193,32 @@ https://cdnhd.iblups.com/hls/tKSMu1Yedf.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/706/CH_LOGO/60/40/0/0/904936680727.png" group-title="TELECENTRO"  ,#️⃣ METRO
+https://dsr.ride.com.ar/tvmia/an43/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/9117/CH_LOGO/60/40/0/0/48405905077154.png" group-title="TELECENTRO"  ,#️⃣ Bravo TV
+https://dsr.ride.com.ar/tvmia/an42/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/674/CH_LOGO/60/40/0/0/3383758507230.png" group-title="TELECENTRO"  ,🎵 CM
+https://dsr.ride.com.ar/tvmia/an41/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="-" group-title="TELECENTRO",en vivo peru
+https://dsr.ride.com.ar/tvmia/an38/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/5552631907343.png" group-title="TELECENTRO",📰 A 24 
+https://dsr.ride.com.ar/tvmia/an37/playlist.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiNL9bx0XnBAVw3a70E7Q6iO3QP4JOmw1dLA&s" group-title="TELECENTRO",TV PERU
+https://dsr.ride.com.ar/tvmia/an36/playlist.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es" group-title="TELECENTRO",⚽  GOL PERU
+https://dsr.ride.com.ar/tvmia/an35/playlist.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Peru_Magico_2016_%281%29.png/revision/latest?cb=20210405190247&path-prefix=es" group-title="TELECENTRO", PERU MAGICO
+https://dsr.ride.com.ar/tvmia/an34/playlist.m3u8
 
 #EXTINF:-1  group-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"   tvg-logo="https://static.flow.com.ar/images/962/CH_LOGO/60/40/0/0/116715800761.png" group-title="TELECENTRO"  ,🛞  Antena 3 Internacional
 https://dsr.ride.com.ar/tvmia/sn33/playlist.m3u8
@@ -5238,7 +5263,7 @@ https://dsr.ride.com.ar/tvmia/an24/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="TELECENTRO",⚽  FOX SPORTS 
 https://dsr.ride.com.ar/tvmia/an23/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/2560px-DKiss.svg.png" group-title="TELECENTRO", españa
+#EXTINF:-1   tvg-logo="-" group-title="TELECENTRO", españa
 https://dsr.ride.com.ar/tvmia/sn22/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/2560px-DKiss.svg.png" group-title="TELECENTRO", D KISS
