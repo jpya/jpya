@@ -5192,6 +5192,18 @@ https://cdnhd.iblups.com/hls/tKSMu1Yedf.m3u8
 -------------------------------------------
 
 
+
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="TELECENTRO",⚽   TNT SPORTS 
+https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" group-title="TELECENTRO", LATINA TV
+https://dsr.ride.com.ar/tvmia/an31/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png" group-title="TELECENTRO", REAL MADRID
+https://dsr.ride.com.ar/tvmia/sn30/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171414.jpg?w=1119&h=1019" group-title="TELECENTRO",#️⃣ ATV
 https://dsr.ride.com.ar/tvmia/an30/playlist.m3u8
 
