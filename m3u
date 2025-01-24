@@ -5208,8 +5208,6 @@ https://dsr.ride.com.ar/tvmia/sn24/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/NOVATV-bg_logo.png" group-title="MEGAVISION", NOVA TV
 https://dsr.ride.com.ar/tvmia/sn23/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="-" group-title="MEGAVISION", ESPAÑA 3?
-https://dsr.ride.com.ar/tvmia/sn20/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png" group-title="MEGAVISION", ENERGY
 https://dsr.ride.com.ar/tvmia/sn19/playlist.m3u8
@@ -5238,16 +5236,16 @@ https://dsr.ride.com.ar/tvmia/sn12/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/300px-Clan_TVE_logo.svg.png" group-title="MEGAVISION", CLAN 
 https://dsr.ride.com.ar/tvmia/sn11/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="-" group-title="MEGAVISION", ESPAÑA 2?
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telecinco_2024_Logo.svg/1200px-Telecinco_2024_Logo.svg.png" group-title="MEGAVISION", TELECINCO
 https://dsr.ride.com.ar/tvmia/sn10/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="MEGAVISION", 24 HS
 https://dsr.ride.com.ar/tvmia/sn09/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="-" group-title="MEGAVISION", ESPAÑA 1?
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="MEGAVISION", ESTRELLA TV
 https://dsr.ride.com.ar/tvmia/sn08/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="-" group-title="MEGAVISION", TP 8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/1200px-Logo_La_8.svg.png" group-title="MEGAVISION", TP 8
 https://dsr.ride.com.ar/tvmia/sn07/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/LaSexta_2024_Logo.svg/1200px-LaSexta_2024_Logo.svg.png" group-title="MEGAVISION", LA SEXTA
@@ -5319,7 +5317,7 @@ https://dsr.ride.com.ar/tvmia/bn02/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="MEGAVISION", SEÑAL COLOMBIA
 https://dsr.ride.com.ar/tvmia/bn01/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="-" group-title="MEGAVISION", G
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/1200px-GTV_Philippines_Logo_Vector.svg.png" group-title="MEGAVISION", G TV
 https://dsr.ride.com.ar/tvmia/bn32/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="MEGAVISION", RCN
