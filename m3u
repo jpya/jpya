@@ -5190,9 +5190,21 @@ https://cdnhd.iblups.com/hls/tKSMu1Yedf.m3u8
 
 ------------------CENTRO TV--------------
 -------------------------------------------
+ group-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png" 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="telecentro",⚽ TYC SPORTS
+
+
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="TELECENTRO", RCN
+https://dsr.ride.com.ar/tvmia/an64/playlist.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png"  group-title="TELECENTRO"  ,📰 France24
+https://dsr.ride.com.ar/tvmia/an63/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="TELECENTRO",⚽ TYC SPORTS
 https://dsr.ride.com.ar/tvmia/an60/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="-" group-title="TELECENTRO", BUGA TV
@@ -5259,7 +5271,7 @@ https://dsr.ride.com.ar/tvmia/an35/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Peru_Magico_2016_%281%29.png/revision/latest?cb=20210405190247&path-prefix=es" group-title="TELECENTRO", PERU MAGICO
 https://dsr.ride.com.ar/tvmia/an34/playlist.m3u8
 
-#EXTINF:-1  group-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"   tvg-logo="https://static.flow.com.ar/images/962/CH_LOGO/60/40/0/0/116715800761.png" group-title="TELECENTRO"  ,🛞  Antena 3 Internacional
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/962/CH_LOGO/60/40/0/0/116715800761.png" group-title="TELECENTRO"  ,🛞  Antena 3 Internacional
 https://dsr.ride.com.ar/tvmia/sn33/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1280px-Eurosport_Logo_2015.svg.png" group-title="TELECENTRO",⚽  EUROSPORTS 
