@@ -4158,22 +4158,22 @@ http://181.78.106.127:9000/play/ca025/index.m3u8
 http://181.78.106.127:9000/play/ca027/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,⚽ ESPN VIVO HD
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,⚽ ESPN  (test1)
 http://200.60.124.19:29000/play/a016/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,⚽ ESPN 2 HD
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,⚽ ESPN 2 (test2)
 http://200.60.124.19:29000/play/a015/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,⚽ ESPN 3 HD
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,⚽ ESPN 3 (test3)
 http://200.60.124.19:29000/play/a02e/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,⚽ ESPN 5
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,⚽ ESPN 5 (test4)
 http://200.60.124.19:29000/play/a04y/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,⚽ ESPN 6
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,⚽ ESPN 6  (test5)
 http://200.60.124.19:29000/play/a01f/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,⚽ ESPN 7
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,⚽ ESPN 7  (test6)
 http://200.60.124.19:29000/play/a01e/index.m3u8
 
 
@@ -4193,7 +4193,7 @@ http://181.78.106.127:9000/play/ca009/index.m3u8
 
 
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="-"  ,⚽ ESPN PREMIUM ECUADOR
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="-"  ,⚽ ESPN PREMIUM (test8)
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://177.53.155.236:8000/play/a0c4/index.m3u8
@@ -4203,42 +4203,42 @@ http://177.53.155.236:8000/play/a0c4/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch59
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN 3
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN 3 (test9)
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch18
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN 
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN  (test10)
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch16
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN FHD
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN FHD (test11)
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch17
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN 5
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN 5 (test12)
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch19
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN 6
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN 6 (test13)
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch21
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN 7
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,⚽ ESPN 7 (test14)
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch20
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://i.imgur.com/prk8QXO.png"  ,⚽ ESPN 2 HD (1)(Hon1)
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://i.imgur.com/prk8QXO.png"  ,⚽ ESPN 2 HD (test15)
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://168.181.122.234:8000/play/a040/index.m3u8
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://i.imgur.com/cg8QWOm.png" ,⚽ ESPN 3 HD (1)(Hon1)
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://i.imgur.com/cg8QWOm.png" ,⚽ ESPN 3 HD (test16)
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://168.181.122.234:8000/play/a041/index.m3u8
@@ -4259,7 +4259,7 @@ http://181.78.23.26:45000/play/a02h
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a02m
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ ESPN Ecuador
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ ESPN (test17)
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a02p
@@ -4269,12 +4269,12 @@ http://181.78.23.26:45000/play/a02p
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a02s
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ ESPN ARG
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ ESPN (test18)
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a01h
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ ESPN Chile
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ ESPN (test19)
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a01i
@@ -4284,34 +4284,34 @@ http://181.78.23.26:45000/play/a01i
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch59
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn 7
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn 7 (test20)
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch20
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn 5
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn 5 (test21)
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch19
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn 3
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn 3 (test22)
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch18
 
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn 2
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn 2 (test23)
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch17
 
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn 
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn  (test24)
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch16
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn 6
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ espn 6 (test25)
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch21
@@ -4386,7 +4386,7 @@ http://181.78.106.127:9000/play/ca036/index.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="MAGIS TV" ,⚽ ESPN 4
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="MAGIS TV" ,⚽ ESPN 4 (test26)
 http://181.176.153.107:8090/play/a0rl/index.m3u8
 
 
