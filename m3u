@@ -5193,8 +5193,39 @@ https://cdnhd.iblups.com/hls/tKSMu1Yedf.m3u8
  group-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png" 
 
 
+
+
+
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/1181/CH_LOGO/60/40/0/0/33795330072670.png" group-title="TELECENTRO"  ,🍽️ Hola! TV
+https://dsr.ride.com.ar/tvmia/sn03/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1097px-Logo_TVE-2.svg.png" group-title="TELECENTRO", LA DOS
+https://dsr.ride.com.ar/tvmia/sn02/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png" group-title="TELECENTRO", LA UNO
+https://dsr.ride.com.ar/tvmia/sn01/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/1200px-Canal_Trece_logo.svg.png" group-title="TELECENTRO", TRECE TV
+https://dsr.ride.com.ar/tvmia/bn27/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="TELECENTRO",⚽ WIN +
+https://dsr.ride.com.ar/tvmia/bn22/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_telecaribe_El_Informativo.png" group-title="TELECENTRO", TELECARIBE
+https://dsr.ride.com.ar/tvmia/bn21/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="-" group-title="TELECENTRO", TA
+https://dsr.ride.com.ar/tvmia/bn20/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/UCL_Televisi%C3%B3n.png" group-title="TELECENTRO", UCL
+https://dsr.ride.com.ar/tvmia/bn20/playlist.m3u8
+
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/UCL_Televisi%C3%B3n.png" group-title="TELECENTRO", UCL
 https://dsr.ride.com.ar/tvmia/bn18/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="TELECENTRO",⚽ GOL TV
+https://dsr.ride.com.ar/tvmia/bn19/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="-" group-title="TELECENTRO",⚽ W DEPORTES URUGUAY
 https://dsr.ride.com.ar/tvmia/bn16/playlist.m3u8
