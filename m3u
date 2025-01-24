@@ -5275,7 +5275,7 @@ https://dsr.ride.com.ar/tvmia/bn22/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_telecaribe_El_Informativo.png" group-title="MEGAVISION", TELECARIBE
 https://dsr.ride.com.ar/tvmia/bn21/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="-" group-title="MEGAVISION", TA
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/800px-Teleantioquia_logo.svg.png" group-title="MEGAVISION", TELEANTIOCA
 https://dsr.ride.com.ar/tvmia/bn20/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/UCL_Televisi%C3%B3n.png" group-title="MEGAVISION", UCL
@@ -5305,7 +5305,7 @@ https://dsr.ride.com.ar/tvmia/bn07/playlist.m3u8
 #EXTINF:-1    tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png" group-title="MEGAVISION",⚽  ESPN 2
 https://dsr.ride.com.ar/tvmia/bn06/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="-" group-title="MEGAVISION", NOTICIAS PERU
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NTN24_logo_2019.svg/2560px-NTN24_logo_2019.svg.png" group-title="MEGAVISION", NOTICIAS PERU
 https://dsr.ride.com.ar/tvmia/bn04/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1200px-2020_Canal_Capital_logo.svg.png" group-title="MEGAVISION", CAPITAL
