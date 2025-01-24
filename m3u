@@ -5192,8 +5192,17 @@ https://cdnhd.iblups.com/hls/tKSMu1Yedf.m3u8
 -------------------------------------------
 
 
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171414.jpg?w=1119&h=1019" group-title="TELECENTRO",#️⃣ ATV
+https://dsr.ride.com.ar/tvmia/an30/playlist.m3u8
 
-#EXTINF:-1   tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/HIT_TV_logo.svg/2560px-HIT_TV_logo.svg.png"" group-title="TELECENTRO", HIT TV
+#EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Am%C3%A9rica_Televisi%C3%B3n_globo_sin_cuadrado_2003-2016.svg/revision/latest/scale-to-width-down/250?cb=20240207231034&path-prefix=es" group-title="TELECENTRO", AMERICA PERU
+https://dsr.ride.com.ar/tvmia/an29/playlist.m3u8
+
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/2560px-GOL_PLAY.svg.png" group-title="TELECENTRO", GOL PLAY
+https://dsr.ride.com.ar/tvmia/sn29/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/HIT_TV_logo.svg/2560px-HIT_TV_logo.svg.png" group-title="TELECENTRO", HIT TV
 https://dsr.ride.com.ar/tvmia/sn28/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/275/CH_LOGO/60/40/0/0/13885222074367.png" group-title="TELECENTRO"  ,🧩 Disney Channel 
