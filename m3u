@@ -5195,6 +5195,44 @@ https://cdnhd.iblups.com/hls/tKSMu1Yedf.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="TELECENTRO", D MAX
+https://dsr.ride.com.ar/tvmia/sn16/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/1012px-Neox_2023_logo.svg.png" group-title="TELECENTRO", NEOX
+https://dsr.ride.com.ar/tvmia/sn15/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BeMad_2022_Logo.svg/1200px-BeMad_2022_Logo.svg.png" group-title="TELECENTRO", BE MAD
+https://dsr.ride.com.ar/tvmia/sn14/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/1161/CH_LOGO/60/40/0/0/99608630073988.png" group-title="TELECENTRO"  ,🛞  Atreseries
+https://dsr.ride.com.ar/tvmia/sn13/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="TELECENTRO",⚽ TDP
+https://dsr.ride.com.ar/tvmia/sn12/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/300px-Clan_TVE_logo.svg.png" group-title="TELECENTRO", CLAN 
+https://dsr.ride.com.ar/tvmia/sn11/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="-" group-title="TELECENTRO", ESPAÑA 2?
+https://dsr.ride.com.ar/tvmia/sn10/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="TELECENTRO", 24 HS
+https://dsr.ride.com.ar/tvmia/sn09/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="-" group-title="TELECENTRO", ESPAÑA 1?
+https://dsr.ride.com.ar/tvmia/sn08/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="-" group-title="TELECENTRO", TP 8
+https://dsr.ride.com.ar/tvmia/sn07/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/LaSexta_2024_Logo.svg/1200px-LaSexta_2024_Logo.svg.png" group-title="TELECENTRO", LA SEXTA
+https://dsr.ride.com.ar/tvmia/sn06/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telecinco_2024_Logo.svg/640px-Telecinco_2024_Logo.svg.png" group-title="TELECENTRO", LA CINCO
+https://dsr.ride.com.ar/tvmia/sn05/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cuatro_logo.svg/768px-Cuatro_logo.svg.png" group-title="TELECENTRO", LA CUATRO
+https://dsr.ride.com.ar/tvmia/sn04/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/1181/CH_LOGO/60/40/0/0/33795330072670.png" group-title="TELECENTRO"  ,🍽️ Hola! TV
 https://dsr.ride.com.ar/tvmia/sn03/playlist.m3u8
