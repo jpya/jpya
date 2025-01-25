@@ -7985,7 +7985,9 @@ https://ch.livestreamdz.xyz/tyc/tracks-v1a1/mono.m3u8?md5=I1WXtPI1HIEhGF3AdxRFRw
 https://cdn8.vivozytv.com/hotflix/espndeportes/index.m3u8?token=0411477075cc1def7c68c22c92fb687ab8a2e042-2d02e0a6206ccb80520e488a3e165816-1737828674-1737817874&remote=45.7.209.199
 
 
-
-
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png" group-title="atletic", tyc sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://vivofytv.com/
+https://cdn8.vivozytv.com/hotflix/dsports/index.m3u8?token=6ceb4ffa5d1d2a403f2b806f4c8a68fc6d2efacd-99d0077121bc1726396e9bfde66d861c-1737828766-1737817966&remote=45.7.209.199
 
 
