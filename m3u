@@ -3252,6 +3252,15 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manife
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 
+#EXTINF:-1  group-title="DISH DEPORTES" tvg-logo="-", LA LIGA
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc12a94c41e0885dbea8a8d94f0a277d:fc045df077e7669666b1b230e9aa3901
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 
 
 
@@ -7981,13 +7990,5 @@ https://ch.livestreamdz.xyz/tyc/tracks-v1a1/mono.m3u8?md5=I1WXtPI1HIEhGF3AdxRFRw
 
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png" group-title="atletic", 1
-https://cdn8.vivozytv.com/hotflix/espndeportes/index.m3u8?token=0411477075cc1def7c68c22c92fb687ab8a2e042-2d02e0a6206ccb80520e488a3e165816-1737828674-1737817874&remote=45.7.209.199
-
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png" group-title="atletic", tyc sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://vivofytv.com/
-https://cdn8.vivozytv.com/hotflix/dsports/index.m3u8?token=6ceb4ffa5d1d2a403f2b806f4c8a68fc6d2efacd-99d0077121bc1726396e9bfde66d861c-1737828766-1737817966&remote=45.7.209.199
 
 
