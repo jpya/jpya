@@ -8214,5 +8214,5 @@ https://xyzdddd.mizhls.ru/lb/premium66/index.m3u8|Origin=https://qqwebplay.xyz
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a9e74b80c7cefa177926fc90eb05988:54e2cb64384e73b37b19d8c50e9479a4
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/901/CH_LOGO/60/40/0/0/87811089073450.png" group-title="test"  ,antena tres
+#EXTINF:-1   tvg-logo="-" group-title="test"  ,antena tres
 https://cache1.zapitv.com/live/eds_c2/test/dash_live_enc/test.mpd
