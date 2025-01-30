@@ -8311,3 +8311,67 @@ https://dsr.ride.com.ar/tvmia/sn05/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cuatro_logo.svg/768px-Cuatro_logo.svg.png" group-title="ESPAÑOLES", LA CUATRO
 https://dsr.ride.com.ar/tvmia/sn04/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Alf" tvg-logo="https://i.ibb.co/nffZLsM/alf.jpg" groupo-titulo="24/7",Alf
+https://miap.xyz/278/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Animaniacs" tvg-logo="https://i.ibb.co/TBM0WnG/animaniacs.png" groupo-titulo="24/7",Animaniacs
+https://miap.xyz/279/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Bob Sponja" tvg-logo="https://i.ibb.co/D97KcxT/Bob-esponja-logotipo.png" groupo-titulo="24/7",Bob Sponja
+https://miap.xyz/280/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantinflas" tvg-logo="https://i.ibb.co/X3fwsY5/cantinflas.jpg" groupo-titulo="24/7",Cantinflas
+https://miap.xyz/281/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Chespirito" tvg-logo="https://i.ibb.co/Z2R10tm/chespitito.webp" groupo-titulo="24/7",Chespirito
+https://miap.xyz/282/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Correcaminos" tvg-logo="https://i.ibb.co/rtRHtBv/Correcaminos.gif" groupo-titulo="24/7",Correcaminos
+https://miap.xyz/283/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dr House" tvg-logo="https://i.ibb.co/tzK4pnL/dr-house.jpg" groupo-titulo="24/7",Dr House
+https://miap.xyz/284/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball GT" tvg-logo="https://i.ibb.co/dr2Ktk0/dragon-ball-gt.jpg" groupo-titulo="24/7",Dragon Ball GT
+https://miap.xyz/285/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball" tvg-logo="https://i.ibb.co/k5j2TXC/Dragon-Ball.png" groupo-titulo="24/7",Dragon Ball
+https://miap.xyz/286/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball SUPER" tvg-logo="https://i.ibb.co/zS94rtL/untitled-1-77.jpg" groupo-titulo="24/7",Dragon Ball SUPER
+https://miap.xyz/287/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Z" tvg-logo="https://i.ibb.co/FmWRNrg/dragon-ball-z.png" groupo-titulo="24/7",Dragon Ball Z
+https://miap.xyz/288/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El chavo del 8" tvg-logo="https://i.ibb.co/72hD6vr/el-chavo-8.png" groupo-titulo="24/7",El chavo del 8
+https://miap.xyz/289/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Futurama" tvg-logo="https://i.ibb.co/bL26qMQ/futarama.jpg" groupo-titulo="24/7",Futurama
+https://miap.xyz/291/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Pantera Rosa" tvg-logo="https://i.ibb.co/QkGf0Rs/325e4c7dbe8bcc1.png" groupo-titulo="24/7",La Pantera Rosa
+https://miap.xyz/292/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Teoria Del Big Bang" tvg-logo="https://i.ibb.co/wBr51DW/f67e6ad05f9bf34290e6048e74e54d1c.jpg" groupo-titulo="24/7",La Teoria Del Big Bang
+https://miap.xyz/293/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los 3 chiflados" tvg-logo="https://i.ibb.co/p0kpTS8/Los-tres-chiflados-Serie-de-TV-609417213-large.jpg" groupo-titulo="24/7",Los 3 chiflados
+https://miap.xyz/295/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Caballeros del Zodiaco" tvg-logo="https://i.ibb.co/KrhGZkF/332-3323318-thumb-image-logo-de-los-caballeros-del-zodiaco.png" groupo-titulo="24/7",Los Caballeros del Zodiaco
+https://miap.xyz/297/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson 2" tvg-logo="https://i.ibb.co/tQcwBgK/122274696f1c7a37438e3452c79fb81d.jpg" groupo-titulo="24/7",Los Simpson 2
+https://miap.xyz/299/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson" tvg-logo="https://i.ibb.co/tQcwBgK/122274696f1c7a37438e3452c79fb81d.jpg" groupo-titulo="24/7",Los Simpson
+https://miap.xyz/300/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Malcolm El De En Medio" tvg-logo="https://i.ibb.co/f8rB62f/AL.png" groupo-titulo="24/7",Malcolm El De En Medio
+https://miap.xyz/301/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Mr. Bean" tvg-logo="https://i.ibb.co/GcRNWCC/9-QUdhxw-VT94-Op-Pp-Gfohcs-OZ9-RNnseb-I-KJm-O0w-Z02me1-Ip-T3e-Gk-WMJHBa-HI-Pt-HX5-Tggp-G9-Zs-Ivc-I0.jpg" groupo-titulo="24/7",Mr. Bean
+https://miap.xyz/302/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Naruto" tvg-logo="https://i.ibb.co/m9ZMSdw/3f0d1afe64a74343c0f173faec9df8e0.jpg" groupo-titulo="24/7",Naruto
+https://miap.xyz/303/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Padre De Familia" tvg-logo="https://i.ibb.co/yQv0bwJ/family-logo.jpg" groupo-titulo="24/7",Padre De Familia
+https://miap.xyz/304/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Peliculas 2018" tvg-logo="https://i.ibb.co/Kjdj5HW/vector-cinema-icons-concept.jpg" groupo-titulo="24/7",Peliculas 2018
+https://miap.xyz/305/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Pokemon" tvg-logo="https://i.ibb.co/0h9W3sQ/Pokemon-Logo.jpg" groupo-titulo="24/7",Pokemon
+https://miap.xyz/308/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Smallville" tvg-logo="https://i.ibb.co/bm3DVCc/logo-smallville.jpg" groupo-titulo="24/7",Smallville
+https://miap.xyz/309/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | South Park" tvg-logo="https://i.ibb.co/nkjmRSy/1200px-South-park-sign-svg.png" groupo-titulo="24/7",South Park
+https://miap.xyz/310/serverkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Thundercats" tvg-logo="https://i.ibb.co/gFngXZZ/Thundercats-Logo-large.jpg" groupo-titulo="24/7",Thundercats
+https://miap.xyz/311/serverkey.m3u8
+
+
