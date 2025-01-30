@@ -8211,6 +8211,9 @@ https://tvup01.edge.milloh-cs.com/antena3hd/antena3hd.mpd
 https://xyzdddd.mizhls.ru/lb/premium531/index.m3u8|Origin=https://qqwebplay.xy
 
 
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/962/CH_LOGO/60/40/0/0/116715800761.png" group-title="ESPAÑOLES"  ,🇪🇸  Antena 3 Internacional
+https://dsr.ride.com.ar/tvmia/sn33/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e1ad422a6714482b66fa702c16e50c6:4fdf28a0ab91356ca55a75f4e9bf8c92
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/962/CH_LOGO/60/40/0/0/116715800761.png" group-title="ESPAÑOLES"  ,🇪🇸  Antena 3 Internacional
