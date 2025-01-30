@@ -3710,17 +3710,6 @@ http://181.78.27.128:8000/play/a04a/index.m3u8
 
 
 
-#EXTINF:-1    group-logo="https://magistv-pro.net/wp-content/uploads/2024/05/magis-tv-pro.png"  group-title="MAGIS TV" tvg-logo="-" ,#️⃣ ANTENA TRES MPD
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-https://tvup01.edge.milloh-cs.com/antena3hd/antena3hd.mpd
-
-#EXTINF:-1 group-logo="https://www.sportsdads.com.au/wp-content/themes/sportsdads/content/SDOTY.png" tvg-logo="-" group-title="MAGIS TV", ANTENA TRES OPC 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://xyzdddd.mizhls.ru/lb/premium531/index.m3u8|Origin=https://qqwebplay.xy
-
-
 #EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJFnYypcCifV4uGjQ7qVHBnaiVJLnOo18b5o6heeVQSb9yM19osnTKFqOnG7SdWfdpdlg&usqp=CAU"  ,#️⃣ Abc Tv
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
@@ -4440,18 +4429,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
 #EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="MAGIS TV",💞 SONY NOVELAS
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="MAGIS TV" ,A3Player Multicine 🇪🇸
-https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="MAGIS TV" ,A3Player Clasicos 🇪🇸
-https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/5.m3u8
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="MAGIS TV" ,A3Player Comedia 🇪🇸
-https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61/5.m3u8
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="MAGIS TV" ,A3Player Mentes Inquietas 🇪🇸
-https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="MAGIS TV" ,A3Player Equipo Investigacion 🇪🇸
-https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc/1.m3u8
 
 
 #EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png" group-title="MAGIS TV",2 LA 1 ESPAÑA
@@ -5269,11 +5246,6 @@ https://dsr.ride.com.ar/tvmia/sn04/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/1181/CH_LOGO/60/40/0/0/33795330072670.png" group-title="MEGAVISION"  ,🍽️ Hola! TV
 https://dsr.ride.com.ar/tvmia/sn03/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1097px-Logo_TVE-2.svg.png" group-title="MEGAVISION", LA DOS
-https://dsr.ride.com.ar/tvmia/sn02/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png" group-title="MEGAVISION", LA UNO
-https://dsr.ride.com.ar/tvmia/sn01/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/1200px-Canal_Trece_logo.svg.png" group-title="MEGAVISION", TRECE TV
 https://dsr.ride.com.ar/tvmia/bn27/playlist.m3u8
@@ -8237,13 +8209,47 @@ https://xyzdddd.mizhls.ru/lb/premium14/index.m3u8|Origin=https://qqwebplay.xyz
 
 
 
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a9e74b80c7cefa177926fc90eb05988:54e2cb64384e73b37b19d8c50e9479a4
-#EXTINF:-1   tvg-logo="-" group-title="test"  ,antena tres
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/962/CH_LOGO/60/40/0/0/116715800761.png" group-title="ESPAÑOLES"  ,🇪🇸 ANTENA TRES OPCION 1
 https://cache1.zapitv.com/live/eds_c2/test/dash_live_enc/test.mpd
 
+#EXTINF:-1      group-title="ESPAÑOLES" tvg-logo="https://static.flow.com.ar/images/962/CH_LOGO/60/40/0/0/116715800761.png" ,🇪🇸 ANTENA TRES MPD
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+https://tvup01.edge.milloh-cs.com/antena3hd/antena3hd.mpd
+
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/962/CH_LOGO/60/40/0/0/116715800761.png" group-title="ESPAÑOLES",🇪🇸 ANTENA TRES OPC 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium531/index.m3u8|Origin=https://qqwebplay.xy
 
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e1ad422a6714482b66fa702c16e50c6:4fdf28a0ab91356ca55a75f4e9bf8c92
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/962/CH_LOGO/60/40/0/0/116715800761.png" group-title="ESPAÑOLES"  ,🇪🇸  Antena 3 Internacional
+https://chromecast.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_C/Antena_3.mpd
 
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1097px-Logo_TVE-2.svg.png" group-title="ESPAÑOLES",🇪🇸 LA DOS
+https://dsr.ride.com.ar/tvmia/sn02/playlist.m3u8
 
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png" group-title="ESPAÑOLES",🇪🇸 LA UNO
+https://dsr.ride.com.ar/tvmia/sn01/playlist.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="ESPAÑOLES" ,A3Player Multicine 🇪🇸
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="ESPAÑOLES" ,A3Player Clasicos 🇪🇸
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/5.m3u8
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="ESPAÑOLES" ,A3Player Comedia 🇪🇸
+https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61/5.m3u8
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="ESPAÑOLES" ,A3Player Mentes Inquietas 🇪🇸
+https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="ESPAÑOLES" ,A3Player Equipo Investigacion 🇪🇸
+https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc/1.m3u8
