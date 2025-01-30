@@ -4431,24 +4431,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png" group-title="MAGIS TV",2 LA 1 ESPAÑA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://xyzdddd.mizhls.ru/lb/premium533/index.m3u8|Origin=https://weblivehdplay.ru/
-
-#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/LaSexta_2024_Logo.svg/1200px-LaSexta_2024_Logo.svg.png" group-title="MAGIS TV",2 LA SEXTA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://xyzdddd.mizhls.ru/lb/premium534/index.m3u8|Origin=https://weblivehdplay.ru/
-
-#EXTINF:-1  group-logo="-"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Cuatro_icon.svg/revision/latest?cb=20210603021936&path-prefix=es" group-title="MAGIS TV",2 LA CUATRO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://xyzdddd.mizhls.ru/lb/premium535/index.m3u8|Origin=https://weblivehdplay.ru/
-
-
-
-
 
 
 
@@ -8253,3 +8235,20 @@ https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e455
 https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/1280px-Atresplayer_-_Logo_2018.svg.png" group-title="ESPAÑOLES" ,A3Player Equipo Investigacion 🇪🇸
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc/1.m3u8
+
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png" group-title="ESPAÑOLES",🇪🇸 LA 1 ESPAÑA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium533/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/LaSexta_2024_Logo.svg/1200px-LaSexta_2024_Logo.svg.png" group-title="ESPAÑOLES",🇪🇸 LA SEXTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium534/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Cuatro_icon.svg/revision/latest?cb=20210603021936&path-prefix=es" group-title="ESPAÑOLES",🇪🇸 LA CUATRO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium535/index.m3u8|Origin=https://weblivehdplay.ru/
