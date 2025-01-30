@@ -8252,3 +8252,59 @@ https://xyzdddd.mizhls.ru/lb/premium534/index.m3u8|Origin=https://weblivehdplay.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://xyzdddd.mizhls.ru/lb/premium535/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/2560px-Trece.svg.png" group-title="ESPAÑOLES", ESPAÑA 3?
+https://dsr.ride.com.ar/tvmia/sn24/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/NOVATV-bg_logo.png" group-title="ESPAÑOLES", NOVA TV
+https://dsr.ride.com.ar/tvmia/sn23/playlist.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png" group-title="ESPAÑOLES", ENERGY
+https://dsr.ride.com.ar/tvmia/sn19/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TEN_2024_Logo.svg/1200px-TEN_2024_Logo.svg.png" group-title="ESPAÑOLES", TEN
+https://dsr.ride.com.ar/tvmia/sn18/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/1280px-MEGA.svg.png" group-title="ESPAÑOLES", MEGA
+https://dsr.ride.com.ar/tvmia/sn17/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="ESPAÑOLES", D MAX
+https://dsr.ride.com.ar/tvmia/sn16/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/1012px-Neox_2023_logo.svg.png" group-title="ESPAÑOLES", NEOX
+https://dsr.ride.com.ar/tvmia/sn15/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BeMad_2022_Logo.svg/1200px-BeMad_2022_Logo.svg.png" group-title="ESPAÑOLES", BE MAD
+https://dsr.ride.com.ar/tvmia/sn14/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/1161/CH_LOGO/60/40/0/0/99608630073988.png" group-title="ESPAÑOLES"  ,🛞  Atreseries
+https://dsr.ride.com.ar/tvmia/sn13/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="ESPAÑOLES",⚽ TDP
+https://dsr.ride.com.ar/tvmia/sn12/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/300px-Clan_TVE_logo.svg.png" group-title="ESPAÑOLES", CLAN 
+https://dsr.ride.com.ar/tvmia/sn11/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telecinco_2024_Logo.svg/1200px-Telecinco_2024_Logo.svg.png" group-title="ESPAÑOLES", TELECINCO
+https://dsr.ride.com.ar/tvmia/sn10/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="ESPAÑOLES", 24 HS
+https://dsr.ride.com.ar/tvmia/sn09/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ESPAÑOLES", ESTRELLA TV
+https://dsr.ride.com.ar/tvmia/sn08/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/1200px-Logo_La_8.svg.png" group-title="ESPAÑOLES", TP 8
+https://dsr.ride.com.ar/tvmia/sn07/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/LaSexta_2024_Logo.svg/1200px-LaSexta_2024_Logo.svg.png" group-title="ESPAÑOLES", LA SEXTA
+https://dsr.ride.com.ar/tvmia/sn06/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telecinco_2024_Logo.svg/640px-Telecinco_2024_Logo.svg.png" group-title="ESPAÑOLES", LA CINCO
+https://dsr.ride.com.ar/tvmia/sn05/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cuatro_logo.svg/768px-Cuatro_logo.svg.png" group-title="ESPAÑOLES", LA CUATRO
+https://dsr.ride.com.ar/tvmia/sn04/playlist.m3u8
