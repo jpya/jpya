@@ -8096,16 +8096,14 @@ http://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://web.app.flow.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=https://web.flow.com.ar/prm/v1/contentSource?id=75&type=TV_CHANNEL&drmId=MDBiOGQ0YTU4Y2UwNTM3YzBjZDQ0M2NkYjZjYjRiZjg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="test",#️⃣ m3u8 SA_MOBILE
 https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_MOBILE/Canal7.m3u8
 
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://web.app.flow.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=https://web.flow.com.ar/prm/v1/contentSource?id=75&type=TV_CHANNEL&drmId=MDBiOGQ0YTU4Y2UwNTM3YzBjZDQ0M2NkYjZjYjRiZjg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="test",#️⃣ m3u8 fairplay
