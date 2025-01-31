@@ -4174,12 +4174,6 @@ http://181.78.106.127:9000/play/ca009/index.m3u8
 
 
 
-
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="-"  ,⚽ ESPN PREMIUM (test8)
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://177.53.155.236:8000/play/a0c4/index.m3u8
-
 #EXTINF:-1 group-title="MAGIS TV" tvg-logo="-"  ,RCN COLOMBIA
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
@@ -4241,25 +4235,12 @@ http://181.78.23.26:45000/play/a02h
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a02m
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ ESPN (test17)
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.23.26:45000/play/a02p
-
 #EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Canal_ZOOM_2008.png/revision/latest?cb=20210501194336&path-prefix=es" ,#️⃣ Canal Soom
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a02s
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ ESPN (test18)
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.23.26:45000/play/a01h
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,⚽ ESPN (test19)
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.23.26:45000/play/a01i
 
 #EXTINF:-1 group-title="MAGIS TV" tvg-logo="-" ,💞 RCN
 #EXTVLCOPT:network-caching=1500
