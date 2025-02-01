@@ -8113,7 +8113,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_hls_fairplay/Canal7.m3u8
 #EXTVLCOPT:http-referrer=https://web.app.flow.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=hYPcifQNfww/0s2aJKxGyh6xB/QLDMGv7OFdzE/hxdL+jtl/Y6/USz3F5QV+SgcyIw3ge5oP8Ad9ySokqLAfcv2PmIx5yOeXIsmcCJ2Ebqz+kczWjYvVNOsnJSSgoXRlbNuMWEKCKyaHW8NlcpNV4hlB4bAgirdPoF/e4wZLgOoZi5rY0bQpQy3Cnh6GkWCkcvQmapALS9gsm/yuAK+l9st0WrEOHtj5PFvD78R0T4vHh36u5pWsQUK6v83xMdptwg9JcbBmIggOwJFZMhmqLI1E9k22q2ulc3VSkM7obMvDeIvezlZgECRT+kBROaSlVlSoITJjAIw+8M3r6ijA8jyUBGn7GsBEIavavEP/Bd8=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="test",#️⃣ mpd license
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="test",#️⃣ mpd g
 http://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd
 
 
