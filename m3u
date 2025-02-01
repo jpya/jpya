@@ -7324,66 +7324,100 @@ https://archive.org/download/13-encuentros-muy-cercanos-con-senoras-de-cualquier
 
 
 
+#EXTINF:-1 tvg-id="247-Aladin" tvg-name="| HOUSE" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| HOUSE
+http://nxt.plus:8080/olmos/1234guz/94210
+#EXTINF:-1 tvg-id="247-DisneyClasico" tvg-name="COMEDIA" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",COMEDIA
+http://nxt.plus:8080/olmos/1234guz/177644
+#EXTINF:-1 tvg-id="247-Malcolm" tvg-name="| ACCION" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| ACCION
+http://nxt.plus:8080/olmos/1234guz/119347
+#EXTINF:-1 tvg-id="247-CinemaAccion" tvg-name="| JUEGO DE TRONOS" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png " group-title="24/7 NXT",| JUEGO DE TRONOS
+http://nxt.plus:8080/olmos/1234guz/140892
+#EXTINF:-1 tvg-id="247-CinemaXtremo" tvg-name="| THE BING BANG THEORY" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png " group-title="24/7 NXT",| THE BING BANG THEORY
+http://nxt.plus:8080/olmos/1234guz/140915
+#EXTINF:-1 tvg-id="247-CasoCerrado" tvg-name="| EL AUTO FANTASTICO" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png " group-title="24/7 NXT",| EL AUTO FANTASTICO
+http://nxt.plus:8080/olmos/1234guz/177642
+#EXTINF:-1 tvg-id="247-DisneyClasico" tvg-name="| RANGER DE TEXAS" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| RANGER DE TEXAS
+http://nxt.plus:8080/olmos/1234guz/177646
+#EXTINF:-1 tvg-id="247-DisneyCinema1" tvg-name="| MACGYVER" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png " group-title="24/7 NXT",| MACGYVER
+http://nxt.plus:8080/olmos/1234guz/177647
+#EXTINF:-1 tvg-id="247-MujerBionica" tvg-name="| LA MUJER BIONICA" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| LA MUJER BIONICA
+http://nxt.plus:8080/olmos/1234guz/119342
+#EXTINF:-1 tvg-id="247-CinemaHorror" tvg-name="| THE DUKES OFF HAZZARS" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| THE DUKES OFF HAZZARS
+http://nxt.plus:8080/olmos/1234guz/114410
+#EXTINF:-1 tvg-id="247-CasoCerrado" tvg-name="| FAMILIA PELUCHE" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png " group-title="24/7 NXT",| FAMILIA PELUCHE
+http://nxt.plus:8080/olmos/1234guz/177640
+#EXTINF:-1 tvg-id="247-ElChavo" tvg-name="| EL CHAVO DEL 8" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| EL CHAVO DEL 8
+http://nxt.plus:8080/olmos/1234guz/91926
+#EXTINF:-1 tvg-id="247-Chespirito" tvg-name="| CHESPIRITO" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| CHESPIRITO
+http://nxt.plus:8080/olmos/1234guz/91927
+#EXTINF:-1 tvg-id="247-ChapulinColorado" tvg-name="| BONANZA" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| BONANZA
+http://nxt.plus:8080/olmos/1234guz/91928
+#EXTINF:-1 tvg-id="247-Meteoro" tvg-name="| CHICAGO MED" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| CHICAGO MED
+http://nxt.plus:8080/olmos/1234guz/94519
+#EXTINF:-1 tvg-id="247-PanteraRosa" tvg-name="| CHICAGO FIRE" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| CHICAGO FIRE
+http://nxt.plus:8080/olmos/1234guz/91925
+#EXTINF:-1 tvg-id="247-Dinosaurios" tvg-name="| CHICAGO PD" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| CHICAGO PD
+http://nxt.plus:8080/olmos/1234guz/106001
+#EXTINF:-1 tvg-id="247-Inspector" tvg-name="| GARGOLAS" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| GARGOLAS
+http://nxt.plus:8080/olmos/1234guz/114411
+#EXTINF:-1 tvg-id="247-Cinema2" tvg-name="| EL ZORRO RETRO" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| EL ZORRO RETRO
+http://nxt.plus:8080/olmos/1234guz/114412
+#EXTINF:-1 tvg-id="247-PinkyCerebro" tvg-name="| PINKY Y CEREBRO" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png " group-title="24/7 NXT",| PINKY Y CEREBRO
+http://nxt.plus:8080/olmos/1234guz/140885
+#EXTINF:-1 tvg-id="247-DefensoresTierra" tvg-name="| DON GATO" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| DON GATO
+http://nxt.plus:8080/olmos/1234guz/114413
+#EXTINF:-1 tvg-id="247-Frankenpiedra" tvg-name="| DINOPLATIVOLOS" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| DINOPLATIVOLOS
+http://nxt.plus:8080/olmos/1234guz/118618
+#EXTINF:-1 tvg-id="247-AhQueKiko" tvg-name="| MALCOLM" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| MALCOLM
+http://nxt.plus:8080/olmos/1234guz/118619
+#EXTINF:-1 tvg-id="247-Animaniacs" tvg-name="| ANIMANIACKS" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| ANIMANIACKS
+http://nxt.plus:8080/olmos/1234guz/118622
+#EXTINF:-1 tvg-id="247-Birdman" tvg-name="| TORTUGAS NINJAS" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| TORTUGAS NINJAS
+http://nxt.plus:8080/olmos/1234guz/119340
+#EXTINF:-1 tvg-id="247-PunkinPuss" tvg-name="| MUJER ARAÑA" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| MUJER ARAÑA
+http://nxt.plus:8080/olmos/1234guz/119344
+#EXTINF:-1 tvg-id="247-4Fantasticos2006" tvg-name="| LOS 4 FANTASTICOS 2006" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| LOS 4 FANTASTICOS 2006
+http://nxt.plus:8080/olmos/1234guz/119345
+#EXTINF:-1 tvg-id="247-4Fantasticos1967" tvg-name="| BRIGADA A" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| BRIGADA A
+http://nxt.plus:8080/olmos/1234guz/119346
+#EXTINF:-1 tvg-id="247-ElChavoAnimado" tvg-name="| CHAVO ANIMADO" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| CHAVO ANIMADO
+http://nxt.plus:8080/olmos/1234guz/119348
+#EXTINF:-1 tvg-id="247-DonGato" tvg-name="| MI BELLA GENIO" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| MI BELLA GENIO
+http://nxt.plus:8080/olmos/1234guz/119351
+#EXTINF:-1 tvg-id="247-BuzzLightyear" tvg-name="| SNORKELS" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png " group-title="24/7 NXT",| SNORKELS
+http://nxt.plus:8080/olmos/1234guz/119352
+#EXTINF:-1 tvg-id="247-CoyoteCorreCamin" tvg-name="| EL COYOTE Y CORRECAMINOS" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png " group-title="24/7 NXT",| EL COYOTE Y CORRECAMINOS
+http://nxt.plus:8080/olmos/1234guz/130880
+#EXTINF:-1 tvg-id="247-AvisponVerde" tvg-name="| ALF" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| ALF
+http://nxt.plus:8080/olmos/1234guz/140882
+#EXTINF:-1 tvg-id="247-CinemaAccion" tvg-name="| ALADIN" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png " group-title="24/7 NXT",| ALADIN
+http://nxt.plus:8080/olmos/1234guz/140886
+#EXTINF:-1 tvg-id="247-CinemaFamilia" tvg-name="| SWAT KATS" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| SWAT KATS
+http://nxt.plus:8080/olmos/1234guz/140887
+#EXTINF:-1 tvg-id="247-CinemaEnCasa" tvg-name="| JHONNY QUEST" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png " group-title="24/7 NXT",| JHONNY QUEST
+http://nxt.plus:8080/olmos/1234guz/140888
+#EXTINF:-1 tvg-id="247-CinemaInfantil" tvg-name="| DINOSAURIOS" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png " group-title="24/7 NXT",| DINOSAURIOS
+http://nxt.plus:8080/olmos/1234guz/140889
+#EXTINF:-1 tvg-id="247-CinemaAccion" tvg-name="| COMO DICE EL DICHO" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png " group-title="24/7 NXT",| COMO DICE EL DICHO
+http://nxt.plus:8080/olmos/1234guz/140891
+#EXTINF:-1 tvg-id="247-CinemaFamilia" tvg-name="| PANTERA ROSA" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png " group-title="24/7 NXT",| PANTERA ROSA
+http://nxt.plus:8080/olmos/1234guz/140916
+#EXTINF:-1 tvg-id="247-CtosCriptaAnimad" tvg-name="| AMERICAN HORROR STORIES" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png " group-title="24/7 NXT",| AMERICAN HORROR STORIES
+http://nxt.plus:8080/olmos/1234guz/161584
+#EXTINF:-1 tvg-id="247-CSI" tvg-name="| LONNEY TUNES" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png " group-title="24/7 NXT",| LONNEY TUNES
+http://nxt.plus:8080/olmos/1234guz/161586
+#EXTINF:-1 tvg-id="247-Paramount" tvg-name="| POPEYE" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| POPEYE
+http://nxt.plus:8080/olmos/1234guz/177650
+#EXTINF:-1 tvg-id="247-LosPitufos" tvg-name="| LOS PITUFOS" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| LOS PITUFOS
+http://nxt.plus:8080/olmos/1234guz/105900
+#EXTINF:-1 tvg-id="247-YuGiOh" tvg-name="| THUNDERCATS" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png " group-title="24/7 NXT",| THUNDERCATS
+http://nxt.plus:8080/olmos/1234guz/109547
+#EXTINF:-1 tvg-id="247-RosaDeGuadalupe" tvg-name="| LA ROSA DE GUADALUPE" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| LA ROSA DE GUADALUPE
+http://nxt.plus:8080/olmos/1234guz/109548
 
 
 
 
-#EXTINF:-1 group-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557"   tvg-logo="https://vignette.wikia.nocookie.net/animaniacs/images/d/d9/Animaniacs_%285%29.png" group-title="24/7",ANIMANIACS
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56604&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/lucian-films-thirteenth-deluxe-edition/images/6/64/SpongeBob_SquarePants_logo_wordmark.png" group-title="24/7",BOB SPONGE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
-
-#EXTINF:-1 tvg-logo="https://www.vippng.com/png/full/201-2013595_el-chavo-el-chavo-del-8-letra.png" group-title="24/7",EL CHAVO DEL OCHO
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=13400&extension=m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="24/7",locos adams
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=13402&extension=m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="24/7",Merge 1
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=13403&extension=m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="24/7",MR beean
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=13404&extension=m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="24/7",dinosaurios
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=13405&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ec545603-cf4e-48e0-936d-5376ea12fdc0/dfkp5gk-b67dcfb1-e294-4658-b959-1da345673a32.png/v1/fill/w_1156,h_691/jimmy_neutron_boy_genius_logo_png_2022_by_wcwjunkbox_dfkp5gk-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY1IiwicGF0aCI6IlwvZlwvZWM1NDU2MDMtY2Y0ZS00OGUwLTkzNmQtNTM3NmVhMTJmZGMwXC9kZmtwNWdrLWI2N2RjZmIxLWUyOTQtNDY1OC1iOTU5LTFkYTM0NTY3M2EzMi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.0lAFK13Uxn6XWma0ozTlmOOP-U1oo1fY5_OdXwuhyIE" group-title="24/7",JIMMY NEUTRON
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56664&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/futurama/futurama_PNG26.png" group-title="24/7",FUTURAMA
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56595&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://miro.medium.com/max/1380/1*5FDqv_Jqlk___XP0eFZptQ.png" group-title="24/7",DINOSAURIOS
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56613&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-DreamWorks-1.png" group-title="24/7",DREAMWORKS
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56443&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/08/Pixar-symbol-500x155.jpg" group-title="24/7",DISNEY PIXAR
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56444&extension=m3u8
-
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/marvelmovies/images/e/ed/Marvel_Studios_2016_Transparent_Logo.png" group-title="24/7",MARVEL
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56437&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZnwLln5.png" group-title="24/7",DRAGON BALL
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56616&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e3/46/83/e34683b61a49dfd0974b73821de6a339.png" group-title="24/7",DRAGON BALL Z
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56621&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dragon_Ball_GT_logo.png/1280px-Dragon_Ball_GT_logo.png" group-title="24/7",DRAGON BALL GT
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56622&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="24/7",DRAGON BALL SUPER
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56618&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://i.kym-cdn.com/photos/images/facebook/001/018/269/b21.png" group-title="24/7",THE THEORY OF BIG BANG
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=131193&extension=m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="24/7",los simpson ingles
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=13408&extension=m3u8
 
 
 
