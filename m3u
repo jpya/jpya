@@ -8162,7 +8162,14 @@ http://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mp
 
 
 
+#EXTINF:-1  tvg-logo="-" group-title="PACK FUTBOL ARG", ESPN PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://voodc.com/
+https://vds1.dbcast.live/9uPLbALhOQ5wnsgHLa8GIw/1738472788/34352e372e3230392e313939/ff978/playlist.m3u8
 
 
-
+#EXTINF:-1  tvg-logo="-" group-title="PACK FUTBOL ARG", TNT SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://voodc.com/
+https://vds1.dbcast.live/V-lkJOS_gH_2KFP7SMiO3w/1738472981/34352e372e3230392e313939/ff498/playlist.m3u8
 
