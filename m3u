@@ -7324,7 +7324,7 @@ https://archive.org/download/13-encuentros-muy-cercanos-con-senoras-de-cualquier
 
 
 
-#EXTINF:-1 tvg-id="247-Aladin" tvg-name="| HOUSE" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| HOUSE
+#EXTINF:-1 group-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuquen-en-vivo-Online.png"  tvg-name="| HOUSE" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| HOUSE
 http://nxt.plus:8080/olmos/1234guz/94210
 #EXTINF:-1 tvg-id="247-DisneyClasico" tvg-name="COMEDIA" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",COMEDIA
 http://nxt.plus:8080/olmos/1234guz/177644
