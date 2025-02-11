@@ -3101,6 +3101,27 @@ https://1.trstream01.xyz/canal6/stream.m3u8
 https://4.trstream01.xyz/canal6/stream.m3u8
 
 
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF TRACK", OPCION 1 FHD
+https://universalrace.servebeer.com/UniversalRace/P2/a.php
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF TRACK", OPCION 2 FHD
+https://universalrace.servebeer.com/UniversalRace/G5/a.php
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF TRACK", OPCION 3 FHD
+https://universalrace.servebeer.com/UniversalRace/S2/a.php
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF TRACK", OPCION 4 FHD
+https://universalrace.servebeer.com/UniversalRace/T1/a.php
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF TRACK", OPCION 5 FHD
+https://universalrace.servebeer.com/UniversalRace/T10/a.php
+
+
+
+
+
+
+
 
 
 ------------------------------------------------------------  DEPORTES ESPECIALES------------------------------------------------------------
