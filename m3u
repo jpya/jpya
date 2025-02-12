@@ -8479,29 +8479,68 @@ https://dokko1new.iosplayer.ru/dokko1/premium663/mono.m3u8|Referer=https://cooki
 https://zekonew.iosplayer.ru/zeko/premium555/mono.m3u8|Referer=https://cookiewebplay.xyz/
 
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="Sky.Sport.Top.Event.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-top-event-de.png" tvg-name="Sky Sport Top Event DE",Sky Sport Top Event DE
-https://dokko1new.iosplayer.ru/dokko1/premium556/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://dokko1new.iosplayer.ru/dokko1/premium556/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkyRacing1.au" tvg-logo="https://i.imgur.com/Hf0EiaW.png" tvg-name="Sky Racing 1",Sky Racing 1
-https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkyRacing2.au" tvg-logo="https://i.imgur.com/TxQvFnQ.png" tvg-name="Sky Racing 2",Sky Racing 2
-https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkyThoroughbredCentral.au" tvg-logo="https://i.imgur.com/1SxIsnw.png" tvg-name="Sky Thoroughbred Central",Sky Thoroughbred Central
-https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" tvg-name="Sky Sports Main Event UHD",UK | Sky Sports Main Event UHD
-https://a1xs.vip/2000015|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://a1xs.vip/2000015
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySp.ActionHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-action-uk.png" tvg-name="Sky Sports Action",Sky Sports Action
-https://ddh2new.iosplayer.ru/ddh2/premium37/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddh2new.iosplayer.ru/ddh2/premium37/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Sky.Sports.Plus.HD.ie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-arena-uk.png" tvg-name="Sky Sports Arena",Sky Sports Arena
-https://zekonew.iosplayer.ru/zeko/premium36/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://zekonew.iosplayer.ru/zeko/premium36/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySp.Cricket.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-uk.png?raw=true" tvg-name="Sky Sports Cricket",Sky Sports Cricket
-https://dokko1new.iosplayer.ru/dokko1/premium65/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://dokko1new.iosplayer.ru/dokko1/premium65/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySp.F1UHD.uk" tvg-logo="https://pixvid.org/images/2025/01/16/SKyF1UHD.png" tvg-name="Sky Sports F1 UHD",Sky Sports F1 UHD
-https://a1xs.vip/2000016|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://a1xs.vip/2000016|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" tvg-name="Sky Sports F1",Sky Sports F1
-https://windnew.iosplayer.ru/wind/premium60/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://windnew.iosplayer.ru/wind/premium60/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-uk.png" tvg-name="Sky Sports Football",Sky Sports Football
-https://zekonew.iosplayer.ru/zeko/premium35/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://zekonew.iosplayer.ru/zeko/premium35/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png" tvg-name="Sky Sports Golf",Sky Sports Golf
-https://windnew.iosplayer.ru/wind/premium70/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://windnew.iosplayer.ru/wind/premium70/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/sky-sports-main-event-hd-uk.png" tvg-name="Sky Sports Main Event",Sky Sports Main Event
 https://zekonew.iosplayer.ru/zeko/premium38/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="Sky.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-uk.png" tvg-name="Sky Sports MIX",Sky Sports MIX
