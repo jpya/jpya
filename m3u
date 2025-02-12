@@ -8897,21 +8897,47 @@ https://dokko1new.iosplayer.ru/dokko1/premium589/mono.m3u8|Referer=https://cooki
 https://dokko1new.iosplayer.ru/dokko1/premium590/mono.m3u8|Referer=https://cookiewebplay.xyz/
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport 4 NZ" tvg-logo="https://pixvid.org/images/2025/02/02/SSNZ4.png" group-title="New Zealand",Sky Sport 4 NZ
-https://dokko1new.iosplayer.ru/dokko1/premium591/mono.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://dokko1new.iosplayer.ru/dokko1/premium591/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport 5 NZ" tvg-logo="https://pixvid.org/images/2025/02/02/SSNZ5.png" group-title="New Zealand",Sky Sport 5 NZ
-https://dokko1new.iosplayer.ru/dokko1/premium592/mono.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://dokko1new.iosplayer.ru/dokko1/premium592/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport 6 NZ" tvg-logo="https://pixvid.org/images/2025/02/02/SSNZ6.png" group-title="New Zealand",Sky Sport 6 NZ
-https://dokko1new.iosplayer.ru/dokko1/premium593/mono.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://dokko1new.iosplayer.ru/dokko1/premium593/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport 7 NZ" tvg-logo="https://pixvid.org/images/2025/02/02/SSNZ7.png" group-title="New Zealand",Sky Sport 7 NZ
-https://dokko1new.iosplayer.ru/dokko1/premium594/mono.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://dokko1new.iosplayer.ru/dokko1/premium594/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
+
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-name="Sky Sport 8 NZ" tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Sky%20New%20Zealand%208.png" group-title="New Zealand",Sky Sport 8 NZ
-https://dokko1new.iosplayer.ru/dokko1/premium595/mono.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://dokko1new.iosplayer.ru/dokko1/premium595/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
+
 #EXTINF:-1 tvg-id="SKY.Sport.9.nz" tvg-name="Sky Sport 9 NZ" tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Sky%20New%20Zealand%209.png" group-title="New Zealand",Sky Sport 9 NZ
-https://dokko1new.iosplayer.ru/dokko1/premium596/mono.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://dokko1new.iosplayer.ru/dokko1/premium596/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 tvg-id="SKY.Sport.Select.nz" tvg-name="Sky Sport Select NZ" tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Sky%20New%20Zealand%20Select.png" group-title="New Zealand",Sky Sport Select NZ
-https://dokko1new.iosplayer.ru/dokko1/premium587/mono.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://dokko1new.iosplayer.ru/dokko1/premium587/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 tvg-id="(N/A)" tvg-name="UFC" tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/UFC.png" group-title="PPV",UFC
-https://ddy6new.iosplayer.ru/ddy6/premium55/mono.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddy6new.iosplayer.ru/ddy6/premium55/mono.m3u8|Referer=https://cookiewebplay.xyz/
 
 
 
