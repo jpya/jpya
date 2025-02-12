@@ -8153,98 +8153,65 @@ https://ddy6new.iosplayer.ru/ddy6/premium493/mono.m3u8|Referer=http-referrer=htt
 
 
 #EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="BET.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" tvg-name="BET",BET
-https://zekonew.iosplayer.ru/zeko/premium306/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://zekonew.iosplayer.ru/zeko/premium306/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Big.Ten.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-name="Big Ten Network HD",Big Ten Network HD
-https://windnew.iosplayer.ru/wind/premium397/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://windnew.iosplayer.ru/wind/premium397/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Boomerang.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" tvg-name="Boomerang",Boomerang
-http://fl3.moveonjoy.com/BOOMERANG/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8|Referer=https://cookiewebplay.xyz/
+
+
 #EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png" tvg-name="Bravo",Bravo
-https://ddh2new.iosplayer.ru/ddh2/premium307/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="C-SPAN.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/c-span-1-us.png?raw=true" tvg-name="C SPAN 1",C SPAN 1
-https://windnew.iosplayer.ru/wind/premium750/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="Canada (DADDY LIVE)" tvg-id="CBCToronto(English).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cbc-ca.png" tvg-name="CBC",CBC
-https://dokko1new.iosplayer.ru/dokko1/premium832/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="CBS.(WWJ).Detroit,.MI.us" tvg-logo="https://i.imgur.com/qyUcJBI.png" tvg-name="CBS (WWJ)",CBS (WWJ)
-https://ddh2new.iosplayer.ru/ddh2/premium52/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddh2new.iosplayer.ru/ddh2/premium307/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-sports-network-us.png" tvg-name="CBS Sports Network (CBSSN)",CBS Sports Network (CBSSN)
-https://zekonew.iosplayer.ru/zeko/premium308/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-2-wcbs-us.png" tvg-name="CBSNY",CBSNY
-https://zekonew.iosplayer.ru/zeko/premium767/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Channel.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png" tvg-name="Channel 4",Channel 4
-https://windnew.iosplayer.ru/wind/premium354/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Channel.5.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png" tvg-name="Channel 5",Channel 5
-https://zekonew.iosplayer.ru/zeko/premium355/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-name="CINEMAX EAST",CINEMAX EAST
-http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" tvg-name="CINEMAX MOREMAX",CINEMAX MOREMAX
-http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Cinemax.-.Pacific.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" tvg-name="CINEMAX WEST",CINEMAX WEST
-http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="Canada (DADDY LIVE)" tvg-id="CITY.Montreal,.QC.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/city-tv-ca.png" tvg-name="Citytv",Citytv
-https://ddh2new.iosplayer.ru/ddh2/premium831/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="CLEO.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" tvg-name="Cleo TV",Cleo TV
-https://windnew.iosplayer.ru/wind/premium715/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="CMT.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cmt-us.png" tvg-name="CMT",CMT
-https://dokko1new.iosplayer.ru/dokko1/premium647/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="CNBC.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" tvg-name="CNBC",CNBC
-https://zekonew.iosplayer.ru/zeko/premium309/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="CNN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-name="CNN",CNN
-https://ddh2new.iosplayer.ru/ddh2/premium345/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comedy-central-us.png" group-title="USA (DADDY LIVE)",Comedy Central
-https://ddh2new.iosplayer.ru/ddh2/premium310/mono.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Comet.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comet-us.png" tvg-name="Comet",Comet
-https://ddh2new.iosplayer.ru/ddh2/premium696/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="The.Cooking.Channel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cooking-channel-us.png" tvg-name="Cooking Channel",Cooking Channel
-https://dokko1new.iosplayer.ru/dokko1/premium697/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="COZITV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cozi-tv-us.png" tvg-name="COZI TV",COZI TV
-https://ddy6new.iosplayer.ru/ddy6/premium748/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Crime.and.Investigation.Network.USA.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/crime-and-investigation-uk.png?raw=true" tvg-name="Crime+ Investigation",Crime+ Investigation
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Crave1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" tvg-name="CRAVE 1",CRAVE 1
-http://fl3.moveonjoy.com/CRAVE_1/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Crave2.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 2",CRAVE 2
-http://fl2.moveonjoy.com/CRAVE_2/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Crave3.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" tvg-name="CRAVE 3",CRAVE 3
-http://fl3.moveonjoy.com/CRAVE_3/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Crave4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4",CRAVE 4
-http://fl2.moveonjoy.com/CRAVE_4/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-https://dokko1new.iosplayer.ru/dokko1/premium669/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="Canada (DADDY LIVE)" tvg-id="CTV.(CFCN).Calgary,.AB.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-ca.png" tvg-name="CTV",CTV
-https://ddh2new.iosplayer.ru/ddh2/premium602/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="Canada (DADDY LIVE)" tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png" tvg-name="CTV 2",CTV 2
-https://ddh2new.iosplayer.ru/ddh2/premium838/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="CW.(WUCW).St..Paul,.MN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" tvg-name="CW (WUCW)",CW (WUCW)
-https://zekonew.iosplayer.ru/zeko/premium300/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="U.and.Dave.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dave-uk.png" tvg-name="Dave",Dave
-https://dokko1new.iosplayer.ru/dokko1/premium348/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Destination.America.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/destination-america-us.png" tvg-name="Destination America",Destination America
-https://dokko1new.iosplayer.ru/dokko1/premium651/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" tvg-name="Discovery Channel",Discovery Channel
-https://zekonew.iosplayer.ru/zeko/premium313/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Discovery.Family.Channel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-family-us.png" tvg-name="Discovery Family",Discovery Family
-https://dokko1new.iosplayer.ru/dokko1/premium657/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Discovery.Life.Channel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-life-us.png" tvg-name="Discovery Life Channel",Discovery Life Channel
-https://zekonew.iosplayer.ru/zeko/premium311/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" tvg-name="Disney Channel",Disney Channel
-https://zekonew.iosplayer.ru/zeko/premium312/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/disney-junior-us.png" tvg-name="Disney JR",Disney JR
-https://ddh2new.iosplayer.ru/ddh2/premium652/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" tvg-name="Disney XD",Disney XD
-https://zekonew.iosplayer.ru/zeko/premium314/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png" tvg-name="E! Entertainment Television",E! Entertainment Television
-https://zekonew.iosplayer.ru/zeko/premium315/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="E4.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/E4_Logo.png" tvg-name="E4 Channel",E4 Channel
-https://ddy6new.iosplayer.ru/ddy6/premium363/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://zekonew.iosplayer.ru/zeko/premium308/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
+
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="ESPN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" tvg-name="ESPN",ESPN
-https://ddh2new.iosplayer.ru/ddh2/premium44/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddh2new.iosplayer.ru/ddh2/premium44/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="ESPN2.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" tvg-name="ESPN 2",ESPN 2
-https://windnew.iosplayer.ru/wind/premium45/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://windnew.iosplayer.ru/wind/premium45/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="ESPN.Deportes.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png" tvg-name="ESPN Deportes",ESPN Deportes
-https://ddh2new.iosplayer.ru/ddh2/premium375/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddh2new.iosplayer.ru/ddh2/premium375/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="ESPN.News.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espnews-us.png" tvg-name="ESPNews",ESPNews
-https://ddh2new.iosplayer.ru/ddh2/premium288/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddh2new.iosplayer.ru/ddh2/premium288/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="ESPNU.On.Demand.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" tvg-name="ESPNU",ESPNU
-https://zekonew.iosplayer.ru/zeko/premium316/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://zekonew.iosplayer.ru/zeko/premium316/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Eurosport.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" tvg-name="EuroSport 1",EuroSport 1
 https://windnew.iosplayer.ru/wind/premium41/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Eurosport.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-2-uk.png" tvg-name="EuroSport 2",EuroSport 2
