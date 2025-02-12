@@ -8708,37 +8708,86 @@ https://zekonew.iosplayer.ru/zeko/premium419/mono.m3u8|Referer=https://cookieweb
 
 
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="The.Tennis.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" tvg-name="Tennis Channel",Tennis Channel
-http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Tennis.Plus.1.tennis" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 1",Tennis+ 1
-https://ddh2new.iosplayer.ru/ddh2/premium700/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddh2new.iosplayer.ru/ddh2/premium700/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="(no tvg-id)" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 10",Tennis+ 10
-https://ddh2new.iosplayer.ru/ddh2/premium709/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddh2new.iosplayer.ru/ddh2/premium709/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="(no tvg-id)" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 11",Tennis+ 11
-https://ddh2new.iosplayer.ru/ddh2/premium710/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddh2new.iosplayer.ru/ddh2/premium710/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="(no tvg-id)" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 12",Tennis+ 12
-https://ddh2new.iosplayer.ru/ddh2/premium711/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddh2new.iosplayer.ru/ddh2/premium711/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="(no tvg-id)" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 13",Tennis+ 13
-https://ddh2new.iosplayer.ru/ddh2/premium712/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddh2new.iosplayer.ru/ddh2/premium712/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="(no tvg-id)" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 14",Tennis+ 14
-https://ddh2new.iosplayer.ru/ddh2/premium713/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddh2new.iosplayer.ru/ddh2/premium713/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="(no tvg-id)" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 15",Tennis+ 15
-https://ddh2new.iosplayer.ru/ddh2/premium714/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddh2new.iosplayer.ru/ddh2/premium714/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Tennis.Plus.2.tennis" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 2",Tennis+ 2
-https://ddh2new.iosplayer.ru/ddh2/premium701/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddh2new.iosplayer.ru/ddh2/premium701/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Tennis.Plus.3.tennis" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 3",Tennis+ 3
-https://ddh2new.iosplayer.ru/ddh2/premium702/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddh2new.iosplayer.ru/ddh2/premium702/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Tennis.Plus.4.tennis" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 4",Tennis+ 4
-https://ddh2new.iosplayer.ru/ddh2/premium703/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddh2new.iosplayer.ru/ddh2/premium703/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Tennis.Plus.5.tennis" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 5",Tennis+ 5
-https://ddh2new.iosplayer.ru/ddh2/premium704/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddh2new.iosplayer.ru/ddh2/premium704/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Tennis.Plus.6.tennis" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 6",Tennis+ 6
-https://ddh2new.iosplayer.ru/ddh2/premium705/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddh2new.iosplayer.ru/ddh2/premium705/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Tennis.Plus.7.tennis" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 7",Tennis+ 7
-https://ddh2new.iosplayer.ru/ddh2/premium706/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddh2new.iosplayer.ru/ddh2/premium706/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Tennis.Plus.8.tennis" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 8",Tennis+ 8
-https://ddh2new.iosplayer.ru/ddh2/premium707/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddh2new.iosplayer.ru/ddh2/premium707/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Tennis.Plus.9.tennis" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 9",Tennis+ 9
-https://ddh2new.iosplayer.ru/ddh2/premium708/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddh2new.iosplayer.ru/ddh2/premium708/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="TNTSports.UltimateUHD.uk" tvg-logo="https://pixvid.org/images/2025/01/16/TNT-Sports-Ultimate.png" tvg-name="TNT Sports Ultimate UHD",TNT Sports Ultimate UHD
 https://a1xs.vip/2000031|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
