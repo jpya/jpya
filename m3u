@@ -8135,11 +8135,23 @@ https://zekonew.iosplayer.ru/zeko/premium372/mono.m3u8|Referer=https://cookieweb
 
 
 #EXTINF:-1 tvg-id="beINSports1.au" tvg-name="beIN SPORTS Australia 1" tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein1.png" group-title="SPORTS (DADDY LIVE)",beIN SPORTS Australia 1
-https://ddy6new.iosplayer.ru/ddy6/premium491/mono.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddy6new.iosplayer.ru/ddy6/premium491/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
+
 #EXTINF:-1 tvg-id="beINSports2.au" tvg-name="beIN SPORTS Australia 2" tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein2.png" group-title="SPORTS (DADDY LIVE)",beIN SPORTS Australia 2
-https://ddy6new.iosplayer.ru/ddy6/premium492/mono.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddy6new.iosplayer.ru/ddy6/premium492/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
+
 #EXTINF:-1 tvg-id="beINSports3.au)" tvg-name="beIN SPORTS Australia 3" tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein3.png" group-title="SPORTS (DADDY LIVE)",beIN SPORTS Australia 3
-https://ddy6new.iosplayer.ru/ddy6/premium493/mono.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddy6new.iosplayer.ru/ddy6/premium493/mono.m3u8|Referer=http-referrer=https://cookiewebplay.xyz/
+
+
 #EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="BET.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" tvg-name="BET",BET
 https://zekonew.iosplayer.ru/zeko/premium306/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Big.Ten.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-name="Big Ten Network HD",Big Ten Network HD
