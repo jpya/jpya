@@ -8542,39 +8542,90 @@ https://windnew.iosplayer.ru/wind/premium70/mono.m3u8|Referer=https://cookiewebp
 
 
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/sky-sports-main-event-hd-uk.png" tvg-name="Sky Sports Main Event",Sky Sports Main Event
-https://zekonew.iosplayer.ru/zeko/premium38/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://zekonew.iosplayer.ru/zeko/premium38/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="Sky.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-uk.png" tvg-name="Sky Sports MIX",Sky Sports MIX
-https://ddy6new.iosplayer.ru/ddy6/premium557/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddy6new.iosplayer.ru/ddy6/premium557/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-uk.png" tvg-name="Sky Sports News",Sky Sports News
-https://windnew.iosplayer.ru/wind/premium366/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://windnew.iosplayer.ru/wind/premium366/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySp.PL.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" tvg-name="Sky sports Premier League",Sky sports Premier League
-https://dokko1new.iosplayer.ru/dokko1/premium130/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://dokko1new.iosplayer.ru/dokko1/premium130/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-racing-uk.png?raw=true" tvg-name="Sky Sports Racing",Sky Sports Racing
-https://windnew.iosplayer.ru/wind/premium554/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://windnew.iosplayer.ru/wind/premium554/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySp.Tennis.uk" tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sports_Tennis.png" tvg-name="Sky Sports Tennis",Sky Sports Tennis
-https://a1xs.vip/2000013|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://a1xs.vip/2000013|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Sky.Witness.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-witness-uk.png" tvg-name="Sky Witness HD",Sky Witness HD
-https://ddy6new.iosplayer.ru/ddy6/premium361/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddy6new.iosplayer.ru/ddy6/premium361/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Space.City.Home.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/space-city-home-network-us.png" tvg-name="Space City (SCHN)",Space City (SCHN)
-https://dokko1new.iosplayer.ru/dokko1/premium921/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://dokko1new.iosplayer.ru/dokko1/premium921/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Spectrum.Sportsnet.Lakers.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/spectrum-sportsnet-la-us.png" tvg-name="Spectrum Sportsnet LA",Spectrum Sportsnet LA
-https://ddh2new.iosplayer.ru/ddh2/premium764/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddh2new.iosplayer.ru/ddh2/premium764/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Sportsnet.360.ca" tvg-logo="https://w7.pngwing.com/pngs/746/852/png-transparent-sportsnet-360-cfac-calgary-flames-national-hockey-league-others-text-logo-world.png" tvg-name="Sportsnet 360",Sportsnet 360
-https://zekonew.iosplayer.ru/zeko/premium409/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://zekonew.iosplayer.ru/zeko/premium409/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png" tvg-name="Sportsnet East",Sportsnet East
-https://windnew.iosplayer.ru/wind/premium408/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://windnew.iosplayer.ru/wind/premium408/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SNY:.SportsNet.New.York.(Comcast).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1200px-SNY_logo.svg.png" tvg-name="SportsNet New York (SNY)",SportsNet New York (SNY)
-https://zekonew.iosplayer.ru/zeko/premium759/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://zekonew.iosplayer.ru/zeko/premium759/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Sportsnet.One.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68859_h15_ac.png" tvg-name="Sportsnet One",Sportsnet One
-https://zekonew.iosplayer.ru/zeko/premium411/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://zekonew.iosplayer.ru/zeko/premium411/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png" tvg-name="Sportsnet Ontario",Sportsnet Ontario
-https://windnew.iosplayer.ru/wind/premium406/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://windnew.iosplayer.ru/wind/premium406/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SportsNet.Pittsburgh.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sportsnet-pittsburgh-us.png" tvg-name="SportsNet Pittsburgh",SportsNet Pittsburgh
-https://ddh2new.iosplayer.ru/ddh2/premium922/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddh2new.iosplayer.ru/ddh2/premium922/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png" tvg-name="Sportsnet West",Sportsnet West
-https://windnew.iosplayer.ru/wind/premium407/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://windnew.iosplayer.ru/wind/premium407/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Sportsnet.World.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-world-ca.png" tvg-name="Sportsnet World",Sportsnet World
-https://windnew.iosplayer.ru/wind/premium410/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://windnew.iosplayer.ru/wind/premium410/mono.m3u8|Referer=https://cookiewebplay.xyz/
 
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="ACTION.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-action-za.png?raw=true" tvg-name="SuperSport Action",SuperSport Action
 https://windnew.iosplayer.ru/wind/premium420/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
