@@ -8628,37 +8628,84 @@ https://windnew.iosplayer.ru/wind/premium407/mono.m3u8|Referer=https://cookieweb
 https://windnew.iosplayer.ru/wind/premium410/mono.m3u8|Referer=https://cookiewebplay.xyz/
 
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="ACTION.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-action-za.png?raw=true" tvg-name="SuperSport Action",SuperSport Action
-https://windnew.iosplayer.ru/wind/premium420/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://windnew.iosplayer.ru/wind/premium420/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="CRICKET.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-cricket-za.png?raw=true" tvg-name="SuperSport Cricket",SuperSport Cricket
-https://dokko1new.iosplayer.ru/dokko1/premium368/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://dokko1new.iosplayer.ru/dokko1/premium368/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="FOOTBALL.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-football-za.png?raw=true" tvg-name="Supersport Football",Supersport Football
-https://zekonew.iosplayer.ru/zeko/premium56/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://zekonew.iosplayer.ru/zeko/premium56/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="GOLF.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-golf-za.png?raw=true" tvg-name="SuperSport Golf",SuperSport Golf
-https://zekonew.iosplayer.ru/zeko/premium422/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="GRANDSTAND.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-grandstand-za.png?raw=true" tvg-name="SuperSport Grandstand",SuperSport Grandstand
-https://zekonew.iosplayer.ru/zeko/premium412/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://zekonew.iosplayer.ru/zeko/premium422/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
+
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="LA.LIGA.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-laliga-za.png?raw=true" tvg-name="SuperSport LaLiga",SuperSport LaLiga
-https://ddy6new.iosplayer.ru/ddy6/premium415/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddy6new.iosplayer.ru/ddy6/premium415/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
+
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="MAXIMO.1.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-maximo1-za.png?raw=true" tvg-name="SuperSport MaXimo 1",SuperSport MaXimo 1
-https://dokko1new.iosplayer.ru/dokko1/premium572/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://dokko1new.iosplayer.ru/dokko1/premium572/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
+
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="MOTORSPORT.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-motorsport-za.png?raw=true" tvg-name="SuperSport Motorsport",SuperSport Motorsport
-https://zekonew.iosplayer.ru/zeko/premium424/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://zekonew.iosplayer.ru/zeko/premium424/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="SS.Premier.League.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-premier-league-za.png?raw=true" tvg-name="SuperSport Premier league",SuperSport Premier league
-https://ddy6new.iosplayer.ru/ddy6/premium414/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddy6new.iosplayer.ru/ddy6/premium414/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="PSL.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-psl-za.png?raw=true" tvg-name="SuperSport PSL",SuperSport PSL
-https://zekonew.iosplayer.ru/zeko/premium413/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://zekonew.iosplayer.ru/zeko/premium413/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="RUGBY.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-rugby-za.png?raw=true" tvg-name="SuperSport Rugby",SuperSport Rugby
-https://zekonew.iosplayer.ru/zeko/premium421/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://zekonew.iosplayer.ru/zeko/premium421/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="TENNIS.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-tennis-za.png?raw=true" tvg-name="SuperSport Tennis",SuperSport Tennis
-https://zekonew.iosplayer.ru/zeko/premium423/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://zekonew.iosplayer.ru/zeko/premium423/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="VARIETY.1.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety1-za.png?raw=true" tvg-name="SuperSport Variety 1",SuperSport Variety 1
-https://zekonew.iosplayer.ru/zeko/premium416/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://zekonew.iosplayer.ru/zeko/premium416/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="VARIETY.2.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety2-za.png?raw=true" tvg-name="SuperSport Variety 2",SuperSport Variety 2
-https://windnew.iosplayer.ru/wind/premium417/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://windnew.iosplayer.ru/wind/premium417/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="VARIETY.3.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety3-za.png?raw=true" tvg-name="SuperSport Variety 3",SuperSport Variety 3
-https://ddy6new.iosplayer.ru/ddy6/premium418/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://ddy6new.iosplayer.ru/ddy6/premium418/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="VARIETY.4.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety4-za.png?raw=true" tvg-name="SuperSport Variety 4",SuperSport Variety 4
-https://zekonew.iosplayer.ru/zeko/premium419/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://zekonew.iosplayer.ru/zeko/premium419/mono.m3u8|Referer=https://cookiewebplay.xyz/
+
+
 
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="The.Tennis.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" tvg-name="Tennis Channel",Tennis Channel
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
