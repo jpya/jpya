@@ -8656,3 +8656,9 @@ eventos disney plus
 http://francope.elementfx.com/disney/
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ea5121a9e3552ca221b5ad04f7f9631:0a4c2c76e86f11e71f3365b1b54fcaf9
+#EXTINF:-1 group-title="Argentina" tvg-id="[EXTTV] Extra! TV", tvg-logo="https://i.ibb.co/BLpHBq6/extra.png", EXTRA TV
+#EXTVLCOPT:http-origin=https://www.telecentroplay.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://m.mtd.llc:2082/extratv/index_fkr.mpd?|origin=https://www.telecentroplay.com.ar
