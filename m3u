@@ -6,26 +6,7 @@
 --------------------------------------------------------------------------------------------------
 
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="...SENSA",⚽   ESPN PREMIUM 
-https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd
 
-
-
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="...SENSA",⚽   TNT SPORTS 
-https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
 
 
 
@@ -39,42 +20,4 @@ https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
 #EXTINF:-1   group-logo="https://www.sensa.com.ar/images/logo_sensa_nav.png"    tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="...SENSA",#️⃣  EL TRECE 
 https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="...SENSA",#️⃣  EL NUEVE 
-https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=ZTk3YzJjYzUtZjhhMy00NzExLTgzMjYtNDc1MTZmODY2Yjc0
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="...SENSA",#️⃣  AMERICA 
-https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
-
-
-
-
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="...SENSA",#️⃣  TELEFE  
-https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="...SENSA",#️⃣  TV PUBLICA 
-https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
