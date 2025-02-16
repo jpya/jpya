@@ -2,10 +2,7 @@
 
 
 
-#EXTINF:-1    group-logo="https://magistv-pro.net/wp-content/uploads/2024/05/magis-tv-pro.png"  group-title="MAGIS TV" tvg-logo="https://seeklogo.com/images/A/atv-logo-D6D16EB2D1-seeklogo.com.png" ,#️⃣ ATV
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a04a/index.m3u8
+
 
 
 
