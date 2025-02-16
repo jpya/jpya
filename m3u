@@ -28,47 +28,22 @@ http://181.78.27.128:8000/play/a055/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a04o/index.m3u8
 
-
-
-
-
-
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Logo_Zona_Latina_2023.png/revision/latest/scale-to-width-down/236?cb=20230823211245&path-prefix=es"  ,#️⃣ Zona Latina
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a01m/index.m3u8
-
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://pbs.twimg.com/profile_images/1572191556945285120/gezEdSuT_400x400.jpg"  ,#️⃣ Gen_Py
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a05n/index.m3u8
-
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/2000px-Globo_logo_and_wordmark.svg.png"  ,#️⃣ Globo Brasil
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a068/index.m3u8
-
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQos4sPY4V4F_pVaMTj5TOekiBcwKqsWjPVdQ&s"  ,#️⃣ Panamericana TV
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a049/index.m3u8
-
-
 #EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png"  ,#️⃣ SNT
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05t/index.m3u8
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png"  ,#️⃣   Telefe Arg
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="-"  ,#️⃣   Discovery Turbo
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05x/index.m3u8
 
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9nWSQ2YMAILdGsvVwbUqU-AUVSdseMgSZg&s"  ,#️⃣ Trece
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a05w/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Albavisi%C3%B3n.png"  ,#️⃣ Canal AlbNET
 #EXTVLCOPT:network-caching=1500
