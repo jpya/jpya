@@ -13,6 +13,11 @@ http://181.209.95.29:8000/play/a0a9/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="MAGIS TV",    ESPN Premium 
+http://181.13.173.86:8000/play/a078/index.m3u8
+
+
+
 
 #EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJFnYypcCifV4uGjQ7qVHBnaiVJLnOo18b5o6heeVQSb9yM19osnTKFqOnG7SdWfdpdlg&usqp=CAU"  ,#️⃣ Abc Tv
 #EXTVLCOPT:network-caching=1500
