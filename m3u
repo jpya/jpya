@@ -3,45 +3,17 @@
 
 
 
-
-
-
 #EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJFnYypcCifV4uGjQ7qVHBnaiVJLnOo18b5o6heeVQSb9yM19osnTKFqOnG7SdWfdpdlg&usqp=CAU"  ,#️⃣ Abc Tv
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05r/index.m3u8
-
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png"  ,#️⃣   America TV
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a05z/index.m3u8
-
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png"  ,#️⃣   America TV internacional
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a04f/index.m3u8
-
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVOsfWUr5wWQiiTPLrlFneyk4DMtTNlS-U6g&s"  ,#️⃣ C9n
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a05s/index.m3u8
-
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Am%C3%A9rica_Televisi%C3%B3n_2016.svg/revision/latest/scale-to-width-down/175?cb=20240207225027&path-prefix=es"  ,#️⃣   AmericaTV
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a048/index.m3u8
-
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXTFMbStnL4uHOCk2wdfst7lUIY6xFDebtRA&s"  ,#️⃣ E40
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/800px-Logo_del_canal_Encuentro.svg.png"  ,#️⃣   ENCUENTRO HD
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a04t/index.m3u8
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png"  ,#️⃣   El Trece Arg
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="-"  ,#️⃣   Discovery Cha
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05y/index.m3u8
@@ -55,6 +27,10 @@ http://181.78.27.128:8000/play/a055/index.m3u8
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a04o/index.m3u8
+
+
+
+
 
 
 #EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Logo_Zona_Latina_2023.png/revision/latest/scale-to-width-down/236?cb=20230823211245&path-prefix=es"  ,#️⃣ Zona Latina
