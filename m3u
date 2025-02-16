@@ -38,28 +38,12 @@ http://181.78.27.128:8000/play/a05t/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05x/index.m3u8
 
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Albavisi%C3%B3n.png"  ,#️⃣ Canal AlbNET
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05p/index.m3u8
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es"  ,#️⃣ Latina
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a047/index.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-UG4AWh5Z629R8faO00lu4KDsci26i9Z9wtKu0nq2eeTL1ev-12pVkEw3_3yRzKmkqUWzfuse87aOS8wWiTGtM0x84p2BJ6BC-KBBr5dsqW333rGqOxLq3kL8fpQqQ2QBtdjnSdxvSS7brGMyf3YbZBypavCdKZDXtb1ndVxKghGf7XV1EhhgH4gf/s158/canal-e.webp"  ,CANAL E
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="h-"  ,AMC
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a04w/index.m3u8
@@ -74,10 +58,13 @@ http://181.78.27.128:8000/play/a04r/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a04k/index.m3u8
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png"  ,c5n
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="-"  ,Cinecanal
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a061/index.m3u8
+
+
+
 
 
 
