@@ -15,3 +15,19 @@ http://181.78.27.128:8000/play/a05r/index.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png" group-title=".TV DOS"  ,|UNIVERSAL CINEMA HD
+http://138.59.227.7:45888/play/a05x/index.m3u8
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png" group-title=".TV DOS"  ,|UNIVERSAL COMEDY HD
+http://138.59.227.7:45888/play/a05v/index.m3u8
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png" group-title=".TV DOS"  ,|UNIVERSAL CRIME HD
+http://138.59.227.7:45888/play/a05w/index.m3u8
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/160/160/0/0/62685863076950.png" group-title=".TV DOS"  ,|UNIVERSAL PREMIERE HD
+http://138.59.227.7:45888/play/a05y/index.m3u8
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/160/160/0/0/24764893076951.png" group-title=".TV DOS"  ,|UNIVERSAL REALITY HD
+http://138.59.227.7:45888/play/a05z/index.m3u8
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/160/160/0/0/14633187073787.png"  group-title=".TV DOS"  ,|WARNER HD
+http://138.59.227.7:45888/play/a07o/index.m3u8
+
+
+
+
