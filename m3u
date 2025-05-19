@@ -20,7 +20,7 @@ http://magmaplayer.com/stream/m3u8/ZwH4KmRlAy8kBGRhBGxhZmRhAmAsZGp0ZmNm/hls/126.
 #EXTVLCOPT:http-header="Connection=Keep-Alive"
 http://magmaplayer.com/stream/m3u8/ZwH4KmRlAy8kBGRhBGxhZmRhAmAsZGp0ZmNm/hls/125.m3u8
 
-#EXTINF:-1 tvg-id="movistardeportes" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://i.ibb.co/RTpXZ9RK/caracol-television-2017-logo.png" group-title="DISH DEPORTES",2
+#EXTINF:-1 tvg-id="movistardeportes" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png" group-title="DISH DEPORTES",DIRECTV SPORTS
 #EXTVLCOPT:http-user-agent=Magma Player/8
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:http-header="X-Hash=UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw"
@@ -28,8 +28,39 @@ http://magmaplayer.com/stream/m3u8/ZwH4KmRlAy8kBGRhBGxhZmRhAmAsZGp0ZmNm/hls/125.
 #EXTVLCOPT:http-header="X-Version=8/1.0.7"
 #EXTVLCOPT:http-header="Accept-Encoding=gzip"
 #EXTVLCOPT:http-header="Connection=Keep-Alive"
-http://magmaplayer.com/stream/m3u8/ZwH4KmRlAy8kBGRhBGxhZmRhAmAsZGp0ZmNm/hls/124.m3u8
+http://magmaplayer.com/stream/m3u8/AwRkKmZlAS8kAmxhAwNhZwZ5YwVmKmR3AQDlAN/hls/324.m3u8
 
+#EXTINF:-1 tvg-id="movistardeportes" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png" group-title="DISH DEPORTES",DIRECT
+#EXTVLCOPT:http-user-agent=Magma Player/8
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-header="X-Hash=UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw"
+#EXTVLCOPT:http-header="X-Did=704b97090ad1fb5e"
+#EXTVLCOPT:http-header="X-Version=8/1.0.7"
+#EXTVLCOPT:http-header="Accept-Encoding=gzip"
+#EXTVLCOPT:http-header="Connection=Keep-Alive"
+http://magmaplayer.com/stream/m3u8/AwRkKmZlAS8kAmxhAwNhZwZ5YwVmKmR3AQDlAN/hls/304.m3u8
+
+
+#EXTINF:-1 tvg-id="movistardeportes" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png" group-title="DISH DEPORTES",DIRE
+#EXTVLCOPT:http-user-agent=Magma Player/8
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-header="X-Hash=UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw"
+#EXTVLCOPT:http-header="X-Did=704b97090ad1fb5e"
+#EXTVLCOPT:http-header="X-Version=8/1.0.7"
+#EXTVLCOPT:http-header="Accept-Encoding=gzip"
+#EXTVLCOPT:http-header="Connection=Keep-Alive"
+http://magmaplayer.com/stream/m3u8/AwRkKmZlAS8kAmxhAwNhZwZ5YwVmKmR3AQDlAN/hls/314.m3u8
+
+
+#EXTINF:-1 tvg-id="movistardeportes" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png" group-title="DISH DEPORTES",DI
+#EXTVLCOPT:http-user-agent=Magma Player/8
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-header="X-Hash=UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw"
+#EXTVLCOPT:http-header="X-Did=704b97090ad1fb5e"
+#EXTVLCOPT:http-header="X-Version=8/1.0.7"
+#EXTVLCOPT:http-header="Accept-Encoding=gzip"
+#EXTVLCOPT:http-header="Connection=Keep-Alive"
+http://magmaplayer.com/stream/m3u8/AwRkKmZlAS8kAmxhAwNhZwZ5YwVmKmR3AQDlAN/hls/174.m3u8
 
 
 
